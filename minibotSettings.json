@@ -1,10 +1,14 @@
 {
   "94777839446": {
     "callReject": "on",
-    "statusReply": "on"
+    "statusReply": "on",
+    "Typing":"off",
+    "Recording":"on"
   },
   "94777817578": {
     "callReject": "on",
-    "statusReply": "on"
+    "statusReply": "on",
+    "Typing":"off",
+    "Recording":"on"
   }
 }
