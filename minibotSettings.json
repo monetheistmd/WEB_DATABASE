@@ -3,12 +3,16 @@
     "callReject": "on",
     "statusReply": "on",
     "Typing":"off",
-    "Recording":"on"
+    "Recording":"on",
+    "statusReply":"on",
+    "statusReact":"❤️"
   },
   "94777817578": {
     "callReject": "on",
     "statusReply": "on",
     "Typing":"off",
-    "Recording":"on"
+    "Recording":"on",
+    "statusReply":"on",
+    "statusReact":"❤️"
   }
 }
