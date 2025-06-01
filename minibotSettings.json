@@ -197,11 +197,11 @@
       "updatedAt": "2025-06-01T13:23:24.409Z"
     },
     "201112304809": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
-      "action": "typing",
-      "emoji": "🔥",
-      "updatedAt": "2025-06-01T13:40:49.883Z"
+      "action": "off",
+      "emoji": "👻",
+      "updatedAt": "2025-06-01T15:46:11.867Z"
     },
     "201224301897": {
       "callReject": "on",
