@@ -640,9 +640,9 @@
     "967782526155": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "typing",
+      "action": "off",
       "emoji": "🤤",
-      "updatedAt": "2025-06-01T18:36:08.449Z"
+      "updatedAt": "2025-06-01T18:36:10.737Z"
     },
     "967781793187": {
       "callReject": "on",
