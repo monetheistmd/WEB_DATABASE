@@ -317,10 +317,10 @@
     },
     "201554752482": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "🥰",
-      "updatedAt": "2025-06-01T14:46:08.856Z"
+      "statusReply": "off",
+      "action": "recording",
+      "emoji": "🐥",
+      "updatedAt": "2025-06-01T20:18:03.868Z"
     },
     "84779712770": {
       "callReject": "off",
