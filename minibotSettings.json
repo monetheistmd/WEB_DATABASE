@@ -680,11 +680,11 @@
       "updatedAt": "2025-06-01T11:39:45.638Z"
     },
     "967782387985": {
-      "callReject": "off",
-      "statusReply": "off",
-      "action": "off",
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
       "emoji": "💯",
-      "updatedAt": "2025-06-01T11:39:57.953Z"
+      "updatedAt": "2025-06-01T11:40:05.475Z"
     }
   }
 }
