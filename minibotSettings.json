@@ -456,11 +456,11 @@
       "updatedAt": "2025-06-01T15:45:17.927Z"
     },
     "201278432007": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
-      "action": "typing",
+      "action": "off",
       "emoji": "💚",
-      "updatedAt": "2025-06-01T15:45:13.774Z"
+      "updatedAt": "2025-06-01T15:45:22.769Z"
     }
   }
 }
