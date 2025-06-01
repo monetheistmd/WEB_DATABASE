@@ -416,9 +416,9 @@
     "447893932118": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
+      "action": "off",
       "emoji": "💀",
-      "updatedAt": "2025-06-01T15:38:42.910Z"
+      "updatedAt": "2025-06-01T16:36:35.810Z"
     },
     "94770895537": {
       "callReject": "on",
