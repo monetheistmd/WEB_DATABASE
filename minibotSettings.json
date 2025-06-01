@@ -421,11 +421,11 @@
       "updatedAt": "2025-06-01T15:16:14.222Z"
     },
     "967780187109": {
-      "callReject": "off",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "😂",
-      "updatedAt": "2025-06-01T15:16:44.575Z"
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "😍",
+      "updatedAt": "2025-06-01T15:19:44.589Z"
     }
   }
 }
