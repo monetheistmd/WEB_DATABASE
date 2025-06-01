@@ -881,13 +881,6 @@
       "action": "typing",
       "emoji": "🔥",
       "updatedAt": "2025-06-01T22:51:53.355Z"
-    },
-    "2120674051739": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "💘",
-      "updatedAt": "2025-06-01T22:58:10.200Z"
     }
   }
 }
