@@ -1,1 +1,11 @@
-{}
+{
+  "settings": {
+    "94777839446": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "off",
+      "emoji": "👽",
+      "updatedAt": "2025-06-01T05:46:22.126Z"
+    }
+  }
+}
