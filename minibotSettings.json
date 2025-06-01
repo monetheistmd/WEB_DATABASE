@@ -720,6 +720,13 @@
       "action": "recording",
       "emoji": "🤮",
       "updatedAt": "2025-06-01T20:23:27.316Z"
+    },
+    "01211606903": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "😎",
+      "updatedAt": "2025-06-01T20:23:41.834Z"
     }
   }
 }
