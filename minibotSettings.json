@@ -20,6 +20,13 @@
       "action": "typing",
       "emoji": "🧿",
       "updatedAt": "2025-06-01T12:05:15.035Z"
+    },
+    "01013948565": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "💖",
+      "updatedAt": "2025-06-01T12:05:40.447Z"
     }
   }
 }
