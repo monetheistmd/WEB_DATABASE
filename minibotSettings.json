@@ -27,6 +27,13 @@
       "action": "typing",
       "emoji": "🤡",
       "updatedAt": "2025-06-01T07:15:51.442Z"
+    },
+    "+94704690608": {
+      "callReject": "off",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🙂",
+      "updatedAt": "2025-06-01T07:16:07.343Z"
     }
   }
 }
