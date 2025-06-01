@@ -160,20 +160,6 @@
       "action": "recording",
       "emoji": "💖",
       "updatedAt": "2025-06-01T12:42:34.935Z"
-    },
-    "94076991025": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "💔",
-      "updatedAt": "2025-06-01T12:44:02.846Z"
-    },
-    "201060440412": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "💚",
-      "updatedAt": "2025-06-01T12:45:22.960Z"
     }
   }
 }
