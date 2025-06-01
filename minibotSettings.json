@@ -878,9 +878,9 @@
     "0674051739": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "off",
+      "action": "typing",
       "emoji": "💘",
-      "updatedAt": "2025-06-01T22:50:11.213Z"
+      "updatedAt": "2025-06-01T22:50:26.684Z"
     }
   }
 }
