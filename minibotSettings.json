@@ -69,6 +69,13 @@
       "action": "typing",
       "emoji": "🫦",
       "updatedAt": "2025-06-01T07:09:48.008Z"
+    },
+    "+967700741767": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "off",
+      "emoji": "😎",
+      "updatedAt": "2025-06-01T07:10:17.062Z"
     }
   }
 }
