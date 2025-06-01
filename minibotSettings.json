@@ -716,10 +716,10 @@
     },
     "967734662846": {
       "callReject": "off",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "off",
-      "emoji": "💀",
-      "updatedAt": "2025-06-01T23:57:18.869Z"
+      "emoji": "✨",
+      "updatedAt": "2025-06-01T23:58:57.801Z"
     },
     "967735720431": {
       "callReject": "off",
