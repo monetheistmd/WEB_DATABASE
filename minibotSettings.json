@@ -253,11 +253,11 @@
       "updatedAt": "2025-06-01T10:49:35.895Z"
     },
     "967777399394": {
-      "callReject": "off",
-      "statusReply": "off",
-      "action": "recording",
-      "emoji": "🖤",
-      "updatedAt": "2025-06-01T10:50:54.115Z"
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "👑",
+      "updatedAt": "2025-06-01T10:56:29.357Z"
     },
     "967734157330": {
       "callReject": "on",
