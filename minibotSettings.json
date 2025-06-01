@@ -862,11 +862,11 @@
       "updatedAt": "2025-06-01T23:09:58.793Z"
     },
     "967778574762": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "off",
       "action": "typing",
       "emoji": "🔥",
-      "updatedAt": "2025-06-01T23:27:34.578Z"
+      "updatedAt": "2025-06-01T23:27:39.041Z"
     }
   }
 }
