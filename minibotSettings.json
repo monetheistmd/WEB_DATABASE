@@ -202,6 +202,13 @@
       "action": "typing",
       "emoji": "👽",
       "updatedAt": "2025-06-01T10:27:40.259Z"
+    },
+    "0728475048": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "🔥",
+      "updatedAt": "2025-06-01T10:29:32.021Z"
     }
   }
 }
