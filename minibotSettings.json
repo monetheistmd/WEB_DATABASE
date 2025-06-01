@@ -90,6 +90,13 @@
       "action": "recording",
       "emoji": "🐤",
       "updatedAt": "2025-06-01T07:22:33.299Z"
+    },
+    "+94778748789": {
+      "callReject": "off",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "👍",
+      "updatedAt": "2025-06-01T07:23:48.811Z"
     }
   }
 }
