@@ -55,6 +55,13 @@
       "action": "recording",
       "emoji": "💀",
       "updatedAt": "2025-06-01T12:09:46.507Z"
+    },
+    "0712859342": {
+      "callReject": "off",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🔥",
+      "updatedAt": "2025-06-01T12:11:47.995Z"
     }
   }
 }
