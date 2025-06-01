@@ -302,11 +302,11 @@
       "updatedAt": "2025-06-01T10:43:28.959Z"
     },
     "2001096116579": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
-      "action": "typing",
-      "emoji": "🤔",
-      "updatedAt": "2025-06-01T10:45:36.536Z"
+      "action": "off",
+      "emoji": "👀",
+      "updatedAt": "2025-06-01T10:45:52.747Z"
     }
   }
 }
