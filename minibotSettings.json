@@ -259,26 +259,12 @@
       "emoji": "💖",
       "updatedAt": "2025-06-01T13:19:35.298Z"
     },
-    "94743623094": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "😊",
-      "updatedAt": "2025-06-01T13:18:34.024Z"
-    },
     "967776223003": {
       "callReject": "on",
       "statusReply": "on",
       "action": "typing",
       "emoji": "🌹",
       "updatedAt": "2025-06-01T13:19:42.349Z"
-    },
-    "201098205341": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "💚",
-      "updatedAt": "2025-06-01T13:19:07.738Z"
     }
   }
 }
