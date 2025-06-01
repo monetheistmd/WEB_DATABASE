@@ -864,9 +864,9 @@
     "967778574762": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "typing",
+      "action": "off",
       "emoji": "🔥",
-      "updatedAt": "2025-06-01T23:27:39.041Z"
+      "updatedAt": "2025-06-01T23:27:42.863Z"
     }
   }
 }
