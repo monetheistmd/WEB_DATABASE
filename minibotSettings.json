@@ -491,11 +491,11 @@
       "updatedAt": "2025-06-01T16:06:33.278Z"
     },
     "963984328070": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
       "action": "typing",
       "emoji": "🔥",
-      "updatedAt": "2025-06-01T16:08:03.598Z"
+      "updatedAt": "2025-06-01T16:08:16.072Z"
     }
   }
 }
