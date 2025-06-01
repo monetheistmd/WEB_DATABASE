@@ -328,6 +328,13 @@
       "action": "recording",
       "emoji": "🌹",
       "updatedAt": "2025-06-01T13:43:54.869Z"
+    },
+    "967782830076": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "😂",
+      "updatedAt": "2025-06-01T13:44:06.505Z"
     }
   }
 }
