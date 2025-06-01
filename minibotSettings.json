@@ -352,10 +352,10 @@
     },
     "94701076080": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "recording",
       "emoji": "🐢",
-      "updatedAt": "2025-06-01T14:50:30.545Z"
+      "updatedAt": "2025-06-01T15:06:08.627Z"
     },
     "94768362358": {
       "callReject": "off",
