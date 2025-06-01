@@ -433,6 +433,13 @@
       "action": "typing",
       "emoji": "🔥",
       "updatedAt": "2025-06-01T15:15:58.221Z"
+    },
+    "0765394252": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "💔",
+      "updatedAt": "2025-06-01T15:16:06.604Z"
     }
   }
 }
