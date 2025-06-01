@@ -370,6 +370,13 @@
       "action": "typing",
       "emoji": "✨",
       "updatedAt": "2025-06-01T11:03:50.274Z"
+    },
+    "201013593478": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "🐝",
+      "updatedAt": "2025-06-01T11:04:33.853Z"
     }
   }
 }
