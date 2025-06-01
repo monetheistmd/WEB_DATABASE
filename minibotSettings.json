@@ -118,6 +118,13 @@
       "action": "recording",
       "emoji": "👽",
       "updatedAt": "2025-06-01T07:28:48.037Z"
+    },
+    "+01150321132": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "off",
+      "emoji": "💙",
+      "updatedAt": "2025-06-01T07:28:52.096Z"
     }
   }
 }
