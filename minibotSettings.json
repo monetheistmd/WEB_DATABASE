@@ -783,6 +783,13 @@
       "action": "typing",
       "emoji": "😍",
       "updatedAt": "2025-06-01T22:01:00.569Z"
+    },
+    "967739389707": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "💔",
+      "updatedAt": "2025-06-01T22:07:30.665Z"
     }
   }
 }
