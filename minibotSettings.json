@@ -708,11 +708,11 @@
       "updatedAt": "2025-06-01T21:12:55.222Z"
     },
     "967717038087": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
       "action": "recording",
       "emoji": "😴",
-      "updatedAt": "2025-06-01T23:07:37.173Z"
+      "updatedAt": "2025-06-01T23:08:16.613Z"
     },
     "967716217459": {
       "callReject": "on",
