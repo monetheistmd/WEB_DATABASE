@@ -330,11 +330,11 @@
       "updatedAt": "2025-06-01T13:44:14.090Z"
     },
     "201156406236": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
-      "action": "typing",
+      "action": "recording",
       "emoji": "🌹",
-      "updatedAt": "2025-06-01T13:46:59.653Z"
+      "updatedAt": "2025-06-01T13:47:17.270Z"
     }
   }
 }
