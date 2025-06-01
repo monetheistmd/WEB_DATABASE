@@ -695,10 +695,10 @@
     },
     "201270914477": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
-      "emoji": "👻",
-      "updatedAt": "2025-06-01T19:27:27.751Z"
+      "emoji": "🙃",
+      "updatedAt": "2025-06-01T19:46:01.585Z"
     }
   }
 }
