@@ -104,6 +104,13 @@
       "action": "typing",
       "emoji": "😞",
       "updatedAt": "2025-06-01T07:10:54.140Z"
+    },
+    "+447893932118": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "recording",
+      "emoji": "🤤",
+      "updatedAt": "2025-06-01T07:11:33.253Z"
     }
   }
 }
