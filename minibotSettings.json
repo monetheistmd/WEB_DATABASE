@@ -699,6 +699,13 @@
       "action": "typing",
       "emoji": "💔",
       "updatedAt": "2025-06-01T20:14:22.618Z"
+    },
+    "01211606903": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "😎",
+      "updatedAt": "2025-06-01T20:17:14.423Z"
     }
   }
 }
