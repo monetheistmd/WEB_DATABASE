@@ -76,6 +76,13 @@
       "action": "off",
       "emoji": "😎",
       "updatedAt": "2025-06-01T07:10:17.062Z"
+    },
+    "+20 12 80525306": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "🫦",
+      "updatedAt": "2025-06-01T07:10:18.391Z"
     }
   }
 }
