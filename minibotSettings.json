@@ -69,6 +69,13 @@
       "action": "recording",
       "emoji": "🤍",
       "updatedAt": "2025-06-01T07:19:13.657Z"
+    },
+    "+94776748789": {
+      "callReject": "off",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "👍",
+      "updatedAt": "2025-06-01T07:20:16.841Z"
     }
   }
 }
