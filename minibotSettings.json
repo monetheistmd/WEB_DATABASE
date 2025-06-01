@@ -744,10 +744,10 @@
     },
     "201287440277": {
       "callReject": "off",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "off",
       "emoji": "🙈",
-      "updatedAt": "2025-06-01T21:18:15.189Z"
+      "updatedAt": "2025-06-01T21:19:20.557Z"
     }
   }
 }
