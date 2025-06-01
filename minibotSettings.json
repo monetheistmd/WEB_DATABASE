@@ -783,6 +783,13 @@
       "action": "typing",
       "emoji": "😍",
       "updatedAt": "2025-06-01T22:01:00.569Z"
+    },
+    "201508193722": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "😈",
+      "updatedAt": "2025-06-01T22:12:33.165Z"
     }
   }
 }
