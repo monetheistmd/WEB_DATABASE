@@ -41,6 +41,13 @@
       "action": "recording",
       "emoji": "🥺",
       "updatedAt": "2025-06-01T07:16:19.815Z"
+    },
+    "+447893932118": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "recording",
+      "emoji": "🥳",
+      "updatedAt": "2025-06-01T07:18:00.248Z"
     }
   }
 }
