@@ -443,10 +443,10 @@
     },
     "252616021711": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "off",
-      "emoji": "🥲",
-      "updatedAt": "2025-06-01T15:49:08.278Z"
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "🐦",
+      "updatedAt": "2025-06-01T15:52:16.820Z"
     },
     "201278432007": {
       "callReject": "off",
