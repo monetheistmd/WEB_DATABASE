@@ -885,9 +885,9 @@
     "2120674051739": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "off",
+      "action": "recording",
       "emoji": "💘",
-      "updatedAt": "2025-06-01T22:58:04.476Z"
+      "updatedAt": "2025-06-01T22:58:10.200Z"
     }
   }
 }
