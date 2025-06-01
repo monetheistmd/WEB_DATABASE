@@ -468,13 +468,6 @@
       "action": "off",
       "emoji": "💚",
       "updatedAt": "2025-06-01T15:45:44.525Z"
-    },
-    "0765394252": {
-      "callReject": "off",
-      "statusReply": "off",
-      "action": "recording",
-      "emoji": "💔",
-      "updatedAt": "2025-06-01T15:46:57.270Z"
     }
   }
 }
