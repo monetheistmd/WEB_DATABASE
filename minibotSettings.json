@@ -874,6 +874,13 @@
       "action": "typing",
       "emoji": "😡",
       "updatedAt": "2025-06-01T22:44:11.222Z"
+    },
+    "0674051739": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "💘",
+      "updatedAt": "2025-06-01T22:50:02.257Z"
     }
   }
 }
