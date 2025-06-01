@@ -737,10 +737,10 @@
     },
     "967735720431": {
       "callReject": "off",
-      "statusReply": "on",
-      "action": "typing",
+      "statusReply": "off",
+      "action": "recording",
       "emoji": "🔥",
-      "updatedAt": "2025-06-01T21:08:40.715Z"
+      "updatedAt": "2025-06-01T21:17:10.781Z"
     },
     "201287440277": {
       "callReject": "off",
