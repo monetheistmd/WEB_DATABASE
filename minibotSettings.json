@@ -442,11 +442,11 @@
       "updatedAt": "2025-06-01T16:06:33.278Z"
     },
     "967772445204": {
-      "callReject": "on",
-      "statusReply": "on",
+      "callReject": "off",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "🌹",
-      "updatedAt": "2025-06-01T16:11:10.636Z"
+      "updatedAt": "2025-06-01T19:35:47.441Z"
     },
     "27843122645": {
       "callReject": "on",
