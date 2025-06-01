@@ -456,11 +456,11 @@
       "updatedAt": "2025-06-01T15:46:55.429Z"
     },
     "252616021711": {
-      "callReject": "off",
-      "statusReply": "off",
-      "action": "typing",
-      "emoji": "🔥",
-      "updatedAt": "2025-06-01T15:48:43.266Z"
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "🥲",
+      "updatedAt": "2025-06-01T15:49:04.237Z"
     },
     "201278432007": {
       "callReject": "off",
