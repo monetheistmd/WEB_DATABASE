@@ -317,10 +317,10 @@
     },
     "201500737122": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "🌹",
-      "updatedAt": "2025-06-01T13:42:54.205Z"
+      "updatedAt": "2025-06-01T13:43:07.212Z"
     }
   }
 }
