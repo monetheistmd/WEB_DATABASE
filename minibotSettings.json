@@ -804,20 +804,6 @@
       "action": "off",
       "emoji": "👑",
       "updatedAt": "2025-06-01T22:25:00.954Z"
-    },
-    "213794554529": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "⚡",
-      "updatedAt": "2025-06-01T22:31:45.536Z"
-    },
-    "0201140786773": {
-      "callReject": "off",
-      "statusReply": "off",
-      "action": "off",
-      "emoji": "👑",
-      "updatedAt": "2025-06-01T22:32:37.378Z"
     }
   }
 }
