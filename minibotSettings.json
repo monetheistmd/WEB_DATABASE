@@ -589,11 +589,11 @@
       "updatedAt": "2025-06-01T11:27:39.573Z"
     },
     "967780727564": {
-      "callReject": "off",
-      "statusReply": "off",
-      "action": "typing",
-      "emoji": "🤔",
-      "updatedAt": "2025-06-01T11:28:55.485Z"
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "✨",
+      "updatedAt": "2025-06-01T11:31:10.313Z"
     },
     "967775124938": {
       "callReject": "on",
