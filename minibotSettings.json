@@ -458,9 +458,9 @@
     "27843122645": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
+      "action": "off",
       "emoji": "😢",
-      "updatedAt": "2025-06-01T18:37:17.199Z"
+      "updatedAt": "2025-06-01T18:37:21.654Z"
     },
     "967776156761": {
       "callReject": "off",
