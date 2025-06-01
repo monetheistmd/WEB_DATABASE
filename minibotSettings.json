@@ -90,6 +90,13 @@
       "action": "typing",
       "emoji": "👽",
       "updatedAt": "2025-06-01T12:13:25.297Z"
+    },
+    "01211999167": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "🤩",
+      "updatedAt": "2025-06-01T12:13:28.128Z"
     }
   }
 }
