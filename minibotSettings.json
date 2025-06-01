@@ -695,10 +695,10 @@
     },
     "967775999359": {
       "callReject": "off",
-      "statusReply": "off",
-      "action": "off",
+      "statusReply": "on",
+      "action": "recording",
       "emoji": "💯",
-      "updatedAt": "2025-06-01T19:13:17.550Z"
+      "updatedAt": "2025-06-01T19:15:57.714Z"
     }
   }
 }
