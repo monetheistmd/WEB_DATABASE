@@ -288,11 +288,11 @@
       "updatedAt": "2025-06-01T13:27:18.428Z"
     },
     "201112304809": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
       "action": "typing",
       "emoji": "💀",
-      "updatedAt": "2025-06-01T13:28:24.948Z"
+      "updatedAt": "2025-06-01T13:29:03.864Z"
     }
   }
 }
