@@ -414,11 +414,11 @@
       "updatedAt": "2025-06-01T15:46:55.429Z"
     },
     "252616021711": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
-      "emoji": "😋",
-      "updatedAt": "2025-06-01T16:11:14.186Z"
+      "action": "recording",
+      "emoji": "💔",
+      "updatedAt": "2025-06-01T18:10:10.414Z"
     },
     "252618978811": {
       "callReject": "off",
