@@ -834,11 +834,11 @@
       "updatedAt": "2025-06-01T23:24:34.014Z"
     },
     "967774532970": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
       "emoji": "🥲",
-      "updatedAt": "2025-06-01T23:47:55.837Z"
+      "updatedAt": "2025-06-01T23:48:21.769Z"
     },
     "966593405697": {
       "callReject": "off",
