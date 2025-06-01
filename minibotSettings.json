@@ -503,6 +503,13 @@
       "action": "typing",
       "emoji": "😎",
       "updatedAt": "2025-06-01T16:05:47.447Z"
+    },
+    "967715753343": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "🌟",
+      "updatedAt": "2025-06-01T16:05:52.842Z"
     }
   }
 }
