@@ -37,10 +37,10 @@
     },
     "94740085824": {
       "callReject": "off",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "recording",
-      "emoji": "🌈",
-      "updatedAt": "2025-06-01T11:28:43.947Z"
+      "emoji": "🫣",
+      "updatedAt": "2025-06-01T11:35:29.684Z"
     },
     "994409465694": {
       "callReject": "on",
