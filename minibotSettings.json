@@ -678,6 +678,13 @@
       "action": "recording",
       "emoji": "🐼",
       "updatedAt": "2025-06-01T18:16:40.818Z"
+    },
+    "967714240954": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "😍",
+      "updatedAt": "2025-06-01T18:17:25.714Z"
     }
   }
 }
