@@ -848,11 +848,11 @@
       "updatedAt": "2025-06-01T23:12:25.659Z"
     },
     "966593405697": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "😡",
-      "updatedAt": "2025-06-01T22:44:11.222Z"
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "🔥",
+      "updatedAt": "2025-06-01T23:18:55.066Z"
     },
     "966536227746": {
       "callReject": "on",
