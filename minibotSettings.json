@@ -379,11 +379,11 @@
       "updatedAt": "2025-06-01T11:04:39.721Z"
     },
     "01013593478": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
       "action": "recording",
       "emoji": "🌻",
-      "updatedAt": "2025-06-01T11:05:15.804Z"
+      "updatedAt": "2025-06-01T11:05:20.880Z"
     }
   }
 }
