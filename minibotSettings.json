@@ -190,11 +190,11 @@
       "updatedAt": "2025-06-01T13:23:24.409Z"
     },
     "201112304809": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
-      "action": "typing",
+      "action": "off",
       "emoji": "😈",
-      "updatedAt": "2025-06-01T16:04:22.331Z"
+      "updatedAt": "2025-06-01T16:04:29.023Z"
     },
     "201224301897": {
       "callReject": "on",
