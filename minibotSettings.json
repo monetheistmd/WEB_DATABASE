@@ -504,26 +504,12 @@
       "emoji": "🖤",
       "updatedAt": "2025-06-01T16:19:33.364Z"
     },
-    "966539799203": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "⚡",
-      "updatedAt": "2025-06-01T16:23:53.026Z"
-    },
     "967775562983": {
       "callReject": "on",
       "statusReply": "on",
       "action": "typing",
       "emoji": "🫠",
       "updatedAt": "2025-06-01T16:23:36.897Z"
-    },
-    "967780092457": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "⚡",
-      "updatedAt": "2025-06-01T16:24:08.910Z"
     }
   }
 }
