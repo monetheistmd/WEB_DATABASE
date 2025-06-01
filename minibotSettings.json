@@ -440,6 +440,13 @@
       "action": "typing",
       "emoji": "😂",
       "updatedAt": "2025-06-01T15:16:44.575Z"
+    },
+    "201211626146": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "🔥",
+      "updatedAt": "2025-06-01T15:17:09.438Z"
     }
   }
 }
