@@ -769,6 +769,13 @@
       "action": "off",
       "emoji": "🫶",
       "updatedAt": "2025-06-01T21:43:31.935Z"
+    },
+    "01204845213": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "🤫",
+      "updatedAt": "2025-06-01T21:43:42.552Z"
     }
   }
 }
