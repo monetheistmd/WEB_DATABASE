@@ -381,9 +381,9 @@
     "201211626146": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "typing",
+      "action": "recording",
       "emoji": "💤",
-      "updatedAt": "2025-06-01T14:25:05.012Z"
+      "updatedAt": "2025-06-01T14:25:09.542Z"
     }
   }
 }
