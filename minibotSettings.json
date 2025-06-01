@@ -97,6 +97,13 @@
       "action": "recording",
       "emoji": "🤩",
       "updatedAt": "2025-06-01T12:13:28.128Z"
+    },
+    "0701859796": {
+      "callReject": "off",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "👻",
+      "updatedAt": "2025-06-01T12:13:49.923Z"
     }
   }
 }
