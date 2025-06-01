@@ -570,9 +570,9 @@
     "967711257010": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
+      "action": "recording",
       "emoji": "😜",
-      "updatedAt": "2025-06-01T16:58:46.873Z"
+      "updatedAt": "2025-06-01T16:58:52.250Z"
     }
   }
 }
