@@ -682,9 +682,9 @@
     "967782387985": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "typing",
+      "action": "off",
       "emoji": "💯",
-      "updatedAt": "2025-06-01T11:39:55.726Z"
+      "updatedAt": "2025-06-01T11:39:57.953Z"
     }
   }
 }
