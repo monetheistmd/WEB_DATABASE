@@ -730,10 +730,10 @@
     },
     "201008223789": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
-      "emoji": "👻",
-      "updatedAt": "2025-06-01T20:28:17.857Z"
+      "emoji": "🔥",
+      "updatedAt": "2025-06-01T20:31:41.360Z"
     }
   }
 }
