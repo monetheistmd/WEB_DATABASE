@@ -104,6 +104,13 @@
       "action": "recording",
       "emoji": "👍",
       "updatedAt": "2025-06-01T07:23:58.172Z"
+    },
+    "+94 704400832": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "🖤",
+      "updatedAt": "2025-06-01T07:24:23.495Z"
     }
   }
 }
