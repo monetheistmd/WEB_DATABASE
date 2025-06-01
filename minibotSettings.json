@@ -1,12 +1,5 @@
 {
   "settings": {
-    "762667185": {
-      "callReject": "off",
-      "statusReply": "off",
-      "action": "off",
-      "emoji": "😎",
-      "updatedAt": "2025-06-01T12:12:20.844Z"
-    },
     "94704690608": {
       "callReject": "off",
       "statusReply": "on",
@@ -62,13 +55,6 @@
       "action": "recording",
       "emoji": "💀",
       "updatedAt": "2025-06-01T12:09:46.507Z"
-    },
-    "94702599612": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "😍",
-      "updatedAt": "2025-06-01T12:12:18.590Z"
     },
     "94703224891": {
       "callReject": "off",
