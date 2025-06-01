@@ -489,6 +489,13 @@
       "action": "off",
       "emoji": "🦋",
       "updatedAt": "2025-06-01T16:00:07.451Z"
+    },
+    "01140333607": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "🔥",
+      "updatedAt": "2025-06-01T16:00:08.183Z"
     }
   }
 }
