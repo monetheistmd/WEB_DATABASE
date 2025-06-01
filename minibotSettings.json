@@ -440,6 +440,13 @@
       "action": "recording",
       "emoji": "🥱",
       "updatedAt": "2025-06-01T15:22:17.861Z"
+    },
+    "967780455857": {
+      "callReject": "off",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "💔",
+      "updatedAt": "2025-06-01T15:22:25.639Z"
     }
   }
 }
