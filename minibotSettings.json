@@ -514,9 +514,9 @@
     "94728989580": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
+      "action": "off",
       "emoji": "🔥",
-      "updatedAt": "2025-06-01T16:30:33.963Z"
+      "updatedAt": "2025-06-01T16:30:38.139Z"
     }
   }
 }
