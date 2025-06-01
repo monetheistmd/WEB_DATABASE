@@ -710,9 +710,9 @@
     "967717038087": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
-      "emoji": "😡",
-      "updatedAt": "2025-06-01T22:40:08.921Z"
+      "action": "recording",
+      "emoji": "💔",
+      "updatedAt": "2025-06-01T22:54:17.489Z"
     },
     "967716217459": {
       "callReject": "on",
