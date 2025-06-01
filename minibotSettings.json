@@ -808,9 +808,9 @@
     "01013564172": {
       "callReject": "off",
       "statusReply": "on",
-      "action": "typing",
+      "action": "recording",
       "emoji": "🌹",
-      "updatedAt": "2025-06-01T22:34:14.509Z"
+      "updatedAt": "2025-06-01T22:34:24.471Z"
     }
   }
 }
