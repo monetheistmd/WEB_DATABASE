@@ -545,6 +545,13 @@
       "action": "recording",
       "emoji": "😂",
       "updatedAt": "2025-06-01T16:39:56.552Z"
+    },
+    "0761642019": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "off",
+      "emoji": "🔥",
+      "updatedAt": "2025-06-01T16:40:55.946Z"
     }
   }
 }
