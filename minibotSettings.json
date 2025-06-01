@@ -612,9 +612,9 @@
     "967782526155": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
+      "action": "off",
       "emoji": "🤤",
-      "updatedAt": "2025-06-01T19:29:44.892Z"
+      "updatedAt": "2025-06-01T19:52:21.175Z"
     },
     "967781793187": {
       "callReject": "off",
