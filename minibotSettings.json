@@ -484,11 +484,11 @@
       "updatedAt": "2025-06-01T15:59:27.066Z"
     },
     "01281205747": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "off",
       "action": "off",
       "emoji": "🦋",
-      "updatedAt": "2025-06-01T15:59:42.084Z"
+      "updatedAt": "2025-06-01T15:59:45.692Z"
     }
   }
 }
