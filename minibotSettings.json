@@ -48,6 +48,13 @@
       "action": "recording",
       "emoji": "💗",
       "updatedAt": "2025-06-01T08:29:53.810Z"
+    },
+    "94768424120": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "💔",
+      "updatedAt": "2025-06-01T08:35:16.546Z"
     }
   }
 }
