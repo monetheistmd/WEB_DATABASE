@@ -457,10 +457,10 @@
     },
     "27843122645": {
       "callReject": "on",
-      "statusReply": "off",
-      "action": "recording",
-      "emoji": "🤔",
-      "updatedAt": "2025-06-01T18:04:17.554Z"
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "😢",
+      "updatedAt": "2025-06-01T18:37:17.199Z"
     },
     "967776156761": {
       "callReject": "off",
