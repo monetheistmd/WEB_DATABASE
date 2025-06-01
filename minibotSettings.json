@@ -426,6 +426,13 @@
       "action": "recording",
       "emoji": "👑",
       "updatedAt": "2025-06-01T11:10:26.980Z"
+    },
+    "01091458564": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "⚡",
+      "updatedAt": "2025-06-01T11:10:45.437Z"
     }
   }
 }
