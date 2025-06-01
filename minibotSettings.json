@@ -510,6 +510,13 @@
       "action": "recording",
       "emoji": "😊",
       "updatedAt": "2025-06-01T16:19:04.989Z"
+    },
+    "967776156761": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "🖤",
+      "updatedAt": "2025-06-01T16:19:08.514Z"
     }
   }
 }
