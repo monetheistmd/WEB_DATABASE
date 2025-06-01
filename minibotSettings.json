@@ -505,11 +505,11 @@
       "updatedAt": "2025-06-01T16:14:28.165Z"
     },
     "963984328070": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
-      "action": "typing",
+      "action": "recording",
       "emoji": "😊",
-      "updatedAt": "2025-06-01T16:18:46.049Z"
+      "updatedAt": "2025-06-01T16:19:04.989Z"
     }
   }
 }
