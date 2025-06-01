@@ -734,6 +734,13 @@
       "action": "off",
       "emoji": "🔥",
       "updatedAt": "2025-06-01T20:24:15.991Z"
+    },
+    "201101466027": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "🔥",
+      "updatedAt": "2025-06-01T20:24:31.543Z"
     }
   }
 }
