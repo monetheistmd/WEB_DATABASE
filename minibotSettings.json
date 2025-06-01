@@ -337,11 +337,11 @@
       "updatedAt": "2025-06-01T14:02:58.768Z"
     },
     "94776021911": {
-      "callReject": "off",
-      "statusReply": "off",
-      "action": "recording",
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
       "emoji": "✨",
-      "updatedAt": "2025-06-01T14:06:36.293Z"
+      "updatedAt": "2025-06-01T14:06:58.144Z"
     },
     "94760839106": {
       "callReject": "on",
