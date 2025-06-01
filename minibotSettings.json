@@ -55,6 +55,13 @@
       "action": "typing",
       "emoji": "🔥",
       "updatedAt": "2025-06-01T12:07:40.260Z"
+    },
+    "967779615074": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🔥",
+      "updatedAt": "2025-06-01T12:07:49.008Z"
     }
   }
 }
