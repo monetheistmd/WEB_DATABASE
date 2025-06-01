@@ -639,10 +639,10 @@
     },
     "967782526155": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "🤤",
-      "updatedAt": "2025-06-01T18:31:47.236Z"
+      "updatedAt": "2025-06-01T18:36:06.605Z"
     },
     "967781793187": {
       "callReject": "on",
