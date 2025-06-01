@@ -475,6 +475,13 @@
       "action": "off",
       "emoji": "💗",
       "updatedAt": "2025-06-01T15:52:39.239Z"
+    },
+    "0765394252": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "🐶",
+      "updatedAt": "2025-06-01T15:55:44.106Z"
     }
   }
 }
