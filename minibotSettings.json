@@ -185,9 +185,9 @@
     "94762699712": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "recording",
-      "emoji": "💔",
-      "updatedAt": "2025-06-01T14:17:47.643Z"
+      "action": "off",
+      "emoji": "😊",
+      "updatedAt": "2025-06-01T14:19:21.698Z"
     },
     "94779407842": {
       "callReject": "on",
