@@ -549,9 +549,9 @@
     "01211626146": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
+      "action": "off",
       "emoji": "💤",
-      "updatedAt": "2025-06-01T11:21:16.328Z"
+      "updatedAt": "2025-06-01T11:21:27.307Z"
     }
   }
 }
