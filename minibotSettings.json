@@ -807,10 +807,10 @@
     },
     "201013948565": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "💖",
-      "updatedAt": "2025-06-01T22:35:39.899Z"
+      "updatedAt": "2025-06-01T22:51:01.632Z"
     },
     "967777987728": {
       "callReject": "on",
