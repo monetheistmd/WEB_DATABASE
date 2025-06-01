@@ -358,11 +358,11 @@
       "updatedAt": "2025-06-01T14:50:30.545Z"
     },
     "94768362358": {
-      "callReject": "on",
-      "statusReply": "on",
+      "callReject": "off",
+      "statusReply": "off",
       "action": "recording",
       "emoji": "🫶",
-      "updatedAt": "2025-06-01T14:52:14.353Z"
+      "updatedAt": "2025-06-01T14:56:35.745Z"
     },
     "201015868134": {
       "callReject": "off",
