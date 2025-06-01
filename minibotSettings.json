@@ -90,6 +90,13 @@
       "action": "recording",
       "emoji": "💗",
       "updatedAt": "2025-06-01T07:10:26.984Z"
+    },
+    "+201090195689": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "😞",
+      "updatedAt": "2025-06-01T07:10:27.448Z"
     }
   }
 }
