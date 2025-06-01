@@ -366,10 +366,10 @@
     },
     "201015868134": {
       "callReject": "off",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "🌟",
-      "updatedAt": "2025-06-01T14:38:37.320Z"
+      "updatedAt": "2025-06-01T14:46:09.471Z"
     },
     "201020994554": {
       "callReject": "on",
