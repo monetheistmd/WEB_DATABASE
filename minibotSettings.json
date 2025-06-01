@@ -755,6 +755,13 @@
       "action": "typing",
       "emoji": "👽",
       "updatedAt": "2025-06-01T21:36:09.650Z"
+    },
+    "01022532117": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "👽",
+      "updatedAt": "2025-06-01T21:36:16.525Z"
     }
   }
 }
