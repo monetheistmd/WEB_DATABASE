@@ -559,6 +559,13 @@
       "action": "typing",
       "emoji": "⚡",
       "updatedAt": "2025-06-01T17:12:15.450Z"
+    },
+    "94781498080": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "💔",
+      "updatedAt": "2025-06-01T17:13:49.733Z"
     }
   }
 }
