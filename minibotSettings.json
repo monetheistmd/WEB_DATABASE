@@ -433,6 +433,13 @@
       "action": "recording",
       "emoji": "🌹",
       "updatedAt": "2025-06-01T15:23:36.496Z"
+    },
+    "201211626146": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "😍",
+      "updatedAt": "2025-06-01T15:35:08.035Z"
     }
   }
 }
