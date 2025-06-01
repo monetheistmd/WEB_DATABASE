@@ -863,10 +863,10 @@
     },
     "967778574762": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "🔥",
-      "updatedAt": "2025-06-01T23:26:31.500Z"
+      "updatedAt": "2025-06-01T23:27:34.578Z"
     }
   }
 }
