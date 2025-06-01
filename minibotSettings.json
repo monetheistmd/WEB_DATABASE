@@ -449,11 +449,11 @@
       "updatedAt": "2025-06-01T15:43:48.373Z"
     },
     "967776989327": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
       "emoji": "🔥",
-      "updatedAt": "2025-06-01T15:44:16.543Z"
+      "updatedAt": "2025-06-01T15:44:23.700Z"
     },
     "0765394252": {
       "callReject": "off",
