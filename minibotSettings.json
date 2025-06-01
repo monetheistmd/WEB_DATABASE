@@ -827,11 +827,11 @@
       "updatedAt": "2025-06-01T22:41:26.895Z"
     },
     "967770090913": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "😡",
-      "updatedAt": "2025-06-01T22:42:06.286Z"
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "🔥",
+      "updatedAt": "2025-06-01T23:16:11.150Z"
     },
     "967736593173": {
       "callReject": "on",
