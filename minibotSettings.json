@@ -678,6 +678,13 @@
       "action": "typing",
       "emoji": "🤡",
       "updatedAt": "2025-06-01T18:42:29.424Z"
+    },
+    "01286234748": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "🌟",
+      "updatedAt": "2025-06-01T19:04:28.278Z"
     }
   }
 }
