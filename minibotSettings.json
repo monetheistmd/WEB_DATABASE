@@ -365,11 +365,11 @@
       "updatedAt": "2025-06-01T11:01:14.904Z"
     },
     "201204845213": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
       "action": "recording",
-      "emoji": "✨",
-      "updatedAt": "2025-06-01T11:08:07.524Z"
+      "emoji": "👀",
+      "updatedAt": "2025-06-01T11:12:52.373Z"
     },
     "201013593478": {
       "callReject": "on",
