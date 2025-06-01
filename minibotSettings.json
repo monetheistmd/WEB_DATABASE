@@ -1,5 +1,12 @@
 {
   "settings": {
+    "728475048": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "💖",
+      "updatedAt": "2025-06-01T10:30:09.507Z"
+    },
     "94704690608": {
       "callReject": "off",
       "statusReply": "on",
