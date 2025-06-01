@@ -398,6 +398,13 @@
       "action": "off",
       "emoji": "👍",
       "updatedAt": "2025-06-01T14:57:22.256Z"
+    },
+    "2001200722945": {
+      "callReject": "off",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "👻",
+      "updatedAt": "2025-06-01T14:58:29.102Z"
     }
   }
 }
