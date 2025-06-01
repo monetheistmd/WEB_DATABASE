@@ -757,11 +757,11 @@
       "updatedAt": "2025-06-01T22:20:00.739Z"
     },
     "201500737122": {
-      "callReject": "off",
-      "statusReply": "on",
+      "callReject": "on",
+      "statusReply": "off",
       "action": "typing",
-      "emoji": "🐍",
-      "updatedAt": "2025-06-01T21:43:53.557Z"
+      "emoji": "🌹",
+      "updatedAt": "2025-06-01T22:52:27.666Z"
     },
     "967776145620": {
       "callReject": "on",
