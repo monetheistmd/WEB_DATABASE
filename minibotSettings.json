@@ -205,10 +205,10 @@
     },
     "201224301897": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
+      "statusReply": "off",
+      "action": "typing",
       "emoji": "🔥",
-      "updatedAt": "2025-06-01T13:32:59.574Z"
+      "updatedAt": "2025-06-01T14:48:22.816Z"
     },
     "201552868640": {
       "callReject": "on",
