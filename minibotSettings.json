@@ -331,10 +331,10 @@
     },
     "967782830076": {
       "callReject": "on",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "typing",
       "emoji": "😂",
-      "updatedAt": "2025-06-01T13:44:15.782Z"
+      "updatedAt": "2025-06-01T13:44:19.566Z"
     },
     "201126192342": {
       "callReject": "on",
