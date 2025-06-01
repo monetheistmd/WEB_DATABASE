@@ -611,10 +611,10 @@
     },
     "967735665974": {
       "callReject": "off",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "off",
       "emoji": "💘",
-      "updatedAt": "2025-06-01T11:31:18.873Z"
+      "updatedAt": "2025-06-01T11:31:25.561Z"
     }
   }
 }
