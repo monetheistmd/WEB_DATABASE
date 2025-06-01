@@ -80,9 +80,9 @@
     "201287440277": {
       "callReject": "off",
       "statusReply": "on",
-      "action": "typing",
+      "action": "off",
       "emoji": "🙈",
-      "updatedAt": "2025-06-01T13:09:53.691Z"
+      "updatedAt": "2025-06-01T14:04:57.310Z"
     },
     "94772428748": {
       "callReject": "on",
