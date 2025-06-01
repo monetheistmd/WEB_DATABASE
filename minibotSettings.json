@@ -401,10 +401,10 @@
     },
     "2001200722945": {
       "callReject": "off",
-      "statusReply": "on",
-      "action": "typing",
+      "statusReply": "off",
+      "action": "off",
       "emoji": "👻",
-      "updatedAt": "2025-06-01T14:58:37.357Z"
+      "updatedAt": "2025-06-01T14:59:09.617Z"
     }
   }
 }
