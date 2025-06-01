@@ -132,6 +132,13 @@
       "action": "recording",
       "emoji": "🔞",
       "updatedAt": "2025-06-01T07:12:51.159Z"
+    },
+    "+967 735 049 835": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🚶",
+      "updatedAt": "2025-06-01T07:13:16.591Z"
     }
   }
 }
