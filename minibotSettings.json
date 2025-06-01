@@ -874,6 +874,13 @@
       "action": "typing",
       "emoji": "🔥",
       "updatedAt": "2025-06-01T23:19:44.499Z"
+    },
+    "967778574762": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🔥",
+      "updatedAt": "2025-06-01T23:21:11.541Z"
     }
   }
 }
