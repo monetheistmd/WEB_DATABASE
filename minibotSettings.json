@@ -610,11 +610,11 @@
       "updatedAt": "2025-06-01T17:31:52.018Z"
     },
     "967780455857": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
       "action": "typing",
       "emoji": "💖",
-      "updatedAt": "2025-06-01T17:35:39.626Z"
+      "updatedAt": "2025-06-01T17:35:43.820Z"
     }
   }
 }
