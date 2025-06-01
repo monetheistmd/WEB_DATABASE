@@ -125,6 +125,13 @@
       "action": "typing",
       "emoji": "😂",
       "updatedAt": "2025-06-01T07:12:30.589Z"
+    },
+    "+201280525306": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "🔞",
+      "updatedAt": "2025-06-01T07:12:35.158Z"
     }
   }
 }
