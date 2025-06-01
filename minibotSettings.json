@@ -113,11 +113,11 @@
       "updatedAt": "2025-06-01T07:24:27.588Z"
     },
     "+94 74 272 4495": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
       "emoji": "👽",
-      "updatedAt": "2025-06-01T07:28:48.037Z"
+      "updatedAt": "2025-06-01T07:28:57.686Z"
     },
     "+01150321132": {
       "callReject": "on",
