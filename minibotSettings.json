@@ -654,9 +654,9 @@
     "201040216032": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "typing",
+      "action": "off",
       "emoji": "🌟",
-      "updatedAt": "2025-06-01T18:43:36.132Z"
+      "updatedAt": "2025-06-01T18:54:37.068Z"
     },
     "94786395942": {
       "callReject": "on",
