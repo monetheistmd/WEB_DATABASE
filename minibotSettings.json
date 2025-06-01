@@ -804,6 +804,13 @@
       "action": "off",
       "emoji": "👑",
       "updatedAt": "2025-06-01T22:25:00.954Z"
+    },
+    "201013948565": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "💖",
+      "updatedAt": "2025-06-01T22:35:39.899Z"
     }
   }
 }
