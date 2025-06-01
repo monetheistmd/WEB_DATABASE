@@ -372,11 +372,11 @@
       "updatedAt": "2025-06-01T11:12:52.373Z"
     },
     "201013593478": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
-      "action": "typing",
-      "emoji": "🌈",
-      "updatedAt": "2025-06-01T11:10:06.854Z"
+      "action": "recording",
+      "emoji": "🐼",
+      "updatedAt": "2025-06-01T11:15:57.682Z"
     },
     "01013593478": {
       "callReject": "off",
