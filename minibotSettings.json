@@ -118,6 +118,13 @@
       "action": "recording",
       "emoji": "😍",
       "updatedAt": "2025-06-01T07:12:24.287Z"
+    },
+    "+94777817578": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "😂",
+      "updatedAt": "2025-06-01T07:12:30.589Z"
     }
   }
 }
