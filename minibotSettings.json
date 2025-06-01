@@ -660,10 +660,10 @@
     },
     "201040216032": {
       "callReject": "off",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "👀",
-      "updatedAt": "2025-06-01T18:15:30.896Z"
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "✨",
+      "updatedAt": "2025-06-01T18:39:00.843Z"
     },
     "94786395942": {
       "callReject": "on",
