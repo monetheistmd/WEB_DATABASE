@@ -519,11 +519,11 @@
       "updatedAt": "2025-06-01T11:18:25.422Z"
     },
     "201126946375": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
-      "action": "recording",
-      "emoji": "💯",
-      "updatedAt": "2025-06-01T11:20:02.166Z"
+      "action": "typing",
+      "emoji": "💓",
+      "updatedAt": "2025-06-01T11:21:12.865Z"
     },
     "201008223789": {
       "callReject": "on",
