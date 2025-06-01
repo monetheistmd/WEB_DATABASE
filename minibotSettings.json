@@ -668,9 +668,9 @@
     "201040216032": {
       "callReject": "off",
       "statusReply": "on",
-      "action": "typing",
+      "action": "recording",
       "emoji": "👀",
-      "updatedAt": "2025-06-01T18:15:10.669Z"
+      "updatedAt": "2025-06-01T18:15:30.896Z"
     }
   }
 }
