@@ -681,10 +681,10 @@
     },
     "967782387985": {
       "callReject": "off",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "💯",
-      "updatedAt": "2025-06-01T11:39:51.833Z"
+      "updatedAt": "2025-06-01T11:39:55.726Z"
     }
   }
 }
