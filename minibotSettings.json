@@ -468,6 +468,13 @@
       "action": "off",
       "emoji": "💚",
       "updatedAt": "2025-06-01T15:45:44.525Z"
+    },
+    "252618978811": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "off",
+      "emoji": "🥲",
+      "updatedAt": "2025-06-01T15:49:31.956Z"
     }
   }
 }
