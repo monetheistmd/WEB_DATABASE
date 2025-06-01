@@ -342,6 +342,13 @@
       "action": "off",
       "emoji": "👑",
       "updatedAt": "2025-06-01T14:02:58.768Z"
+    },
+    "94776021911": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "✨",
+      "updatedAt": "2025-06-01T14:05:57.557Z"
     }
   }
 }
