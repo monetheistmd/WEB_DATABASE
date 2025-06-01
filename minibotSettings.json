@@ -115,9 +115,9 @@
     "+94 74 272 4495": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "off",
+      "action": "recording",
       "emoji": "👽",
-      "updatedAt": "2025-06-01T07:28:57.686Z"
+      "updatedAt": "2025-06-01T07:29:00.889Z"
     },
     "+01150321132": {
       "callReject": "on",
