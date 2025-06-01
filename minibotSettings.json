@@ -584,9 +584,9 @@
     "967715753343": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "recording",
-      "emoji": "🤫",
-      "updatedAt": "2025-06-01T17:25:50.618Z"
+      "action": "typing",
+      "emoji": "🤔",
+      "updatedAt": "2025-06-01T17:30:28.462Z"
     },
     "201044880267": {
       "callReject": "off",
