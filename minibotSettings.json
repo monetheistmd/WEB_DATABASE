@@ -643,6 +643,13 @@
       "action": "recording",
       "emoji": "🥲",
       "updatedAt": "2025-06-01T11:33:20.229Z"
+    },
+    "201557008037": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "💀",
+      "updatedAt": "2025-06-01T11:33:48.633Z"
     }
   }
 }
