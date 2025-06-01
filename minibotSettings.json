@@ -451,9 +451,9 @@
     "967776989327": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "typing",
+      "action": "off",
       "emoji": "🔥",
-      "updatedAt": "2025-06-01T15:45:17.927Z"
+      "updatedAt": "2025-06-01T15:45:56.416Z"
     },
     "252616021711": {
       "callReject": "on",
