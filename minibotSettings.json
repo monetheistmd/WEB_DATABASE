@@ -48,6 +48,13 @@
       "action": "recording",
       "emoji": "🥳",
       "updatedAt": "2025-06-01T07:18:00.248Z"
+    },
+    "+25791352215": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "💋",
+      "updatedAt": "2025-06-01T07:18:16.899Z"
     }
   }
 }
