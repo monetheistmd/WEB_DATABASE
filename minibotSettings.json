@@ -745,9 +745,9 @@
     "967770074230": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "recording",
+      "action": "off",
       "emoji": "💀",
-      "updatedAt": "2025-06-01T21:40:49.678Z"
+      "updatedAt": "2025-06-01T21:49:19.660Z"
     },
     "201157473271": {
       "callReject": "on",
