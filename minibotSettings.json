@@ -114,10 +114,10 @@
     },
     "+94 74 272 4495": {
       "callReject": "on",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "recording",
       "emoji": "👽",
-      "updatedAt": "2025-06-01T07:28:35.064Z"
+      "updatedAt": "2025-06-01T07:28:38.588Z"
     }
   }
 }
