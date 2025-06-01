@@ -653,10 +653,10 @@
     },
     "201551637656": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
+      "statusReply": "off",
+      "action": "off",
       "emoji": "💘",
-      "updatedAt": "2025-06-01T19:08:50.591Z"
+      "updatedAt": "2025-06-01T20:12:08.718Z"
     },
     "967775999359": {
       "callReject": "off",
