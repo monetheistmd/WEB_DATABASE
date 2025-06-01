@@ -646,10 +646,10 @@
     },
     "967781793187": {
       "callReject": "off",
-      "statusReply": "on",
-      "action": "recording",
+      "statusReply": "off",
+      "action": "off",
       "emoji": "💔",
-      "updatedAt": "2025-06-01T18:39:52.268Z"
+      "updatedAt": "2025-06-01T18:41:26.510Z"
     },
     "967716146328": {
       "callReject": "off",
