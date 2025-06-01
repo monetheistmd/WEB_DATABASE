@@ -1,12 +1,5 @@
 {
   "settings": {
-    "716217459": {
-      "callReject": "off",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "😍",
-      "updatedAt": "2025-06-01T13:38:21.886Z"
-    },
     "94704690608": {
       "callReject": "on",
       "statusReply": "off",
@@ -111,13 +104,6 @@
       "action": "typing",
       "emoji": "💖",
       "updatedAt": "2025-06-01T12:32:39.332Z"
-    },
-    "967781865256": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "😈",
-      "updatedAt": "2025-06-01T12:31:25.244Z"
     },
     "967779483934": {
       "callReject": "off",
@@ -273,13 +259,6 @@
       "emoji": "🦄",
       "updatedAt": "2025-06-01T13:23:24.409Z"
     },
-    "201019251187": {
-      "callReject": "off",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "⚡",
-      "updatedAt": "2025-06-01T13:29:47.953Z"
-    },
     "201112304809": {
       "callReject": "on",
       "statusReply": "on",
@@ -308,13 +287,6 @@
       "emoji": "💘",
       "updatedAt": "2025-06-01T13:34:58.741Z"
     },
-    "201206766946": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "🤮",
-      "updatedAt": "2025-06-01T13:35:42.045Z"
-    },
     "94762145977": {
       "callReject": "off",
       "statusReply": "on",
@@ -328,13 +300,6 @@
       "action": "typing",
       "emoji": "🔥",
       "updatedAt": "2025-06-01T13:36:35.963Z"
-    },
-    "01032183099": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "🌟",
-      "updatedAt": "2025-06-01T13:37:24.313Z"
     }
   }
 }
