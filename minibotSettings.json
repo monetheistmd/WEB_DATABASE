@@ -363,6 +363,13 @@
       "action": "typing",
       "emoji": "😍",
       "updatedAt": "2025-06-01T14:31:39.350Z"
+    },
+    "01120590204": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "✨",
+      "updatedAt": "2025-06-01T14:32:35.484Z"
     }
   }
 }
