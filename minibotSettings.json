@@ -195,6 +195,13 @@
       "action": "typing",
       "emoji": "🔥",
       "updatedAt": "2025-06-01T12:57:20.740Z"
+    },
+    "201508384665": {
+      "callReject": "off",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "💗",
+      "updatedAt": "2025-06-01T12:59:09.654Z"
     }
   }
 }
