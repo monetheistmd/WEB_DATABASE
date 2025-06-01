@@ -764,11 +764,11 @@
       "updatedAt": "2025-06-01T21:43:25.467Z"
     },
     "201509059644": {
-      "callReject": "off",
-      "statusReply": "off",
+      "callReject": "on",
+      "statusReply": "on",
       "action": "off",
       "emoji": "🫶",
-      "updatedAt": "2025-06-01T21:43:31.935Z"
+      "updatedAt": "2025-06-01T21:45:03.927Z"
     },
     "01204845213": {
       "callReject": "on",
