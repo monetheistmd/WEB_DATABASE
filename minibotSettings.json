@@ -433,6 +433,13 @@
       "action": "recording",
       "emoji": "⚡",
       "updatedAt": "2025-06-01T11:10:57.900Z"
+    },
+    "94716717099": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "😎",
+      "updatedAt": "2025-06-01T11:10:59.626Z"
     }
   }
 }
