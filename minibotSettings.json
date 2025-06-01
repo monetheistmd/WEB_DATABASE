@@ -856,10 +856,10 @@
     },
     "966536227746": {
       "callReject": "on",
-      "statusReply": "off",
-      "action": "typing",
+      "statusReply": "on",
+      "action": "recording",
       "emoji": "🐥",
-      "updatedAt": "2025-06-01T23:12:23.208Z"
+      "updatedAt": "2025-06-01T23:14:06.347Z"
     },
     "94779885727": {
       "callReject": "off",
