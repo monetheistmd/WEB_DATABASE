@@ -772,10 +772,10 @@
     },
     "201110302249": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "😍",
-      "updatedAt": "2025-06-01T22:01:00.569Z"
+      "updatedAt": "2025-06-01T23:23:22.777Z"
     },
     "967736945946": {
       "callReject": "on",
