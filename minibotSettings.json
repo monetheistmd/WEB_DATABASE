@@ -601,6 +601,13 @@
       "action": "off",
       "emoji": "✨",
       "updatedAt": "2025-06-01T17:26:40.808Z"
+    },
+    "970595418595": {
+      "callReject": "off",
+      "statusReply": "on",
+      "action": "off",
+      "emoji": "🐥",
+      "updatedAt": "2025-06-01T17:27:06.547Z"
     }
   }
 }
