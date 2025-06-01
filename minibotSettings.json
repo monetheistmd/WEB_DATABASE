@@ -415,10 +415,10 @@
     },
     "254105084401": {
       "callReject": "on",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "typing",
       "emoji": "🔥",
-      "updatedAt": "2025-06-01T15:16:14.222Z"
+      "updatedAt": "2025-06-01T15:22:01.529Z"
     },
     "967780187109": {
       "callReject": "on",
