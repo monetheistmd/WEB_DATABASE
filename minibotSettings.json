@@ -632,10 +632,10 @@
     },
     "967781129883": {
       "callReject": "off",
-      "statusReply": "on",
-      "action": "typing",
+      "statusReply": "off",
+      "action": "off",
       "emoji": "💔",
-      "updatedAt": "2025-06-01T18:17:33.452Z"
+      "updatedAt": "2025-06-01T18:26:18.819Z"
     },
     "967782526155": {
       "callReject": "on",
