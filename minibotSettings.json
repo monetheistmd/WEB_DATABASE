@@ -608,6 +608,13 @@
       "action": "typing",
       "emoji": "😍",
       "updatedAt": "2025-06-01T11:30:21.804Z"
+    },
+    "967735665974": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "👽",
+      "updatedAt": "2025-06-01T11:30:50.162Z"
     }
   }
 }
