@@ -457,10 +457,10 @@
     },
     "201278432007": {
       "callReject": "off",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "off",
       "emoji": "💚",
-      "updatedAt": "2025-06-01T15:45:22.769Z"
+      "updatedAt": "2025-06-01T15:45:25.524Z"
     }
   }
 }
