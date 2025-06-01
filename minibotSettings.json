@@ -771,11 +771,11 @@
       "updatedAt": "2025-06-01T21:59:53.411Z"
     },
     "994400044004": {
-      "callReject": "on",
-      "statusReply": "on",
+      "callReject": "off",
+      "statusReply": "off",
       "action": "recording",
       "emoji": "😊",
-      "updatedAt": "2025-06-01T22:05:04.626Z"
+      "updatedAt": "2025-06-01T22:11:16.380Z"
     },
     "201110302249": {
       "callReject": "on",
