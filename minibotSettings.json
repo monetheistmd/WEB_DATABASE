@@ -722,11 +722,11 @@
       "updatedAt": "2025-06-01T23:21:35.013Z"
     },
     "967734662846": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "off",
-      "action": "typing",
-      "emoji": "😊",
-      "updatedAt": "2025-06-01T23:53:49.155Z"
+      "action": "off",
+      "emoji": "🔥",
+      "updatedAt": "2025-06-01T23:56:14.410Z"
     },
     "967735720431": {
       "callReject": "off",
