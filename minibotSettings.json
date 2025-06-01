@@ -71,11 +71,11 @@
       "updatedAt": "2025-06-01T12:13:05.043Z"
     },
     "972595418595": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
-      "action": "recording",
-      "emoji": "🐥",
-      "updatedAt": "2025-06-01T12:13:24.922Z"
+      "action": "off",
+      "emoji": "🌈",
+      "updatedAt": "2025-06-01T12:14:36.881Z"
     },
     "94789312357": {
       "callReject": "off",
