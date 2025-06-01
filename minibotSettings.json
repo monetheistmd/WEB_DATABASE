@@ -195,6 +195,13 @@
       "action": "typing",
       "emoji": "👑",
       "updatedAt": "2025-06-01T12:56:41.226Z"
+    },
+    "01211626146": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "😍",
+      "updatedAt": "2025-06-01T12:56:56.767Z"
     }
   }
 }
