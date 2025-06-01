@@ -204,11 +204,11 @@
       "updatedAt": "2025-06-01T15:12:14.195Z"
     },
     "201552868640": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
-      "action": "typing",
+      "action": "off",
       "emoji": "💘",
-      "updatedAt": "2025-06-01T13:34:58.741Z"
+      "updatedAt": "2025-06-01T16:07:20.317Z"
     },
     "94762145977": {
       "callReject": "off",
