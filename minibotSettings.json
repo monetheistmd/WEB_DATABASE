@@ -1,11 +1,11 @@
 {
   "settings": {
     "201019251187": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "on",
       "action": "typing",
       "emoji": "⚡",
-      "updatedAt": "2025-06-01T11:45:42.989Z"
+      "updatedAt": "2025-06-01T11:45:52.270Z"
     },
     "923083536016": {
       "callReject": "on",
