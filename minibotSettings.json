@@ -813,11 +813,11 @@
       "updatedAt": "2025-06-01T22:35:39.899Z"
     },
     "2120674051739": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
       "action": "typing",
       "emoji": "🌹",
-      "updatedAt": "2025-06-01T22:39:04.218Z"
+      "updatedAt": "2025-06-01T22:39:09.860Z"
     }
   }
 }
