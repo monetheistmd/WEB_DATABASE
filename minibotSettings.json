@@ -1192,12 +1192,12 @@
     },
     "201090478816": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "off",
+      "statusReply": "off",
+      "action": "typing",
       "emoji": "🔥",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-02T10:26:06.396Z"
+      "updatedAt": "2025-06-02T10:36:57.991Z"
     },
     "94770895537": {
       "callReject": "on",
