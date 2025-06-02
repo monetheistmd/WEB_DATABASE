@@ -151,9 +151,11 @@
     "201224301897": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "recording",
+      "action": "off",
       "emoji": "👑",
-      "updatedAt": "2025-06-02T03:31:53.554Z"
+      "statusSave": "on",
+      "online": "off",
+      "updatedAt": "2025-06-02T15:06:50.488Z"
     },
     "201552868640": {
       "callReject": "off",
