@@ -1128,11 +1128,11 @@
       "updatedAt": "2025-06-02T07:18:27.516Z"
     },
     "201004867829": {
-      "callReject": "off",
-      "statusReply": "off",
+      "callReject": "on",
+      "statusReply": "on",
       "action": "recording",
       "emoji": "🚀",
-      "updatedAt": "2025-06-02T07:29:47.056Z"
+      "updatedAt": "2025-06-02T07:29:50.648Z"
     }
   }
 }
