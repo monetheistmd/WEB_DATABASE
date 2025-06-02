@@ -1659,11 +1659,11 @@
     "201099523861": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
+      "action": "recording",
       "emoji": "🚀",
-      "statusSave": "off",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-02T16:24:44.264Z"
+      "updatedAt": "2025-06-02T16:24:51.119Z"
     }
   }
 }
