@@ -1,14 +1,5 @@
 {
   "settings": {
-    "792137602": {
-      "callReject": "on",
-      "statusReply": "off",
-      "action": "typing",
-      "emoji": "🔥",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-02T10:59:24.528Z"
-    },
     "94704690608": {
       "callReject": "on",
       "statusReply": "off",
@@ -1185,15 +1176,6 @@
       "online": "off",
       "updatedAt": "2025-06-02T10:03:27.790Z"
     },
-    "201204845213": {
-      "callReject": "off",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "🤤",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-02T10:09:09.898Z"
-    },
     "201099865281": {
       "callReject": "on",
       "statusReply": "off",
@@ -1310,24 +1292,6 @@
       "statusSave": "off",
       "online": "off",
       "updatedAt": "2025-06-02T11:00:11.103Z"
-    },
-    "01503952237": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "🔥",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-02T10:58:43.609Z"
-    },
-    "0702061351": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "💥",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-02T10:59:45.103Z"
     }
   }
 }
