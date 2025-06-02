@@ -1458,12 +1458,12 @@
     },
     "94767364189": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "💘",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-02T14:47:21.286Z"
+      "updatedAt": "2025-06-02T14:58:47.269Z"
     },
     "967784243922": {
       "callReject": "on",
