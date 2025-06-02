@@ -1798,11 +1798,11 @@
     "0531687939": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
-      "emoji": "😬",
+      "action": "off",
+      "emoji": "👿",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-02T18:59:10.950Z"
+      "updatedAt": "2025-06-02T18:59:22.968Z"
     }
   }
 }
