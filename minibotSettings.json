@@ -1295,11 +1295,11 @@
     "01091099025": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
+      "action": "recording",
       "emoji": "💖",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-02T11:18:59.152Z"
+      "updatedAt": "2025-06-02T11:19:07.256Z"
     }
   }
 }
