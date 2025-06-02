@@ -1812,6 +1812,15 @@
       "statusSave": "off",
       "online": "off",
       "updatedAt": "2025-06-02T19:32:09.058Z"
+    },
+    "94770875102": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "👍",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-02T19:32:35.345Z"
     }
   }
 }
