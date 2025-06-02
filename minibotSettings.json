@@ -1778,12 +1778,12 @@
     },
     "967779438666": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "😌",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-02T19:49:42.469Z"
+      "updatedAt": "2025-06-02T20:57:49.145Z"
     },
     "967715469149": {
       "callReject": "on",
