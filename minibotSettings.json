@@ -1058,11 +1058,11 @@
     "213794554529": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
-      "emoji": "🤡",
-      "statusSave": "on",
+      "action": "recording",
+      "emoji": "🌟",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-02T20:59:17.468Z"
+      "updatedAt": "2025-06-02T23:29:52.876Z"
     },
     "254757856882": {
       "callReject": "off",
