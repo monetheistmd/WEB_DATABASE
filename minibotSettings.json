@@ -1044,11 +1044,11 @@
       "updatedAt": "2025-06-02T02:43:59.891Z"
     },
     "01095194892": {
-      "callReject": "on",
-      "statusReply": "on",
+      "callReject": "off",
+      "statusReply": "off",
       "action": "recording",
       "emoji": "🙊",
-      "updatedAt": "2025-06-02T02:44:15.926Z"
+      "updatedAt": "2025-06-02T02:44:19.306Z"
     }
   }
 }
