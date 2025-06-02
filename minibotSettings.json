@@ -505,9 +505,9 @@
       "statusReply": "on",
       "action": "typing",
       "emoji": "😴",
-      "statusSave": "off",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-02T10:42:44.291Z"
+      "updatedAt": "2025-06-02T10:53:28.006Z"
     },
     "250791352215": {
       "callReject": "off",
