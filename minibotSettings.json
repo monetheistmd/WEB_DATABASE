@@ -1046,9 +1046,9 @@
     "01095194892": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
-      "emoji": "👻",
-      "updatedAt": "2025-06-02T02:44:08.559Z"
+      "action": "recording",
+      "emoji": "🙊",
+      "updatedAt": "2025-06-02T02:44:15.926Z"
     }
   }
 }
