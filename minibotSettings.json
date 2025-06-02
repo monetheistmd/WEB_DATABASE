@@ -777,10 +777,12 @@
     },
     "966536227746": {
       "callReject": "off",
-      "statusReply": "off",
-      "action": "off",
-      "emoji": "🐥",
-      "updatedAt": "2025-06-01T23:20:51.826Z"
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🔥",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-02T12:21:59.855Z"
     },
     "94779885727": {
       "callReject": "off",
