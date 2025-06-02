@@ -1063,6 +1063,13 @@
       "action": "off",
       "emoji": "👀",
       "updatedAt": "2025-06-02T04:46:19.760Z"
+    },
+    "967775153413": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "⚡",
+      "updatedAt": "2025-06-02T04:47:00.891Z"
     }
   }
 }
