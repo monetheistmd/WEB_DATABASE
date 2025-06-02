@@ -835,10 +835,10 @@
     },
     "201211626146": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
+      "statusReply": "off",
+      "action": "typing",
       "emoji": "⚡",
-      "updatedAt": "2025-06-02T02:24:16.594Z"
+      "updatedAt": "2025-06-02T04:11:25.757Z"
     },
     "967774387968": {
       "callReject": "on",
