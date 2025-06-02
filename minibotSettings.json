@@ -1112,6 +1112,13 @@
       "action": "off",
       "emoji": "🦁",
       "updatedAt": "2025-06-02T06:44:28.745Z"
+    },
+    "201119064311": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "😭",
+      "updatedAt": "2025-06-02T06:45:23.235Z"
     }
   }
 }
