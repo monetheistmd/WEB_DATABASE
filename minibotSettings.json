@@ -1196,12 +1196,12 @@
     },
     "201090478816": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "🔥",
-      "statusSave": "off",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "🎃",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-02T11:01:37.829Z"
+      "updatedAt": "2025-06-02T11:35:21.444Z"
     },
     "94770895537": {
       "callReject": "on",
