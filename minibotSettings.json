@@ -794,13 +794,13 @@
       "updatedAt": "2025-06-01T23:19:11.156Z"
     },
     "966536227746": {
-      "callReject": "off",
-      "statusReply": "on",
+      "callReject": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "🔥",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-02T12:22:39.061Z"
+      "updatedAt": "2025-06-02T15:08:25.687Z"
     },
     "94779885727": {
       "callReject": "off",
