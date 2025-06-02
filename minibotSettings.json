@@ -577,12 +577,12 @@
     },
     "252616021711": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "off",
       "emoji": "💔",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-02T12:48:46.680Z"
+      "updatedAt": "2025-06-02T12:50:47.611Z"
     },
     "201551637656": {
       "callReject": "on",
