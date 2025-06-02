@@ -1112,6 +1112,13 @@
       "action": "recording",
       "emoji": "👀",
       "updatedAt": "2025-06-02T06:22:56.631Z"
+    },
+    "94741779442": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "recording",
+      "emoji": "👻",
+      "updatedAt": "2025-06-02T06:23:17.128Z"
     }
   }
 }
