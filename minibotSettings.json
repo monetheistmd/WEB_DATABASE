@@ -1746,12 +1746,12 @@
     },
     "254111605223": {
       "callReject": "off",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "✨",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-02T18:21:31.994Z"
+      "updatedAt": "2025-06-02T18:45:25.089Z"
     },
     "201120559639": {
       "callReject": "off",
