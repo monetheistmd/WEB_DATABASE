@@ -443,11 +443,13 @@
       "updatedAt": "2025-06-01T16:53:01.145Z"
     },
     "94787389883": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
-      "action": "typing",
+      "action": "off",
       "emoji": "💀",
-      "updatedAt": "2025-06-01T16:50:21.579Z"
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-02T17:22:51.271Z"
     },
     "94742628032": {
       "callReject": "off",
