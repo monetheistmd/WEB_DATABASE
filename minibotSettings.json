@@ -1098,6 +1098,13 @@
       "action": "recording",
       "emoji": "🥰",
       "updatedAt": "2025-06-02T05:50:27.760Z"
+    },
+    "201501294671": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🔥",
+      "updatedAt": "2025-06-02T05:52:44.476Z"
     }
   }
 }
