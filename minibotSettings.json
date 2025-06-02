@@ -511,12 +511,12 @@
     },
     "967714875112": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "😴",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-02T10:53:28.006Z"
+      "updatedAt": "2025-06-02T18:44:29.883Z"
     },
     "250791352215": {
       "callReject": "off",
