@@ -1218,13 +1218,13 @@
       "updatedAt": "2025-06-02T10:26:11.163Z"
     },
     "94725459277": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "off",
-      "action": "recording",
-      "emoji": "🔥",
-      "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-02T11:54:51.461Z"
+      "action": "off",
+      "emoji": "⚡",
+      "statusSave": "on",
+      "online": "off",
+      "updatedAt": "2025-06-02T13:14:50.020Z"
     },
     "94787529520": {
       "callReject": "on",
