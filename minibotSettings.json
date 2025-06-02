@@ -1074,11 +1074,11 @@
       "updatedAt": "2025-06-02T07:08:51.382Z"
     },
     "254757856882": {
-      "callReject": "on",
-      "statusReply": "on",
+      "callReject": "off",
+      "statusReply": "off",
       "action": "recording",
-      "emoji": "🫣",
-      "updatedAt": "2025-06-02T07:18:27.516Z"
+      "emoji": "🫡",
+      "updatedAt": "2025-06-02T10:38:14.286Z"
     },
     "967776806781": {
       "callReject": "on",
