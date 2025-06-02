@@ -1752,24 +1752,6 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-02T18:21:31.994Z"
-    },
-    "967780455857": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "🦄",
-      "statusSave": "off",
-      "online": "off",
-      "updatedAt": "2025-06-02T18:35:31.786Z"
-    },
-    "01280347521": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "🔥",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-02T18:35:22.277Z"
     }
   }
 }
