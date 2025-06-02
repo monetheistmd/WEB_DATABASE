@@ -614,11 +614,11 @@
       "updatedAt": "2025-06-02T11:07:50.881Z"
     },
     "254755835054": {
-      "callReject": "on",
-      "statusReply": "on",
+      "callReject": "off",
+      "statusReply": "off",
       "action": "recording",
-      "emoji": "🫡",
-      "updatedAt": "2025-06-01T19:23:12.526Z"
+      "emoji": "🔥",
+      "updatedAt": "2025-06-02T17:02:11.571Z"
     },
     "201270914477": {
       "callReject": "off",
