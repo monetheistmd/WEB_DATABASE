@@ -1649,12 +1649,12 @@
     },
     "94729120202": {
       "callReject": "on",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "recording",
       "emoji": "👽",
-      "statusSave": "off",
-      "online": "off",
-      "updatedAt": "2025-06-02T16:18:51.939Z"
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-02T16:23:40.797Z"
     }
   }
 }
