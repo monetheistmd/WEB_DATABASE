@@ -1693,6 +1693,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-02T16:43:30.907Z"
+    },
+    "967776697208": {
+      "callReject": "off",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "👀",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-02T16:53:55.120Z"
     }
   }
 }
