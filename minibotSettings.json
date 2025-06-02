@@ -1617,10 +1617,10 @@
       "callReject": "off",
       "statusReply": "off",
       "action": "typing",
-      "emoji": "🤤",
+      "emoji": "💖",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-02T17:55:08.789Z"
+      "online": "off",
+      "updatedAt": "2025-06-02T21:48:33.290Z"
     },
     "201276629527": {
       "callReject": "on",
