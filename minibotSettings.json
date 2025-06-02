@@ -1710,6 +1710,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-02T17:16:09.771Z"
+    },
+    "967711110250": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "🌈",
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-02T17:16:54.702Z"
     }
   }
 }
