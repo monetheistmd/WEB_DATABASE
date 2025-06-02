@@ -1209,12 +1209,12 @@
     },
     "94725459277": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "recording",
       "emoji": "🔥",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-02T11:24:36.060Z"
+      "updatedAt": "2025-06-02T11:54:44.178Z"
     },
     "94787529520": {
       "callReject": "on",
