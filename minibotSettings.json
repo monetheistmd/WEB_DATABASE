@@ -1600,6 +1600,15 @@
       "action": "typing",
       "emoji": "🥰",
       "updatedAt": "2025-06-02T15:59:10.464Z"
+    },
+    "201122155495": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "💙",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-02T16:01:45.866Z"
     }
   }
 }
