@@ -1767,12 +1767,12 @@
     },
     "94765457354": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "recording",
       "emoji": "👀",
-      "statusSave": "off",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-02T17:24:52.714Z"
+      "updatedAt": "2025-06-02T17:25:07.334Z"
     }
   }
 }
