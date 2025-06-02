@@ -1310,6 +1310,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-02T10:58:43.609Z"
+    },
+    "0702061351": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "💥",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-02T10:58:53.755Z"
     }
   }
 }
