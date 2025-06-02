@@ -1052,10 +1052,10 @@
     },
     "94706619245": {
       "callReject": "off",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "🐢",
-      "updatedAt": "2025-06-02T04:38:14.781Z"
+      "updatedAt": "2025-06-02T04:38:21.065Z"
     }
   }
 }
