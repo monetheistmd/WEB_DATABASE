@@ -993,6 +993,13 @@
       "action": "typing",
       "emoji": "🧿",
       "updatedAt": "2025-06-02T01:41:18.177Z"
+    },
+    "01211626146": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "😢",
+      "updatedAt": "2025-06-02T01:42:12.044Z"
     }
   }
 }
