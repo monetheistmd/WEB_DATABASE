@@ -877,9 +877,11 @@
     "967781723857": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
-      "emoji": "😐",
-      "updatedAt": "2025-06-02T02:12:51.618Z"
+      "action": "recording",
+      "emoji": "😊",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-02T15:44:24.465Z"
     },
     "94703224891": {
       "callReject": "off",
