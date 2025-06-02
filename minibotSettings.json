@@ -1160,6 +1160,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-02T09:52:02.087Z"
+    },
+    "01204845213": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "😋",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-02T09:53:11.182Z"
     }
   }
 }
