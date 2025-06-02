@@ -604,11 +604,13 @@
       "updatedAt": "2025-06-02T17:03:31.216Z"
     },
     "201270914477": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "off",
       "action": "typing",
-      "emoji": "🙃",
-      "updatedAt": "2025-06-01T19:48:34.990Z"
+      "emoji": "💀",
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-02T20:29:34.829Z"
     },
     "923137032134": {
       "callReject": "off",
