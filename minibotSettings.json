@@ -1480,12 +1480,12 @@
     },
     "94788644256": {
       "callReject": "on",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "recording",
-      "emoji": "🙈",
+      "emoji": "😍",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-02T16:33:13.196Z"
+      "updatedAt": "2025-06-02T16:43:33.114Z"
     },
     "201284801952": {
       "callReject": "on",
