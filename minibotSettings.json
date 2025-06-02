@@ -1737,6 +1737,15 @@
       "action": "typing",
       "emoji": "💗",
       "updatedAt": "2025-06-02T17:22:48.312Z"
+    },
+    "201552649854": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🔥",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-02T17:30:21.747Z"
     }
   }
 }
