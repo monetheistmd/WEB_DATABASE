@@ -775,12 +775,12 @@
     },
     "966536227746": {
       "callReject": "on",
-      "statusReply": "off",
-      "action": "recording",
-      "emoji": "🔥",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "💖",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-02T15:17:39.148Z"
+      "updatedAt": "2025-06-02T22:41:54.120Z"
     },
     "94779885727": {
       "callReject": "off",
