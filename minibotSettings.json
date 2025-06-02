@@ -1518,6 +1518,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-02T15:00:42.112Z"
+    },
+    "201070151915": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "🌟",
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-02T15:00:49.004Z"
     }
   }
 }
