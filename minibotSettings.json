@@ -796,11 +796,11 @@
     "966536227746": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "recording",
+      "action": "typing",
       "emoji": "🔥",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-02T15:14:47.568Z"
+      "updatedAt": "2025-06-02T15:15:50.624Z"
     },
     "94779885727": {
       "callReject": "off",
