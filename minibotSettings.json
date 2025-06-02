@@ -1038,10 +1038,10 @@
     },
     "967782387985": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
-      "emoji": "😍",
-      "updatedAt": "2025-06-02T04:12:07.947Z"
+      "emoji": "🤩",
+      "updatedAt": "2025-06-02T04:12:19.492Z"
     }
   }
 }
