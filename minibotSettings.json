@@ -909,6 +909,13 @@
       "action": "typing",
       "emoji": "👻",
       "updatedAt": "2025-06-02T00:10:51.251Z"
+    },
+    "201080615031": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "🥶",
+      "updatedAt": "2025-06-02T00:13:10.601Z"
     }
   }
 }
