@@ -1131,9 +1131,11 @@
     "201207788043": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "recording",
-      "emoji": "🐦",
-      "updatedAt": "2025-06-02T09:28:44.573Z"
+      "action": "typing",
+      "emoji": "🌟",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-02T13:37:08.539Z"
     },
     "967734043956": {
       "callReject": "on",
