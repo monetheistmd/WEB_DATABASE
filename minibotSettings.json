@@ -339,11 +339,11 @@
       "updatedAt": "2025-06-02T10:00:12.507Z"
     },
     "447893932118": {
-      "callReject": "on",
-      "statusReply": "on",
+      "callReject": "off",
+      "statusReply": "off",
       "action": "recording",
       "emoji": "💀",
-      "updatedAt": "2025-06-01T16:37:54.389Z"
+      "updatedAt": "2025-06-02T17:18:11.988Z"
     },
     "967776989327": {
       "callReject": "off",
