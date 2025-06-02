@@ -975,10 +975,10 @@
     },
     "967775124938": {
       "callReject": "off",
-      "statusReply": "on",
-      "action": "off",
+      "statusReply": "off",
+      "action": "recording",
       "emoji": "👻",
-      "updatedAt": "2025-06-02T01:22:59.714Z"
+      "updatedAt": "2025-06-02T01:23:04.020Z"
     }
   }
 }
