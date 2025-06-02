@@ -592,11 +592,11 @@
       "updatedAt": "2025-06-01T20:12:08.718Z"
     },
     "967775999359": {
-      "callReject": "off",
-      "statusReply": "off",
-      "action": "off",
-      "emoji": "👑",
-      "updatedAt": "2025-06-02T06:01:23.269Z"
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "🥰",
+      "updatedAt": "2025-06-02T10:19:12.049Z"
     },
     "254755835054": {
       "callReject": "on",
