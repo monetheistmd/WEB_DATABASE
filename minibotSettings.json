@@ -945,13 +945,6 @@
       "emoji": "🌹",
       "updatedAt": "2025-06-02T02:20:07.205Z"
     },
-    "94765457354": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "👀",
-      "updatedAt": "2025-06-02T08:53:25.966Z"
-    },
     "94770153274": {
       "callReject": "on",
       "statusReply": "off",
@@ -1112,20 +1105,6 @@
       "action": "recording",
       "emoji": "🫥",
       "updatedAt": "2025-06-02T08:40:17.655Z"
-    },
-    "94727255904": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "off",
-      "emoji": "👑",
-      "updatedAt": "2025-06-02T08:52:02.034Z"
-    },
-    "201063183976": {
-      "callReject": "on",
-      "statusReply": "off",
-      "action": "typing",
-      "emoji": "💔",
-      "updatedAt": "2025-06-02T08:52:14.868Z"
     }
   }
 }
