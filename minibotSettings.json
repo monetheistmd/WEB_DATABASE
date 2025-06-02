@@ -552,8 +552,10 @@
       "callReject": "off",
       "statusReply": "off",
       "action": "off",
-      "emoji": "💔",
-      "updatedAt": "2025-06-02T00:45:48.769Z"
+      "emoji": "🙈",
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-02T18:24:50.502Z"
     },
     "967781793187": {
       "callReject": "off",
