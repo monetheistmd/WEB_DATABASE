@@ -1002,10 +1002,12 @@
     },
     "94768515356": {
       "callReject": "off",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
-      "emoji": "😈",
-      "updatedAt": "2025-06-02T05:12:08.941Z"
+      "emoji": "😴",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-02T18:30:54.583Z"
     },
     "967736680321": {
       "callReject": "on",
