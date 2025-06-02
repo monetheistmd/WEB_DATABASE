@@ -945,10 +945,12 @@
     },
     "94770153274": {
       "callReject": "on",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "recording",
       "emoji": "⚡",
-      "updatedAt": "2025-06-02T03:05:41.189Z"
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-02T10:29:58.088Z"
     },
     "94760949812": {
       "callReject": "on",
