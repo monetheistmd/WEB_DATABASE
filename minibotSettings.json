@@ -1352,12 +1352,12 @@
     },
     "94767861594": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
-      "emoji": "😋",
+      "emoji": "👀",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-02T12:39:17.227Z"
+      "updatedAt": "2025-06-02T13:17:41.386Z"
     },
     "967784243922": {
       "callReject": "on",
