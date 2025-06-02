@@ -1798,11 +1798,11 @@
     "212674051739": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
-      "emoji": "😍",
-      "statusSave": "off",
+      "action": "recording",
+      "emoji": "😊",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-02T21:08:10.574Z"
+      "updatedAt": "2025-06-02T22:39:03.061Z"
     },
     "967782526155": {
       "callReject": "on",
