@@ -404,8 +404,10 @@
       "callReject": "off",
       "statusReply": "off",
       "action": "off",
-      "emoji": "🦋",
-      "updatedAt": "2025-06-01T19:59:26.252Z"
+      "emoji": "💜",
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-02T18:22:59.510Z"
     },
     "967775562983": {
       "callReject": "on",
