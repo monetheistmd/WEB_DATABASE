@@ -870,10 +870,10 @@
     },
     "967711110250": {
       "callReject": "on",
-      "statusReply": "off",
-      "action": "off",
+      "statusReply": "on",
+      "action": "typing",
       "emoji": "🌈",
-      "updatedAt": "2025-06-02T02:21:10.603Z"
+      "updatedAt": "2025-06-02T05:48:38.001Z"
     },
     "967776308862": {
       "callReject": "off",
