@@ -1832,12 +1832,12 @@
     },
     "212674051739": {
       "callReject": "on",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "recording",
       "emoji": "🥲",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-02T21:02:37.208Z"
+      "updatedAt": "2025-06-02T21:02:45.801Z"
     }
   }
 }
