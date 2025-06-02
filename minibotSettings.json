@@ -968,10 +968,10 @@
     },
     "967782526155": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "🤤",
-      "updatedAt": "2025-06-02T00:26:00.799Z"
+      "updatedAt": "2025-06-02T00:26:07.625Z"
     }
   }
 }
