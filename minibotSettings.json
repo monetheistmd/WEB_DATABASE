@@ -578,11 +578,11 @@
     "252616021711": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "recording",
-      "emoji": "🫡",
+      "action": "off",
+      "emoji": "💔",
       "statusSave": "on",
-      "online": "off",
-      "updatedAt": "2025-06-02T11:59:13.739Z"
+      "online": "on",
+      "updatedAt": "2025-06-02T12:48:44.473Z"
     },
     "201551637656": {
       "callReject": "on",
