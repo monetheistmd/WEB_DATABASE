@@ -1112,6 +1112,13 @@
       "action": "off",
       "emoji": "🖤",
       "updatedAt": "2025-06-02T09:00:24.708Z"
+    },
+    "0725459277": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "👍",
+      "updatedAt": "2025-06-02T09:01:26.103Z"
     }
   }
 }
