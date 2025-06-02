@@ -948,9 +948,9 @@
     "967776308862": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "typing",
+      "action": "off",
       "emoji": "👻",
-      "updatedAt": "2025-06-02T00:19:21.205Z"
+      "updatedAt": "2025-06-02T00:19:23.890Z"
     }
   }
 }
