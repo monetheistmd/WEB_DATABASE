@@ -972,6 +972,13 @@
       "action": "off",
       "emoji": "🔥",
       "updatedAt": "2025-06-02T01:14:38.282Z"
+    },
+    "967735925580": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "🐍",
+      "updatedAt": "2025-06-02T01:40:42.029Z"
     }
   }
 }
