@@ -626,13 +626,13 @@
       "updatedAt": "2025-06-01T19:48:34.990Z"
     },
     "923137032134": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
       "action": "typing",
       "emoji": "🔥",
       "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-02T16:51:32.966Z"
+      "updatedAt": "2025-06-02T16:51:35.155Z"
     },
     "201206766946": {
       "callReject": "off",
