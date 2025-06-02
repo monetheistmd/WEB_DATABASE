@@ -1043,8 +1043,10 @@
       "callReject": "off",
       "statusReply": "off",
       "action": "off",
-      "emoji": "🦁",
-      "updatedAt": "2025-06-02T06:48:59.551Z"
+      "emoji": "💖",
+      "statusSave": "on",
+      "online": "off",
+      "updatedAt": "2025-06-02T15:15:27.069Z"
     },
     "201119064311": {
       "callReject": "off",
