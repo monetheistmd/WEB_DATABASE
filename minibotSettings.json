@@ -40,9 +40,11 @@
     "967711834680": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "off",
-      "emoji": "😈",
-      "updatedAt": "2025-06-01T12:31:08.343Z"
+      "action": "recording",
+      "emoji": "👑",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-02T21:43:15.642Z"
     },
     "94775309776": {
       "callReject": "on",
