@@ -694,11 +694,11 @@
       "updatedAt": "2025-06-01T20:31:41.360Z"
     },
     "967779500870": {
-      "callReject": "off",
-      "statusReply": "off",
-      "action": "off",
-      "emoji": "🚀",
-      "updatedAt": "2025-06-01T21:12:55.222Z"
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "👻",
+      "updatedAt": "2025-06-02T00:05:11.249Z"
     },
     "967717038087": {
       "callReject": "on",
