@@ -1116,9 +1116,9 @@
     "94727255904": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "recording",
+      "action": "off",
       "emoji": "👑",
-      "updatedAt": "2025-06-02T08:51:54.981Z"
+      "updatedAt": "2025-06-02T08:52:02.034Z"
     }
   }
 }
