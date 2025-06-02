@@ -169,12 +169,12 @@
     },
     "967734157330": {
       "callReject": "on",
-      "statusReply": "off",
-      "action": "typing",
-      "emoji": "🤩",
+      "statusReply": "on",
+      "action": "off",
+      "emoji": "🫠",
       "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-02T13:24:38.604Z"
+      "online": "off",
+      "updatedAt": "2025-06-02T13:27:57.061Z"
     },
     "201505716722": {
       "callReject": "on",
