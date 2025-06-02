@@ -1119,6 +1119,13 @@
       "action": "recording",
       "emoji": "🫣",
       "updatedAt": "2025-06-02T07:18:27.516Z"
+    },
+    "01503952237": {
+      "callReject": "off",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🔥",
+      "updatedAt": "2025-06-02T07:59:14.268Z"
     }
   }
 }
