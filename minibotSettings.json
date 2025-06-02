@@ -696,9 +696,9 @@
     "967779500870": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "off",
+      "action": "typing",
       "emoji": "👻",
-      "updatedAt": "2025-06-02T00:09:32.528Z"
+      "updatedAt": "2025-06-02T00:09:36.230Z"
     },
     "967717038087": {
       "callReject": "on",
