@@ -1314,24 +1314,6 @@
       "action": "off",
       "emoji": "💤",
       "updatedAt": "2025-06-02T12:15:44.871Z"
-    },
-    "967784243922": {
-      "callReject": "on",
-      "statusReply": "off",
-      "action": "typing",
-      "emoji": "💚",
-      "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-02T12:15:50.675Z"
-    },
-    "213563880512": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "💀",
-      "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-02T12:16:56.437Z"
     }
   }
 }
