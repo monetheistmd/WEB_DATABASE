@@ -1410,11 +1410,11 @@
     "967736198671": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "typing",
+      "action": "off",
       "emoji": "😴",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-02T17:19:00.495Z"
+      "updatedAt": "2025-06-02T17:22:40.556Z"
     },
     "967784087908": {
       "callReject": "off",
