@@ -366,12 +366,12 @@
     },
     "252618978811": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "🤤",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-02T15:01:59.402Z"
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "🌹",
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-02T15:30:12.255Z"
     },
     "967776223003": {
       "callReject": "on",
