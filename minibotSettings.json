@@ -1816,11 +1816,11 @@
     "201128242574": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "typing",
+      "action": "recording",
       "emoji": "💓",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-02T19:31:38.505Z"
+      "online": "off",
+      "updatedAt": "2025-06-02T19:31:55.644Z"
     }
   }
 }
