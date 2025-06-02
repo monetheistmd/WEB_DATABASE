@@ -918,11 +918,11 @@
       "updatedAt": "2025-06-02T00:13:16.395Z"
     },
     "967774391586": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
       "emoji": "👻",
-      "updatedAt": "2025-06-02T00:13:30.400Z"
+      "updatedAt": "2025-06-02T00:20:21.908Z"
     },
     "967734758020": {
       "callReject": "on",
