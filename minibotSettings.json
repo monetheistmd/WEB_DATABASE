@@ -1435,12 +1435,12 @@
     },
     "967784243922": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "🦋",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-02T21:32:07.925Z"
+      "updatedAt": "2025-06-02T21:40:11.659Z"
     },
     "201284801952": {
       "callReject": "on",
