@@ -999,10 +999,10 @@
       "callReject": "on",
       "statusReply": "off",
       "action": "off",
-      "emoji": "😎",
-      "statusSave": "on",
+      "emoji": "👍",
+      "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-02T11:13:04.914Z"
+      "updatedAt": "2025-06-02T11:19:44.375Z"
     },
     "94768515356": {
       "callReject": "off",
