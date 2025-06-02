@@ -1294,13 +1294,13 @@
       "updatedAt": "2025-06-02T10:43:12.832Z"
     },
     "967772248108": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "off",
-      "action": "typing",
+      "action": "off",
       "emoji": "🤤",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-02T10:58:05.012Z"
+      "online": "off",
+      "updatedAt": "2025-06-02T10:58:51.696Z"
     },
     "01503952237": {
       "callReject": "on",
