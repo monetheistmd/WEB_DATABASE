@@ -1316,6 +1316,15 @@
       "action": "off",
       "emoji": "💤",
       "updatedAt": "2025-06-02T12:15:44.871Z"
+    },
+    "967780455857": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🔥",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-02T12:18:18.798Z"
     }
   }
 }
