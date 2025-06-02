@@ -1119,6 +1119,13 @@
       "action": "typing",
       "emoji": "🥱",
       "updatedAt": "2025-06-02T09:12:11.375Z"
+    },
+    "94788958235": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "🌟",
+      "updatedAt": "2025-06-02T09:14:05.343Z"
     }
   }
 }
