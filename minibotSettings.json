@@ -1063,6 +1063,13 @@
       "action": "typing",
       "emoji": "😈",
       "updatedAt": "2025-06-02T05:12:08.941Z"
+    },
+    "0765394252": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "🥲",
+      "updatedAt": "2025-06-02T05:14:05.694Z"
     }
   }
 }
