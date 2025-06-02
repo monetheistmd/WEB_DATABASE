@@ -1771,13 +1771,13 @@
       "updatedAt": "2025-06-02T20:04:07.555Z"
     },
     "967776989327": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "on",
       "action": "off",
       "emoji": "🔥",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-02T20:23:23.874Z"
+      "updatedAt": "2025-06-02T23:19:39.441Z"
     },
     "967780491792": {
       "callReject": "on",
