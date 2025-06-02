@@ -820,11 +820,11 @@
       "updatedAt": "2025-06-02T04:21:24.172Z"
     },
     "967775012635": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "👻",
-      "updatedAt": "2025-06-02T00:10:35.098Z"
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "😊",
+      "updatedAt": "2025-06-02T08:39:24.577Z"
     },
     "967773230826": {
       "callReject": "off",
