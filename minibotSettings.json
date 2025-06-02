@@ -554,13 +554,13 @@
       "updatedAt": "2025-06-02T00:45:48.769Z"
     },
     "967781793187": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
       "emoji": "💙",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-02T13:56:08.290Z"
+      "online": "off",
+      "updatedAt": "2025-06-02T14:03:51.138Z"
     },
     "967716146328": {
       "callReject": "off",
