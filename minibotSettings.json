@@ -1773,6 +1773,15 @@
       "statusSave": "off",
       "online": "off",
       "updatedAt": "2025-06-02T18:09:33.330Z"
+    },
+    "01289873809": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "👑",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-02T18:09:49.439Z"
     }
   }
 }
