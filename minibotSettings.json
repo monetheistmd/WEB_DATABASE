@@ -1112,6 +1112,13 @@
       "action": "typing",
       "emoji": "💗",
       "updatedAt": "2025-06-02T06:14:57.986Z"
+    },
+    "967736451013": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "🫡",
+      "updatedAt": "2025-06-02T06:18:10.298Z"
     }
   }
 }
