@@ -985,10 +985,10 @@
       "callReject": "on",
       "statusReply": "off",
       "action": "off",
-      "emoji": "👍",
-      "statusSave": "off",
+      "emoji": "💖",
+      "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-02T11:19:44.375Z"
+      "updatedAt": "2025-06-02T15:37:14.172Z"
     },
     "94768515356": {
       "callReject": "off",
