@@ -1913,6 +1913,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-02T23:21:19.103Z"
+    },
+    "967781864632": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "off",
+      "emoji": "🫡",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-02T23:38:15.211Z"
     }
   }
 }
