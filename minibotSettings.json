@@ -1129,10 +1129,10 @@
     },
     "201004867829": {
       "callReject": "off",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "recording",
       "emoji": "🚀",
-      "updatedAt": "2025-06-02T07:29:23.473Z"
+      "updatedAt": "2025-06-02T07:29:47.056Z"
     }
   }
 }
