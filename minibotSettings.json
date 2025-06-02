@@ -941,8 +941,10 @@
       "callReject": "on",
       "statusReply": "off",
       "action": "recording",
-      "emoji": "🌈",
-      "updatedAt": "2025-06-02T02:30:44.313Z"
+      "emoji": "😡",
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-02T17:12:19.459Z"
     },
     "94722193923": {
       "callReject": "on",
