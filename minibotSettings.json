@@ -1385,6 +1385,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-02T12:46:41.806Z"
+    },
+    "0658383002": {
+      "callReject": "off",
+      "statusReply": "on",
+      "action": "off",
+      "emoji": "😍",
+      "statusSave": "on",
+      "online": "off",
+      "updatedAt": "2025-06-02T12:46:52.350Z"
     }
   }
 }
