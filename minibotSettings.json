@@ -575,11 +575,11 @@
       "updatedAt": "2025-06-01T18:16:40.818Z"
     },
     "252616021711": {
-      "callReject": "off",
-      "statusReply": "off",
+      "callReject": "on",
+      "statusReply": "on",
       "action": "recording",
-      "emoji": "👑",
-      "updatedAt": "2025-06-02T07:15:17.861Z"
+      "emoji": "💔",
+      "updatedAt": "2025-06-02T08:15:30.345Z"
     },
     "201551637656": {
       "callReject": "on",
