@@ -980,9 +980,9 @@
       "statusReply": "off",
       "action": "off",
       "emoji": "👽",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-02T16:20:12.377Z"
+      "updatedAt": "2025-06-02T16:20:15.166Z"
     },
     "94763079634": {
       "callReject": "on",
