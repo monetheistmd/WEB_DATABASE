@@ -590,10 +590,10 @@
     },
     "252616021711": {
       "callReject": "off",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "recording",
-      "emoji": "🚀",
-      "updatedAt": "2025-06-02T05:59:26.299Z"
+      "emoji": "👑",
+      "updatedAt": "2025-06-02T07:15:17.861Z"
     },
     "201551637656": {
       "callReject": "on",
