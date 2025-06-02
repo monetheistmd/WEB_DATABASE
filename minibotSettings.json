@@ -1814,11 +1814,11 @@
     "967715469149": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
-      "emoji": "🐼",
-      "statusSave": "off",
+      "action": "recording",
+      "emoji": "👻",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-02T20:02:05.465Z"
+      "updatedAt": "2025-06-02T20:04:07.555Z"
     }
   }
 }
