@@ -660,9 +660,9 @@
       "statusReply": "on",
       "action": "typing",
       "emoji": "🤩",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-02T21:19:56.653Z"
+      "updatedAt": "2025-06-02T21:47:38.575Z"
     },
     "967734662846": {
       "callReject": "off",
