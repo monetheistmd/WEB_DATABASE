@@ -1906,13 +1906,13 @@
       "updatedAt": "2025-06-02T23:39:25.267Z"
     },
     "967781864632": {
-      "callReject": "on",
-      "statusReply": "on",
+      "callReject": "off",
+      "statusReply": "off",
       "action": "off",
       "emoji": "🫡",
       "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-02T23:46:45.683Z"
+      "updatedAt": "2025-06-02T23:46:50.021Z"
     }
   }
 }
