@@ -954,10 +954,10 @@
     },
     "967773157492": {
       "callReject": "off",
-      "statusReply": "on",
-      "action": "typing",
+      "statusReply": "off",
+      "action": "off",
       "emoji": "💚",
-      "updatedAt": "2025-06-02T00:37:21.422Z"
+      "updatedAt": "2025-06-02T00:57:54.579Z"
     },
     "967781723857": {
       "callReject": "on",
