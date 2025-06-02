@@ -597,10 +597,10 @@
     },
     "252616021711": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "🍀",
-      "updatedAt": "2025-06-01T18:38:48.823Z"
+      "statusReply": "off",
+      "action": "recording",
+      "emoji": "🌹",
+      "updatedAt": "2025-06-02T04:40:17.143Z"
     },
     "201551637656": {
       "callReject": "on",
