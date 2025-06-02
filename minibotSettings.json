@@ -1151,33 +1151,6 @@
       "action": "recording",
       "emoji": "🥰",
       "updatedAt": "2025-06-02T09:41:01.505Z"
-    },
-    "94701515609": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "💔",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-02T09:47:15.549Z"
-    },
-    "967777399394": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "🖤",
-      "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-02T09:47:39.960Z"
-    },
-    "94766215563": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "🔥",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-02T09:47:52.249Z"
     }
   }
 }
