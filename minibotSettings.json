@@ -1587,12 +1587,12 @@
     },
     "967784027700": {
       "callReject": "off",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "off",
       "emoji": "😎",
       "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-02T15:52:40.088Z"
+      "updatedAt": "2025-06-02T15:58:49.089Z"
     }
   }
 }
