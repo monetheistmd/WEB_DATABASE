@@ -1276,11 +1276,11 @@
     "252618142929": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "recording",
-      "emoji": "👑",
+      "action": "off",
+      "emoji": "🤯",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-02T16:31:47.746Z"
+      "updatedAt": "2025-06-02T16:37:53.110Z"
     },
     "967734302454": {
       "callReject": "off",
