@@ -1812,13 +1812,13 @@
       "updatedAt": "2025-06-02T20:04:07.555Z"
     },
     "967739462468": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
-      "action": "typing",
+      "action": "recording",
       "emoji": "🔥",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-02T20:16:09.024Z"
+      "updatedAt": "2025-06-02T20:16:30.795Z"
     }
   }
 }
