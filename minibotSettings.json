@@ -1414,11 +1414,11 @@
     "201156917810": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "recording",
+      "action": "typing",
       "emoji": "🔥",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-02T20:44:38.400Z"
+      "updatedAt": "2025-06-02T20:46:09.852Z"
     },
     "94770714293": {
       "callReject": "on",
