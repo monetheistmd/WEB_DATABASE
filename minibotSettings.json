@@ -1162,12 +1162,12 @@
     },
     "254708000493": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
-      "emoji": "👍",
+      "emoji": "💖",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-02T09:59:22.476Z"
+      "updatedAt": "2025-06-02T10:04:13.710Z"
     },
     "967774391586": {
       "callReject": "off",
