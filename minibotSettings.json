@@ -1873,6 +1873,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-02T22:00:48.666Z"
+    },
+    "201505716722": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "✨",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-02T22:02:57.204Z"
     }
   }
 }
