@@ -1184,10 +1184,10 @@
       "callReject": "off",
       "statusReply": "on",
       "action": "typing",
-      "emoji": "🩸",
-      "statusSave": "off",
+      "emoji": "🤮",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-02T10:04:28.870Z"
+      "updatedAt": "2025-06-02T10:08:12.135Z"
     },
     "201099865281": {
       "callReject": "on",
