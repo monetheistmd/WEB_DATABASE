@@ -1031,10 +1031,10 @@
     },
     "94770153274": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
+      "statusReply": "off",
+      "action": "recording",
       "emoji": "⚡",
-      "updatedAt": "2025-06-02T02:43:14.109Z"
+      "updatedAt": "2025-06-02T03:05:41.189Z"
     },
     "94760949812": {
       "callReject": "on",
