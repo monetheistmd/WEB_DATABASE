@@ -841,11 +841,11 @@
       "updatedAt": "2025-06-02T04:11:25.757Z"
     },
     "967774387968": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "👻",
-      "updatedAt": "2025-06-02T00:10:18.136Z"
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "😢",
+      "updatedAt": "2025-06-02T04:21:24.172Z"
     },
     "967775012635": {
       "callReject": "on",
