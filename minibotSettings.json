@@ -630,7 +630,9 @@
       "statusReply": "on",
       "action": "typing",
       "emoji": "🔥",
-      "updatedAt": "2025-06-01T20:12:37.829Z"
+      "statusSave": "on",
+      "online": "off",
+      "updatedAt": "2025-06-02T16:51:20.525Z"
     },
     "201206766946": {
       "callReject": "off",
