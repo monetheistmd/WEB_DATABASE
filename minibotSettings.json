@@ -1397,12 +1397,12 @@
     },
     "94741987212": {
       "callReject": "off",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "recording",
       "emoji": "👑",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-02T13:12:44.691Z"
+      "updatedAt": "2025-06-02T13:20:24.539Z"
     },
     "967713139490": {
       "callReject": "on",
