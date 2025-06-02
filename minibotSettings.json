@@ -1875,24 +1875,6 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-02T22:28:31.791Z"
-    },
-    "201125379737": {
-      "callReject": "off",
-      "statusReply": "off",
-      "action": "recording",
-      "emoji": "👍",
-      "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-02T22:29:29.753Z"
-    },
-    "0969301843": {
-      "callReject": "on",
-      "statusReply": "off",
-      "action": "off",
-      "emoji": "😏",
-      "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-02T22:29:31.716Z"
     }
   }
 }
