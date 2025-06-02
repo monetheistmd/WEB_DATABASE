@@ -1807,11 +1807,11 @@
     "201128242574": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "off",
-      "emoji": "💓",
+      "action": "typing",
+      "emoji": "💖",
       "statusSave": "off",
-      "online": "off",
-      "updatedAt": "2025-06-02T19:32:09.058Z"
+      "online": "on",
+      "updatedAt": "2025-06-02T19:32:47.896Z"
     },
     "94770875102": {
       "callReject": "on",
