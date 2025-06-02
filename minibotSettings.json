@@ -802,11 +802,13 @@
       "updatedAt": "2025-06-01T23:55:41.245Z"
     },
     "201155092273": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "off",
       "action": "typing",
       "emoji": "😍",
-      "updatedAt": "2025-06-02T00:19:25.607Z"
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-02T11:34:17.131Z"
     },
     "201091681701": {
       "callReject": "off",
