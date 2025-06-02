@@ -940,10 +940,10 @@
       "callReject": "on",
       "statusReply": "off",
       "action": "recording",
-      "emoji": "😡",
-      "statusSave": "off",
+      "emoji": "😱",
+      "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-02T17:12:19.459Z"
+      "updatedAt": "2025-06-02T18:33:05.300Z"
     },
     "94722193923": {
       "callReject": "on",
