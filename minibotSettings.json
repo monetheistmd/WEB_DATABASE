@@ -591,9 +591,9 @@
     "967781793187": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "recording",
-      "emoji": "👻",
-      "updatedAt": "2025-06-02T00:09:09.402Z"
+      "action": "typing",
+      "emoji": "💔",
+      "updatedAt": "2025-06-02T00:12:06.423Z"
     },
     "967716146328": {
       "callReject": "off",
