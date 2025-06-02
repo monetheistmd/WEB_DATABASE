@@ -1620,6 +1620,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-02T16:11:04.160Z"
+    },
+    "01055366315": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "recording",
+      "emoji": "🌟",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-02T16:12:32.487Z"
     }
   }
 }
