@@ -1895,51 +1895,6 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-02T23:08:10.646Z"
-    },
-    "01120590204": {
-      "callReject": "on",
-      "statusReply": "off",
-      "action": "typing",
-      "emoji": "✨",
-      "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-02T23:15:04.451Z"
-    },
-    "01120590204011": {
-      "callReject": "on",
-      "statusReply": "off",
-      "action": "typing",
-      "emoji": "✨",
-      "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-02T23:15:12.984Z"
-    },
-    "947701120590204": {
-      "callReject": "on",
-      "statusReply": "off",
-      "action": "typing",
-      "emoji": "✨",
-      "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-02T23:15:53.856Z"
-    },
-    "2225555550555": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "🌹",
-      "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-02T23:18:09.303Z"
-    },
-    "967781865256": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "🔥",
-      "statusSave": "on",
-      "online": "off",
-      "updatedAt": "2025-06-02T23:18:49.086Z"
     }
   }
 }
