@@ -925,11 +925,11 @@
       "updatedAt": "2025-06-02T00:20:31.806Z"
     },
     "967734758020": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
       "emoji": "👻",
-      "updatedAt": "2025-06-02T00:13:59.606Z"
+      "updatedAt": "2025-06-02T00:20:51.313Z"
     },
     "967771027562": {
       "callReject": "off",
