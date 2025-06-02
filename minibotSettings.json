@@ -1428,6 +1428,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-02T13:46:24.555Z"
+    },
+    "01228584381": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🚀",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-02T14:05:35.159Z"
     }
   }
 }
