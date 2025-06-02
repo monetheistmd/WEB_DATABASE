@@ -1835,12 +1835,12 @@
     },
     "201110302249": {
       "callReject": "on",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "typing",
       "emoji": "🙈",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-02T21:27:52.092Z"
+      "updatedAt": "2025-06-02T23:19:23.969Z"
     },
     "213799532799": {
       "callReject": "on",
