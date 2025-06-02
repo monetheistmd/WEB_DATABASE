@@ -1051,11 +1051,11 @@
       "updatedAt": "2025-06-02T04:26:10.214Z"
     },
     "94706619245": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
       "action": "typing",
       "emoji": "🐢",
-      "updatedAt": "2025-06-02T04:38:03.756Z"
+      "updatedAt": "2025-06-02T04:38:14.781Z"
     }
   }
 }
