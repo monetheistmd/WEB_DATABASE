@@ -998,9 +998,11 @@
     "94763079634": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "off",
-      "emoji": "😐",
-      "updatedAt": "2025-06-02T05:12:23.665Z"
+      "action": "typing",
+      "emoji": "🙏",
+      "statusSave": "on",
+      "online": "off",
+      "updatedAt": "2025-06-02T11:06:29.404Z"
     },
     "94768515356": {
       "callReject": "off",
