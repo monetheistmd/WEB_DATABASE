@@ -1323,11 +1323,11 @@
     "0702061351": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "recording",
+      "action": "typing",
       "emoji": "💥",
-      "statusSave": "off",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-02T10:58:59.992Z"
+      "updatedAt": "2025-06-02T10:59:45.103Z"
     }
   }
 }
