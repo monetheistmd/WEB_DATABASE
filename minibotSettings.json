@@ -303,10 +303,12 @@
     },
     "94777817578": {
       "callReject": "off",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "off",
-      "emoji": "👻",
-      "updatedAt": "2025-06-02T03:04:07.229Z"
+      "emoji": "🔥",
+      "statusSave": "on",
+      "online": "off",
+      "updatedAt": "2025-06-02T09:36:06.138Z"
     },
     "254105084401": {
       "callReject": "on",
