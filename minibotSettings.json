@@ -1728,6 +1728,13 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-02T17:19:57.216Z"
+    },
+    "201115118988": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "💗",
+      "updatedAt": "2025-06-02T17:22:48.312Z"
     }
   }
 }
