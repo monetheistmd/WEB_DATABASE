@@ -704,13 +704,13 @@
       "updatedAt": "2025-06-02T07:09:43.433Z"
     },
     "201500737122": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
-      "action": "off",
+      "action": "typing",
       "emoji": "🌹",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-02T23:11:36.526Z"
+      "updatedAt": "2025-06-02T23:14:58.338Z"
     },
     "994400044004": {
       "callReject": "off",
