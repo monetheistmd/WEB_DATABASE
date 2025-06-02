@@ -49,13 +49,6 @@
       "emoji": "😈",
       "updatedAt": "2025-06-01T12:31:08.343Z"
     },
-    "201115836242": {
-      "callReject": "on",
-      "statusReply": "off",
-      "action": "typing",
-      "emoji": "🐍",
-      "updatedAt": "2025-06-01T16:30:08.287Z"
-    },
     "94775309776": {
       "callReject": "on",
       "statusReply": "off",
@@ -1126,13 +1119,6 @@
       "action": "typing",
       "emoji": "✨",
       "updatedAt": "2025-06-02T07:08:51.382Z"
-    },
-    "201150927649": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "🌹",
-      "updatedAt": "2025-06-02T07:14:57.630Z"
     }
   }
 }
