@@ -1193,6 +1193,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-02T10:00:27.143Z"
+    },
+    "0762145977": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "👻",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-02T10:00:54.280Z"
     }
   }
 }
