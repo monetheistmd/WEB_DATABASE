@@ -1719,6 +1719,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-02T17:18:35.376Z"
+    },
+    "967700077465": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "🔥",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-02T17:19:08.468Z"
     }
   }
 }
