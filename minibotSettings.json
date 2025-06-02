@@ -1291,6 +1291,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-02T11:17:33.413Z"
+    },
+    "01091099025": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "💖",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-02T11:18:48.695Z"
     }
   }
 }
