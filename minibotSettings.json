@@ -1744,12 +1744,12 @@
     },
     "213563880512": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "off",
       "emoji": "💀",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-02T20:27:49.144Z"
+      "updatedAt": "2025-06-02T20:58:56.198Z"
     },
     "252907358867": {
       "callReject": "on",
