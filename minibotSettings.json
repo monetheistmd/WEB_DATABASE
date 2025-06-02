@@ -1291,6 +1291,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-02T11:22:19.465Z"
+    },
+    "94713713687": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "🙈",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-02T11:22:37.029Z"
     }
   }
 }
