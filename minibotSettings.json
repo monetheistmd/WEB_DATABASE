@@ -705,12 +705,12 @@
     },
     "201500737122": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
+      "statusReply": "off",
+      "action": "typing",
       "emoji": "🌹",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-02T23:43:29.389Z"
+      "updatedAt": "2025-06-02T23:46:24.805Z"
     },
     "994400044004": {
       "callReject": "off",
