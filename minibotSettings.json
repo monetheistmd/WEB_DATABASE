@@ -176,11 +176,11 @@
     "967734157330": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "typing",
-      "emoji": "👽",
-      "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-02T14:08:06.081Z"
+      "action": "recording",
+      "emoji": "🔥",
+      "statusSave": "on",
+      "online": "off",
+      "updatedAt": "2025-06-02T16:09:56.613Z"
     },
     "201505716722": {
       "callReject": "on",
