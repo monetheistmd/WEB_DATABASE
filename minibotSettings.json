@@ -1290,6 +1290,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-02T10:43:12.832Z"
+    },
+    "01204845213": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "🖤",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-02T10:53:34.729Z"
     }
   }
 }
