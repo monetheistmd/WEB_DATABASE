@@ -940,12 +940,12 @@
     },
     "94770153274": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "recording",
-      "emoji": "⚡",
+      "emoji": "💙",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-02T10:29:58.088Z"
+      "updatedAt": "2025-06-02T10:37:36.114Z"
     },
     "94760949812": {
       "callReject": "on",
