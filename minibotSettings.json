@@ -771,11 +771,11 @@
       "updatedAt": "2025-06-01T22:41:05.074Z"
     },
     "967770090913": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "👻",
-      "updatedAt": "2025-06-02T00:11:12.259Z"
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "🔥",
+      "updatedAt": "2025-06-02T04:20:38.174Z"
     },
     "967736593173": {
       "callReject": "off",
