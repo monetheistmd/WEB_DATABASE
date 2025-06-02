@@ -990,9 +990,11 @@
     "94768840807": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "recording",
+      "action": "typing",
       "emoji": "👽",
-      "updatedAt": "2025-06-02T04:43:32.930Z"
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-02T11:31:35.767Z"
     },
     "967775153413": {
       "callReject": "off",
