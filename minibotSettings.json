@@ -1137,9 +1137,9 @@
     "01040955173": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
+      "action": "recording",
       "emoji": "⚡",
-      "updatedAt": "2025-06-02T07:31:11.679Z"
+      "updatedAt": "2025-06-02T07:31:15.643Z"
     }
   }
 }
