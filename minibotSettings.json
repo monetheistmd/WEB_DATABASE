@@ -504,10 +504,10 @@
       "callReject": "on",
       "statusReply": "on",
       "action": "typing",
-      "emoji": "🫶",
-      "statusSave": "on",
+      "emoji": "😴",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-02T10:31:30.990Z"
+      "updatedAt": "2025-06-02T10:42:44.291Z"
     },
     "250791352215": {
       "callReject": "off",
