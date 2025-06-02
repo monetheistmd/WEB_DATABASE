@@ -1000,6 +1000,13 @@
       "action": "recording",
       "emoji": "😍",
       "updatedAt": "2025-06-02T02:10:26.098Z"
+    },
+    "923293559801": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🔥",
+      "updatedAt": "2025-06-02T02:11:02.216Z"
     }
   }
 }
