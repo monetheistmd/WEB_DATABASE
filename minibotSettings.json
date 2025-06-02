@@ -1896,15 +1896,6 @@
       "online": "on",
       "updatedAt": "2025-06-02T23:08:10.646Z"
     },
-    "01120590204": {
-      "callReject": "on",
-      "statusReply": "off",
-      "action": "typing",
-      "emoji": "💖",
-      "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-02T23:21:06.446Z"
-    },
     "201157422889": {
       "callReject": "on",
       "statusReply": "on",
@@ -1913,15 +1904,6 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-02T23:21:19.103Z"
-    },
-    "967781865256": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "😡",
-      "statusSave": "on",
-      "online": "off",
-      "updatedAt": "2025-06-02T23:22:01.739Z"
     }
   }
 }
