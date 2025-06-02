@@ -976,9 +976,9 @@
     "967733693062": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
+      "action": "off",
       "emoji": "⚡",
-      "updatedAt": "2025-06-02T01:47:08.662Z"
+      "updatedAt": "2025-06-02T01:47:26.652Z"
     },
     "94720796391": {
       "callReject": "off",
