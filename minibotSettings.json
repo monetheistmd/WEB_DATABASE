@@ -798,9 +798,9 @@
       "statusReply": "off",
       "action": "recording",
       "emoji": "🔥",
-      "statusSave": "off",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-02T15:17:31.786Z"
+      "updatedAt": "2025-06-02T15:17:39.148Z"
     },
     "94779885727": {
       "callReject": "off",
