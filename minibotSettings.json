@@ -1331,12 +1331,12 @@
     },
     "967713139490": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
-      "emoji": "🌹",
+      "emoji": "💖",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-02T13:16:57.467Z"
+      "updatedAt": "2025-06-02T22:03:49.677Z"
     },
     "201027340738": {
       "callReject": "on",
