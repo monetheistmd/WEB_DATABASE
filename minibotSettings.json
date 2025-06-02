@@ -138,12 +138,12 @@
     },
     "201112304809": {
       "callReject": "off",
-      "statusReply": "off",
-      "action": "off",
+      "statusReply": "on",
+      "action": "typing",
       "emoji": "🔥",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-02T17:35:43.704Z"
+      "updatedAt": "2025-06-02T17:39:37.008Z"
     },
     "201224301897": {
       "callReject": "on",
