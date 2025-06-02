@@ -1821,13 +1821,13 @@
       "updatedAt": "2025-06-02T21:08:10.574Z"
     },
     "967782526155": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "off",
-      "action": "recording",
+      "action": "typing",
       "emoji": "🖤",
       "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-02T21:15:31.169Z"
+      "online": "off",
+      "updatedAt": "2025-06-02T22:02:35.123Z"
     },
     "252672171864": {
       "callReject": "on",
