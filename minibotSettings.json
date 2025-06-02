@@ -1772,6 +1772,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-02T18:43:01.254Z"
+    },
+    "01280347521": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "🐥",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-02T18:49:21.863Z"
     }
   }
 }
