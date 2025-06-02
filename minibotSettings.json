@@ -573,10 +573,12 @@
     },
     "252616021711": {
       "callReject": "on",
-      "statusReply": "off",
-      "action": "typing",
-      "emoji": "💔",
-      "updatedAt": "2025-06-02T08:55:19.121Z"
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "🫡",
+      "statusSave": "on",
+      "online": "off",
+      "updatedAt": "2025-06-02T11:59:11.326Z"
     },
     "201551637656": {
       "callReject": "on",
