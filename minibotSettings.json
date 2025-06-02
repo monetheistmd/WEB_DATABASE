@@ -1838,6 +1838,15 @@
       "statusSave": "on",
       "online": "off",
       "updatedAt": "2025-06-02T20:44:30.038Z"
+    },
+    "01281205747": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "🌟",
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-02T20:45:33.098Z"
     }
   }
 }
