@@ -1288,12 +1288,12 @@
     },
     "01286002890": {
       "callReject": "on",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "typing",
       "emoji": "🔥",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-02T11:49:40.849Z"
+      "updatedAt": "2025-06-02T11:49:47.134Z"
     }
   }
 }
