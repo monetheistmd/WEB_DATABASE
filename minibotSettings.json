@@ -741,11 +741,11 @@
       "updatedAt": "2025-06-01T22:51:01.632Z"
     },
     "967739525693": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "😡",
-      "updatedAt": "2025-06-01T22:41:05.074Z"
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "💤",
+      "updatedAt": "2025-06-02T12:14:51.047Z"
     },
     "967770090913": {
       "callReject": "off",
