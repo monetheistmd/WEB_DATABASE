@@ -626,8 +626,10 @@
       "callReject": "on",
       "statusReply": "off",
       "action": "recording",
-      "emoji": "🤮",
-      "updatedAt": "2025-06-01T20:20:15.636Z"
+      "emoji": "😎",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-02T11:30:59.929Z"
     },
     "213655222645": {
       "callReject": "off",
