@@ -2356,12 +2356,12 @@
     },
     "201030947681": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
+      "statusReply": "off",
+      "action": "typing",
       "emoji": "😡",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-03T16:51:47.968Z"
+      "updatedAt": "2025-06-03T16:51:58.823Z"
     },
     "201061716484": {
       "callReject": "on",
