@@ -1830,13 +1830,13 @@
       "updatedAt": "2025-06-03T13:28:59.050Z"
     },
     "967775501625": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "👽",
-      "statusSave": "on",
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "🔥",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T07:40:34.499Z"
+      "updatedAt": "2025-06-03T19:13:03.550Z"
     },
     "967770431857": {
       "callReject": "off",
