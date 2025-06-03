@@ -2036,12 +2036,12 @@
     },
     "967770431857": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "🌹",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-03T07:40:12.296Z"
+      "updatedAt": "2025-06-03T08:04:07.066Z"
     },
     "967734191257": {
       "callReject": "off",
