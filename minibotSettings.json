@@ -1924,6 +1924,15 @@
       "statusSave": "on",
       "online": "off",
       "updatedAt": "2025-06-03T00:26:09.210Z"
+    },
+    "01120590204": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "✨",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-03T00:31:44.117Z"
     }
   }
 }
