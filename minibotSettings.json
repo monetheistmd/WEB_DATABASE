@@ -596,12 +596,12 @@
     },
     "967779500870": {
       "callReject": "on",
-      "statusReply": "off",
-      "action": "off",
-      "emoji": "🖤",
-      "statusSave": "on",
-      "online": "off",
-      "updatedAt": "2025-06-03T23:53:17.018Z"
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "💖",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-03T23:55:06.337Z"
     },
     "967717038087": {
       "callReject": "on",
