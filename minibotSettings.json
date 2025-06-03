@@ -2353,6 +2353,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-03T16:49:50.801Z"
+    },
+    "01030947681": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "🖤",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-03T16:52:17.839Z"
     }
   }
 }
