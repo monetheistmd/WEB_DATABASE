@@ -2179,10 +2179,10 @@
       "callReject": "on",
       "statusReply": "on",
       "action": "typing",
-      "emoji": "💗",
-      "statusSave": "on",
+      "emoji": "✨",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T10:28:03.534Z"
+      "updatedAt": "2025-06-03T10:37:14.428Z"
     },
     "249903351162": {
       "callReject": "on",
