@@ -2404,11 +2404,11 @@
     "249907326310": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "typing",
+      "action": "recording",
       "emoji": "🤔",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T18:58:44.573Z"
+      "updatedAt": "2025-06-03T18:58:46.547Z"
     }
   }
 }
