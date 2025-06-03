@@ -1351,13 +1351,13 @@
       "updatedAt": "2025-06-02T18:22:59.107Z"
     },
     "94767364189": {
-      "callReject": "on",
-      "statusReply": "off",
-      "action": "typing",
-      "emoji": "💘",
+      "callReject": "off",
+      "statusReply": "on",
+      "action": "off",
+      "emoji": "🐬",
       "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-02T14:58:52.219Z"
+      "online": "off",
+      "updatedAt": "2025-06-03T12:19:12.189Z"
     },
     "967784243922": {
       "callReject": "on",
