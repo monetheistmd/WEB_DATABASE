@@ -210,8 +210,10 @@
       "callReject": "off",
       "statusReply": "off",
       "action": "off",
-      "emoji": "👑",
-      "updatedAt": "2025-06-01T19:00:36.821Z"
+      "emoji": "😴",
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-03T14:07:34.240Z"
     },
     "94769049365": {
       "callReject": "on",
