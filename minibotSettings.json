@@ -2177,12 +2177,12 @@
     },
     "249119541351": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "✨",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T10:37:26.010Z"
+      "updatedAt": "2025-06-03T10:37:28.221Z"
     },
     "249903351162": {
       "callReject": "on",
