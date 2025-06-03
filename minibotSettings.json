@@ -1143,13 +1143,13 @@
       "updatedAt": "2025-06-02T11:37:45.691Z"
     },
     "94770895537": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
       "action": "recording",
-      "emoji": "😍",
+      "emoji": "💖",
       "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-02T10:26:11.163Z"
+      "online": "off",
+      "updatedAt": "2025-06-03T09:28:41.294Z"
     },
     "94725459277": {
       "callReject": "off",
