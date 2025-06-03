@@ -2363,24 +2363,6 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-03T20:46:15.815Z"
-    },
-    "01508182973": {
-      "callReject": "on",
-      "statusReply": "off",
-      "action": "typing",
-      "emoji": "🦋",
-      "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-03T20:59:24.669Z"
-    },
-    "249903295523": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "😍",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-03T20:59:41.044Z"
     }
   }
 }
