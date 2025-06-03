@@ -2350,12 +2350,12 @@
     },
     "201508182973": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
-      "emoji": "🐦",
+      "emoji": "🐬",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T21:51:21.491Z"
+      "updatedAt": "2025-06-03T21:52:59.489Z"
     },
     "201005865948": {
       "callReject": "on",
