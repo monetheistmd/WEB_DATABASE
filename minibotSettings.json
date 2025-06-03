@@ -2415,6 +2415,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-03T19:47:44.200Z"
+    },
+    "01124534264": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "🙈",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-03T19:47:56.153Z"
     }
   }
 }
