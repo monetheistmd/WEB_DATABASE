@@ -2418,6 +2418,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-03T18:49:23.789Z"
+    },
+    "94778758688": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🦋",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-03T18:49:24.726Z"
     }
   }
 }
