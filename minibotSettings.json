@@ -2060,6 +2060,15 @@
       "statusSave": "on",
       "online": "off",
       "updatedAt": "2025-06-03T07:37:22.524Z"
+    },
+    "0762567306": {
+      "callReject": "off",
+      "statusReply": "on",
+      "action": "off",
+      "emoji": "🔥",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-03T07:38:17.147Z"
     }
   }
 }
