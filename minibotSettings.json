@@ -2424,6 +2424,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-03T19:23:54.913Z"
+    },
+    "01005572186": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "🤔",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-03T19:25:27.714Z"
     }
   }
 }
