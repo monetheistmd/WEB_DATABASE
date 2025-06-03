@@ -2295,6 +2295,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-03T15:58:29.741Z"
+    },
+    "01207788043": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "recording",
+      "emoji": "👀",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-03T16:00:17.498Z"
     }
   }
 }
