@@ -1910,11 +1910,11 @@
     "967734733937": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
+      "action": "recording",
       "emoji": "👑",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T00:23:34.310Z"
+      "updatedAt": "2025-06-03T00:23:40.201Z"
     }
   }
 }
