@@ -137,10 +137,10 @@
       "callReject": "on",
       "statusReply": "off",
       "action": "off",
-      "emoji": "👑",
-      "statusSave": "on",
+      "emoji": "🥱",
+      "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-02T15:06:50.488Z"
+      "updatedAt": "2025-06-03T06:51:33.185Z"
     },
     "201552868640": {
       "callReject": "off",
