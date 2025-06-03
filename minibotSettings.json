@@ -1336,13 +1336,13 @@
       "updatedAt": "2025-06-03T00:07:55.555Z"
     },
     "94713713687": {
-      "callReject": "on",
-      "statusReply": "on",
+      "callReject": "off",
+      "statusReply": "off",
       "action": "recording",
       "emoji": "🐼",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-02T15:12:05.225Z"
+      "updatedAt": "2025-06-03T15:40:17.381Z"
     },
     "201055042905": {
       "callReject": "on",
