@@ -2226,9 +2226,9 @@
       "statusReply": "off",
       "action": "recording",
       "emoji": "🌹",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-03T18:22:04.840Z"
+      "updatedAt": "2025-06-03T18:22:09.245Z"
     },
     "967736198671": {
       "callReject": "on",
