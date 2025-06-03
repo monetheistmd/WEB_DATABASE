@@ -2176,13 +2176,13 @@
       "updatedAt": "2025-06-03T10:22:22.842Z"
     },
     "249119541351": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "off",
-      "action": "typing",
+      "action": "off",
       "emoji": "✨",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T10:37:28.221Z"
+      "updatedAt": "2025-06-03T10:37:31.425Z"
     },
     "249903351162": {
       "callReject": "on",
