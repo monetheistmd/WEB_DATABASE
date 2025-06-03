@@ -2096,12 +2096,12 @@
     },
     "94768026440": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
-      "emoji": "🙃",
+      "emoji": "🦋",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-03T09:25:20.240Z"
+      "updatedAt": "2025-06-03T10:03:44.271Z"
     },
     "94786548830": {
       "callReject": "off",
