@@ -2242,11 +2242,11 @@
     "201212427580": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "recording",
-      "emoji": "💗",
-      "statusSave": "on",
+      "action": "typing",
+      "emoji": "💖",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T12:37:04.285Z"
+      "updatedAt": "2025-06-03T12:37:41.823Z"
     }
   }
 }
