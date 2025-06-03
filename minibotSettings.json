@@ -2163,6 +2163,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-03T09:21:51.247Z"
+    },
+    "01027995598": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🫶",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-03T09:22:01.245Z"
     }
   }
 }
