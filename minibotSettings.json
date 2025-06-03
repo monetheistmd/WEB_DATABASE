@@ -2350,12 +2350,12 @@
     },
     "966506522629": {
       "callReject": "off",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "off",
       "emoji": "💖",
       "statusSave": "on",
-      "online": "off",
-      "updatedAt": "2025-06-03T21:31:44.121Z"
+      "online": "on",
+      "updatedAt": "2025-06-03T21:32:51.948Z"
     }
   }
 }
