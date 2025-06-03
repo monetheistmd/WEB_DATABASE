@@ -2421,12 +2421,12 @@
     },
     "94725707776": {
       "callReject": "on",
-      "statusReply": "off",
-      "action": "recording",
+      "statusReply": "on",
+      "action": "off",
       "emoji": "💗",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-03T18:15:06.335Z"
+      "updatedAt": "2025-06-03T18:15:21.826Z"
     }
   }
 }
