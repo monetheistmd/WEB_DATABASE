@@ -2383,6 +2383,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-03T22:02:25.563Z"
+    },
+    "201120887823": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "👻",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-03T22:02:55.616Z"
     }
   }
 }
