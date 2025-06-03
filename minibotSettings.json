@@ -2264,11 +2264,11 @@
     "201557554894": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "typing",
+      "action": "off",
       "emoji": "😎",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-03T14:00:39.257Z"
+      "online": "off",
+      "updatedAt": "2025-06-03T14:00:46.461Z"
     }
   }
 }
