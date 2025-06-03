@@ -1834,11 +1834,11 @@
     "967775501625": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "off",
+      "action": "typing",
       "emoji": "🔥",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T19:17:31.788Z"
+      "updatedAt": "2025-06-03T19:25:34.722Z"
     },
     "967770431857": {
       "callReject": "off",
