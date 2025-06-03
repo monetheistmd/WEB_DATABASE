@@ -1052,12 +1052,12 @@
     },
     "201207788043": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "👀",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T12:51:17.023Z"
+      "updatedAt": "2025-06-03T13:10:31.240Z"
     },
     "967734043956": {
       "callReject": "off",
