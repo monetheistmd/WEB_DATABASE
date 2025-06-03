@@ -2265,10 +2265,10 @@
       "callReject": "off",
       "statusReply": "on",
       "action": "off",
-      "emoji": "👀",
-      "statusSave": "on",
+      "emoji": "🐼",
+      "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-03T13:26:11.917Z"
+      "updatedAt": "2025-06-03T13:47:59.907Z"
     },
     "963983397376": {
       "callReject": "on",
