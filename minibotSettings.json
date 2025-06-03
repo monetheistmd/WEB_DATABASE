@@ -2043,12 +2043,12 @@
     },
     "201027765389": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
+      "statusReply": "off",
+      "action": "off",
       "emoji": "🌈",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-03T07:00:51.542Z"
+      "online": "off",
+      "updatedAt": "2025-06-03T07:01:04.386Z"
     }
   }
 }
