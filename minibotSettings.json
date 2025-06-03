@@ -2214,12 +2214,12 @@
     },
     "249907326310": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "recording",
-      "emoji": "🐦",
+      "emoji": "🦄",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T12:09:15.798Z"
+      "updatedAt": "2025-06-03T12:09:44.219Z"
     },
     "249115059082": {
       "callReject": "off",
