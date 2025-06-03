@@ -676,13 +676,13 @@
       "updatedAt": "2025-06-02T09:09:23.514Z"
     },
     "201500737122": {
-      "callReject": "off",
-      "statusReply": "on",
-      "action": "off",
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "typing",
       "emoji": "🎉",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T16:13:01.250Z"
+      "updatedAt": "2025-06-03T16:31:52.423Z"
     },
     "994400044004": {
       "callReject": "off",
