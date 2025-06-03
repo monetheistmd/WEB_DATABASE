@@ -2282,9 +2282,9 @@
       "statusReply": "off",
       "action": "typing",
       "emoji": "💜",
-      "statusSave": "off",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-03T19:06:52.626Z"
+      "updatedAt": "2025-06-03T19:07:00.681Z"
     },
     "967776946424": {
       "callReject": "on",
