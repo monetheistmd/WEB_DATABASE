@@ -1371,12 +1371,12 @@
     },
     "201055042905": {
       "callReject": "on",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "typing",
-      "emoji": "🌟",
-      "statusSave": "off",
+      "emoji": "✨",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-02T15:12:13.661Z"
+      "updatedAt": "2025-06-03T14:26:22.265Z"
     },
     "967734821978": {
       "callReject": "off",
