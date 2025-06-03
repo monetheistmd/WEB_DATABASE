@@ -1832,11 +1832,11 @@
     "967775501625": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "recording",
+      "action": "off",
       "emoji": "🔥",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-03T19:15:36.502Z"
+      "online": "off",
+      "updatedAt": "2025-06-03T19:17:04.479Z"
     },
     "967770431857": {
       "callReject": "off",
