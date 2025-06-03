@@ -1753,12 +1753,12 @@
     },
     "201030086025": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "😭",
+      "statusReply": "off",
+      "action": "recording",
+      "emoji": "👻",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-02T22:52:39.111Z"
+      "online": "off",
+      "updatedAt": "2025-06-03T11:38:37.764Z"
     },
     "201157422889": {
       "callReject": "on",
