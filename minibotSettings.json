@@ -1944,15 +1944,6 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-03T01:44:15.904Z"
-    },
-    "201508054259": {
-      "callReject": "on",
-      "statusReply": "off",
-      "action": "recording",
-      "emoji": "💓",
-      "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-03T01:47:36.171Z"
     }
   }
 }
