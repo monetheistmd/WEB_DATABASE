@@ -1480,9 +1480,9 @@
       "statusReply": "on",
       "action": "recording",
       "emoji": "🐥",
-      "statusSave": "off",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-03T00:05:58.906Z"
+      "updatedAt": "2025-06-03T00:06:01.906Z"
     },
     "94713713687": {
       "callReject": "on",
