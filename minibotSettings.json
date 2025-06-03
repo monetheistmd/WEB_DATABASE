@@ -794,9 +794,11 @@
     "201211626146": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "typing",
-      "emoji": "⚡",
-      "updatedAt": "2025-06-02T04:11:25.757Z"
+      "action": "recording",
+      "emoji": "✨",
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-03T13:15:28.072Z"
     },
     "967774387968": {
       "callReject": "off",
