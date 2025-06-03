@@ -962,12 +962,12 @@
     },
     "967735925580": {
       "callReject": "off",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "off",
-      "emoji": "💖",
-      "statusSave": "on",
+      "emoji": "💤",
+      "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-02T15:15:27.069Z"
+      "updatedAt": "2025-06-03T17:20:23.265Z"
     },
     "254757856882": {
       "callReject": "off",
