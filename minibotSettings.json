@@ -1953,6 +1953,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-03T01:55:31.848Z"
+    },
+    "94740288132": {
+      "callReject": "off",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "👻",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-03T01:55:32.499Z"
     }
   }
 }
