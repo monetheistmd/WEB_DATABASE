@@ -2012,11 +2012,11 @@
     "201024537515": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "recording",
+      "action": "off",
       "emoji": "🌹",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-03T12:59:40.123Z"
+      "updatedAt": "2025-06-03T19:20:01.967Z"
     },
     "201200242132": {
       "callReject": "off",
