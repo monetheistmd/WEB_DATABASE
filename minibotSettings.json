@@ -1834,9 +1834,9 @@
       "statusReply": "off",
       "action": "off",
       "emoji": "🔥",
-      "statusSave": "off",
-      "online": "off",
-      "updatedAt": "2025-06-03T19:17:04.479Z"
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-03T19:17:31.788Z"
     },
     "967770431857": {
       "callReject": "off",
