@@ -2044,13 +2044,13 @@
       "updatedAt": "2025-06-03T07:16:10.832Z"
     },
     "967775501625": {
-      "callReject": "on",
-      "statusReply": "off",
+      "callReject": "off",
+      "statusReply": "on",
       "action": "typing",
       "emoji": "👍",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T07:29:57.118Z"
+      "updatedAt": "2025-06-03T07:33:08.882Z"
     }
   }
 }
