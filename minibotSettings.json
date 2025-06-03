@@ -1537,11 +1537,11 @@
     "967779438666": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "typing",
-      "emoji": "🤑",
+      "action": "recording",
+      "emoji": "😴",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T18:55:59.798Z"
+      "updatedAt": "2025-06-03T19:34:39.840Z"
     },
     "967715469149": {
       "callReject": "off",
