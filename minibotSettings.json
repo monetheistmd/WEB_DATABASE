@@ -2418,13 +2418,13 @@
       "updatedAt": "2025-06-03T17:45:47.764Z"
     },
     "201144333125": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "on",
       "action": "typing",
       "emoji": "🖤",
-      "statusSave": "off",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-03T17:46:01.448Z"
+      "updatedAt": "2025-06-03T17:46:08.688Z"
     }
   }
 }
