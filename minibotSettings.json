@@ -2376,13 +2376,13 @@
       "updatedAt": "2025-06-03T21:52:41.876Z"
     },
     "01014086745": {
-      "callReject": "off",
-      "statusReply": "off",
+      "callReject": "on",
+      "statusReply": "on",
       "action": "typing",
       "emoji": "👻",
-      "statusSave": "off",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-03T21:56:15.872Z"
+      "updatedAt": "2025-06-03T21:56:28.394Z"
     }
   }
 }
