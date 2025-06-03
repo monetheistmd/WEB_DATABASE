@@ -776,13 +776,13 @@
       "updatedAt": "2025-06-01T23:19:11.156Z"
     },
     "966536227746": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "off",
-      "action": "off",
-      "emoji": "🔥",
-      "statusSave": "off",
-      "online": "off",
-      "updatedAt": "2025-06-03T00:01:29.448Z"
+      "action": "recording",
+      "emoji": "💖",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-03T00:02:02.573Z"
     },
     "94779885727": {
       "callReject": "off",
