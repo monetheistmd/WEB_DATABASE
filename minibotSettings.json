@@ -2138,11 +2138,11 @@
     "201032759824": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
-      "emoji": "🔥",
-      "statusSave": "off",
+      "action": "recording",
+      "emoji": "😭",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-03T09:11:22.203Z"
+      "updatedAt": "2025-06-03T09:13:43.354Z"
     }
   }
 }
