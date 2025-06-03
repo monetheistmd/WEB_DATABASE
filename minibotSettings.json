@@ -1038,11 +1038,13 @@
       "updatedAt": "2025-06-02T08:40:17.655Z"
     },
     "252619109244": {
-      "callReject": "off",
-      "statusReply": "off",
-      "action": "off",
-      "emoji": "😭",
-      "updatedAt": "2025-06-02T09:11:39.830Z"
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "💓",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-03T11:21:20.437Z"
     },
     "201500714332": {
       "callReject": "on",
