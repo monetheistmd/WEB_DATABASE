@@ -363,10 +363,12 @@
     },
     "967775562983": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
-      "emoji": "👻",
-      "updatedAt": "2025-06-02T00:09:48.847Z"
+      "emoji": "⚡",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-03T19:09:46.330Z"
     },
     "94740085824": {
       "callReject": "off",
