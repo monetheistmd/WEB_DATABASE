@@ -668,12 +668,12 @@
     },
     "201500737122": {
       "callReject": "off",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "off",
       "emoji": "🎉",
       "statusSave": "off",
-      "online": "off",
-      "updatedAt": "2025-06-03T16:08:39.998Z"
+      "online": "on",
+      "updatedAt": "2025-06-03T16:12:58.535Z"
     },
     "994400044004": {
       "callReject": "off",
