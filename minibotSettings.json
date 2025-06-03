@@ -2027,6 +2027,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-03T04:20:33.171Z"
+    },
+    "01503952237": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "✨",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-03T04:21:51.809Z"
     }
   }
 }
