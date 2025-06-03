@@ -2012,13 +2012,13 @@
       "updatedAt": "2025-06-03T11:20:31.472Z"
     },
     "201096797728": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "off",
-      "action": "off",
+      "action": "typing",
       "emoji": "🌹",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-03T13:08:03.096Z"
+      "online": "off",
+      "updatedAt": "2025-06-03T20:26:00.012Z"
     },
     "963998185890": {
       "callReject": "off",
