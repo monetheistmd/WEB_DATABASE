@@ -1971,12 +1971,12 @@
     },
     "967782387985": {
       "callReject": "off",
-      "statusReply": "on",
-      "action": "recording",
+      "statusReply": "off",
+      "action": "off",
       "emoji": "🥰",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-03T04:53:32.677Z"
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-03T06:41:31.774Z"
     },
     "201007922618": {
       "callReject": "off",
