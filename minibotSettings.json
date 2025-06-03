@@ -2388,6 +2388,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-03T20:23:34.176Z"
+    },
+    "967715131110": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🔥",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-03T20:46:15.815Z"
     }
   }
 }
