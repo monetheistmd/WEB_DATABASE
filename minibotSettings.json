@@ -2116,6 +2116,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-03T08:45:59.775Z"
+    },
+    "94768026440": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "✨",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-03T08:57:14.055Z"
     }
   }
 }
