@@ -2313,24 +2313,6 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-03T15:37:55.911Z"
-    },
-    "01017476026": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "👽",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-03T15:40:30.665Z"
-    },
-    "967784243922": {
-      "callReject": "on",
-      "statusReply": "off",
-      "action": "typing",
-      "emoji": "🦋",
-      "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-03T15:40:28.217Z"
     }
   }
 }
