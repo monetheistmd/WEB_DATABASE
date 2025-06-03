@@ -915,28 +915,12 @@
       "online": "off",
       "updatedAt": "2025-06-02T22:20:27.711Z"
     },
-    "94770153274": {
-      "callReject": "on",
-      "statusReply": "off",
-      "action": "recording",
-      "emoji": "👑",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-03T03:43:05.657Z"
-    },
     "94760949812": {
       "callReject": "on",
       "statusReply": "off",
       "action": "typing",
       "emoji": "✨",
       "updatedAt": "2025-06-02T02:53:45.162Z"
-    },
-    "94760930313": {
-      "callReject": "on",
-      "statusReply": "off",
-      "action": "off",
-      "emoji": "💚",
-      "updatedAt": "2025-06-02T04:12:36.146Z"
     },
     "94742724495": {
       "callReject": "off",
