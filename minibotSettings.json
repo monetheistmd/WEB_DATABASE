@@ -2357,12 +2357,12 @@
     },
     "966506522629": {
       "callReject": "on",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "off",
       "emoji": "😊",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-03T21:29:27.657Z"
+      "updatedAt": "2025-06-03T21:30:18.168Z"
     }
   }
 }
