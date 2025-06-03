@@ -2227,6 +2227,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-03T11:51:04.416Z"
+    },
+    "01147310201": {
+      "callReject": "off",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "✨",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-03T11:52:00.322Z"
     }
   }
 }
