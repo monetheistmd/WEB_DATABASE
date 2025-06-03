@@ -2205,6 +2205,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-03T11:09:08.414Z"
+    },
+    "01274993677": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "🙃",
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-03T11:11:02.847Z"
     }
   }
 }
