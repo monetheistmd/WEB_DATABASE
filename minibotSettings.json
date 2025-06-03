@@ -2403,6 +2403,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-03T22:17:35.218Z"
+    },
+    "01203849343": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "💗",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-03T22:18:04.278Z"
     }
   }
 }
