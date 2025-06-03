@@ -1073,11 +1073,11 @@
     "201099865281": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "typing",
-      "emoji": "💀",
-      "statusSave": "off",
+      "action": "recording",
+      "emoji": "🍀",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-02T10:07:08.087Z"
+      "updatedAt": "2025-06-03T19:33:23.487Z"
     },
     "201090478816": {
       "callReject": "on",
