@@ -2172,24 +2172,6 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-03T09:46:00.329Z"
-    },
-    "9470493428": {
-      "callReject": "off",
-      "statusReply": "off",
-      "action": "recording",
-      "emoji": "🚀",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-03T09:44:32.064Z"
-    },
-    "201212427580": {
-      "callReject": "on",
-      "statusReply": "off",
-      "action": "recording",
-      "emoji": "😍",
-      "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-03T09:44:39.010Z"
     }
   }
 }
