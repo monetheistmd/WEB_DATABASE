@@ -2305,10 +2305,10 @@
       "callReject": "on",
       "statusReply": "off",
       "action": "recording",
-      "emoji": "🤫",
-      "statusSave": "on",
+      "emoji": "💔",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T21:20:23.953Z"
+      "updatedAt": "2025-06-03T21:22:01.930Z"
     },
     "249907326310": {
       "callReject": "on",
