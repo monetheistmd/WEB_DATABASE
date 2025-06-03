@@ -1980,6 +1980,15 @@
       "statusSave": "off",
       "online": "off",
       "updatedAt": "2025-06-03T02:13:37.535Z"
+    },
+    "254759930272": {
+      "callReject": "off",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🫥",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-03T02:13:53.579Z"
     }
   }
 }
