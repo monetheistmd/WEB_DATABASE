@@ -2261,11 +2261,11 @@
     "249115233284": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
+      "action": "recording",
       "emoji": "🖤",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T15:01:44.138Z"
+      "updatedAt": "2025-06-03T15:01:48.143Z"
     }
   }
 }
