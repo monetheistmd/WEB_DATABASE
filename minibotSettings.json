@@ -2359,12 +2359,12 @@
     },
     "201005865948": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "🔥",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T21:58:05.961Z"
+      "updatedAt": "2025-06-03T22:01:05.933Z"
     },
     "201155092273": {
       "callReject": "off",
