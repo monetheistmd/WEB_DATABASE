@@ -1791,13 +1791,13 @@
       "updatedAt": "2025-06-03T02:01:33.233Z"
     },
     "963957504763": {
-      "callReject": "on",
-      "statusReply": "on",
+      "callReject": "off",
+      "statusReply": "off",
       "action": "off",
       "emoji": "🖤",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T14:26:23.341Z"
+      "updatedAt": "2025-06-03T14:28:17.686Z"
     },
     "967773369766": {
       "callReject": "on",
