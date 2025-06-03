@@ -2383,6 +2383,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-03T21:56:34.831Z"
+    },
+    "967771614047": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "off",
+      "emoji": "👑",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-03T21:56:40.676Z"
     }
   }
 }
