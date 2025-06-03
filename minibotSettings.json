@@ -2430,12 +2430,12 @@
     },
     "249907326310": {
       "callReject": "on",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "recording",
       "emoji": "🙈",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T18:41:59.141Z"
+      "updatedAt": "2025-06-03T18:42:02.012Z"
     },
     "967772838653": {
       "callReject": "on",
