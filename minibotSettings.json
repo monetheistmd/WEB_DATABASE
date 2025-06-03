@@ -2277,13 +2277,13 @@
       "updatedAt": "2025-06-03T15:16:32.084Z"
     },
     "201559173899": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "💘",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-03T15:19:19.975Z"
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "🥰",
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-03T15:20:47.730Z"
     }
   }
 }
