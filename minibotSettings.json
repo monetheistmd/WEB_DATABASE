@@ -2164,11 +2164,11 @@
     "249119541351": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
+      "action": "recording",
       "emoji": "🐦",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T10:54:53.213Z"
+      "updatedAt": "2025-06-03T10:56:44.500Z"
     },
     "249903351162": {
       "callReject": "on",
