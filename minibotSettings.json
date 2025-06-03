@@ -1915,13 +1915,13 @@
       "updatedAt": "2025-06-03T00:16:29.702Z"
     },
     "967781864613": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
-      "action": "typing",
+      "action": "off",
       "emoji": "💙",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-03T00:16:28.151Z"
+      "online": "off",
+      "updatedAt": "2025-06-03T00:17:01.561Z"
     },
     "2001015617403": {
       "callReject": "on",
