@@ -2272,12 +2272,12 @@
     },
     "967781864632": {
       "callReject": "on",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "typing",
-      "emoji": "💜",
-      "statusSave": "on",
+      "emoji": "🫡",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T19:07:00.681Z"
+      "updatedAt": "2025-06-03T19:13:12.923Z"
     },
     "967776946424": {
       "callReject": "on",
