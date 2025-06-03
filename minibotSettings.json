@@ -2366,12 +2366,12 @@
     },
     "01508182973": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "🦋",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T20:59:11.389Z"
+      "updatedAt": "2025-06-03T20:59:24.669Z"
     }
   }
 }
