@@ -2040,11 +2040,11 @@
     "249914280828": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
+      "action": "recording",
       "emoji": "⚡",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-03T04:27:32.129Z"
+      "updatedAt": "2025-06-03T04:27:35.853Z"
     },
     "249905102977": {
       "callReject": "off",
