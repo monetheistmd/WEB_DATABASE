@@ -1596,13 +1596,13 @@
       "updatedAt": "2025-06-02T17:52:12.980Z"
     },
     "254111605223": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "off",
       "action": "typing",
-      "emoji": "✨",
+      "emoji": "🐍",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-02T18:45:25.089Z"
+      "updatedAt": "2025-06-03T08:05:09.077Z"
     },
     "201120559639": {
       "callReject": "off",
