@@ -1956,12 +1956,12 @@
     },
     "967773369766": {
       "callReject": "off",
-      "statusReply": "on",
-      "action": "off",
+      "statusReply": "off",
+      "action": "typing",
       "emoji": "👽",
       "statusSave": "off",
-      "online": "off",
-      "updatedAt": "2025-06-03T02:34:44.124Z"
+      "online": "on",
+      "updatedAt": "2025-06-03T02:36:28.909Z"
     },
     "254759930272": {
       "callReject": "on",
