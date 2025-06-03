@@ -1869,12 +1869,12 @@
     },
     "201150321132": {
       "callReject": "off",
-      "statusReply": "on",
-      "action": "off",
+      "statusReply": "off",
+      "action": "recording",
       "emoji": "🐍",
       "statusSave": "on",
-      "online": "off",
-      "updatedAt": "2025-06-03T17:35:54.000Z"
+      "online": "on",
+      "updatedAt": "2025-06-03T19:50:33.335Z"
     },
     "201023280357": {
       "callReject": "off",
