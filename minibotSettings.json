@@ -1955,13 +1955,13 @@
       "updatedAt": "2025-06-03T02:07:21.758Z"
     },
     "967773369766": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "off",
       "action": "typing",
       "emoji": "👻",
-      "statusSave": "off",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-03T02:25:51.318Z"
+      "updatedAt": "2025-06-03T02:26:11.374Z"
     },
     "254759930272": {
       "callReject": "on",
