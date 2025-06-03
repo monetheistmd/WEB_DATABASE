@@ -2140,11 +2140,11 @@
     "249119541351": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "recording",
-      "emoji": "🦄",
-      "statusSave": "on",
+      "action": "typing",
+      "emoji": "🔥",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T09:26:40.201Z"
+      "updatedAt": "2025-06-03T09:34:49.073Z"
     },
     "94728936657": {
       "callReject": "on",
