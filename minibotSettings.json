@@ -2238,6 +2238,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-03T12:02:12.514Z"
+    },
+    "249907326310": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "😭",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-03T12:02:17.990Z"
     }
   }
 }
