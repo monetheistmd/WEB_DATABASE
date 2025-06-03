@@ -2196,6 +2196,15 @@
       "statusSave": "off",
       "online": "off",
       "updatedAt": "2025-06-03T10:45:58.738Z"
+    },
+    "0117642844": {
+      "callReject": "off",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "👀",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-03T10:46:37.643Z"
     }
   }
 }
