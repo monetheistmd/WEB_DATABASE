@@ -336,12 +336,12 @@
     },
     "252618978811": {
       "callReject": "on",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "recording",
       "emoji": "🫡",
       "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-03T07:10:48.385Z"
+      "updatedAt": "2025-06-03T12:28:02.322Z"
     },
     "967776223003": {
       "callReject": "on",
