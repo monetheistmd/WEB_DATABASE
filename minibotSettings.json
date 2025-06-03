@@ -1096,12 +1096,12 @@
     },
     "201500714332": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "off",
-      "emoji": "😴",
+      "emoji": "🥱",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T00:02:21.360Z"
+      "updatedAt": "2025-06-03T00:20:46.086Z"
     },
     "201207788043": {
       "callReject": "on",
