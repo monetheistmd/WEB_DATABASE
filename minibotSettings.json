@@ -2356,13 +2356,13 @@
       "updatedAt": "2025-06-03T21:27:33.084Z"
     },
     "966506522629": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
       "action": "off",
       "emoji": "😊",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-03T21:30:18.168Z"
+      "updatedAt": "2025-06-03T21:30:21.195Z"
     }
   }
 }
