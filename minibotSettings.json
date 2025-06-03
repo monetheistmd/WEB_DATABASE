@@ -2163,6 +2163,15 @@
       "statusSave": "off",
       "online": "off",
       "updatedAt": "2025-06-03T09:33:32.930Z"
+    },
+    "967780455857": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "😍",
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-03T09:34:58.780Z"
     }
   }
 }
