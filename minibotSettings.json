@@ -2434,6 +2434,15 @@
       "action": "off",
       "emoji": "🔥",
       "updatedAt": "2025-06-03T18:46:54.538Z"
+    },
+    "249907326310": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "🙈",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-03T18:48:07.533Z"
     }
   }
 }
