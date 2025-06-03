@@ -2260,11 +2260,11 @@
     "201025883001": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
+      "action": "off",
       "emoji": "💗",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T12:43:43.052Z"
+      "updatedAt": "2025-06-03T12:43:51.598Z"
     }
   }
 }
