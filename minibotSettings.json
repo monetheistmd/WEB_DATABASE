@@ -106,11 +106,11 @@
     "201112304809": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "typing",
+      "action": "off",
       "emoji": "👽",
-      "statusSave": "off",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-03T23:20:31.538Z"
+      "updatedAt": "2025-06-03T23:22:39.896Z"
     },
     "201224301897": {
       "callReject": "off",
