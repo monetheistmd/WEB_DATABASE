@@ -2438,11 +2438,11 @@
     "249907326310": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "recording",
-      "emoji": "🙈",
+      "action": "typing",
+      "emoji": "😎",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T18:48:07.533Z"
+      "updatedAt": "2025-06-03T18:48:23.115Z"
     }
   }
 }
