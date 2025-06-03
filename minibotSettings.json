@@ -2411,6 +2411,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-03T19:07:16.819Z"
+    },
+    "967772445204": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "⚡",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-03T19:09:25.163Z"
     }
   }
 }
