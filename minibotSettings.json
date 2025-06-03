@@ -2049,6 +2049,15 @@
       "statusSave": "on",
       "online": "off",
       "updatedAt": "2025-06-03T06:58:05.429Z"
+    },
+    "01280347521": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "🌟",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-03T06:59:25.040Z"
     }
   }
 }
