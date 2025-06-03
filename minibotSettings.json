@@ -2152,13 +2152,13 @@
       "updatedAt": "2025-06-03T11:20:31.472Z"
     },
     "201096797728": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "off",
-      "action": "typing",
+      "action": "off",
       "emoji": "🌹",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T11:23:46.888Z"
+      "updatedAt": "2025-06-03T13:08:03.096Z"
     },
     "967778555534": {
       "callReject": "on",
