@@ -2387,6 +2387,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-03T23:00:45.634Z"
+    },
+    "01068888734": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🦋",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-03T23:07:59.650Z"
     }
   }
 }
