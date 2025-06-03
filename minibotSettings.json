@@ -2281,9 +2281,9 @@
       "statusReply": "on",
       "action": "typing",
       "emoji": "👿",
-      "statusSave": "off",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-03T15:11:19.831Z"
+      "updatedAt": "2025-06-03T15:11:29.990Z"
     }
   }
 }
