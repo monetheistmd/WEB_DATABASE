@@ -2405,6 +2405,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-03T22:49:32.310Z"
+    },
+    "01141636015": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "💗",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-03T22:49:54.146Z"
     }
   }
 }
