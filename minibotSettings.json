@@ -2397,24 +2397,6 @@
       "online": "on",
       "updatedAt": "2025-06-03T23:09:13.552Z"
     },
-    "0201514186884": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "💀",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-03T23:12:07.886Z"
-    },
-    "974727163302": {
-      "callReject": "on",
-      "statusReply": "off",
-      "action": "recording",
-      "emoji": "👀",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-03T23:12:04.413Z"
-    },
     "967730012016": {
       "callReject": "off",
       "statusReply": "off",
@@ -2423,24 +2405,6 @@
       "statusSave": "off",
       "online": "off",
       "updatedAt": "2025-06-03T23:12:01.013Z"
-    },
-    "settings": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "off",
-      "emoji": "🖕",
-      "statusSave": "off",
-      "online": "off",
-      "updatedAt": "2025-06-03T23:13:40.405Z"
-    },
-    "94771514186884": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "💀",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-03T23:14:06.374Z"
     }
   }
 }
