@@ -2090,12 +2090,12 @@
     },
     "201150321132": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
+      "statusReply": "off",
+      "action": "off",
       "emoji": "🐍",
       "statusSave": "on",
-      "online": "off",
-      "updatedAt": "2025-06-03T08:25:23.450Z"
+      "online": "on",
+      "updatedAt": "2025-06-03T08:40:23.936Z"
     },
     "201023280357": {
       "callReject": "off",
