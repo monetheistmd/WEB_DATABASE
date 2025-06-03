@@ -1904,6 +1904,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-03T00:13:45.352Z"
+    },
+    "0674051739": {
+      "callReject": "off",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "💤",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-03T00:15:03.945Z"
     }
   }
 }
