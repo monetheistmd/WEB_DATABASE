@@ -2282,11 +2282,11 @@
     "201557554894": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "off",
+      "action": "typing",
       "emoji": "🫶",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-03T13:42:19.952Z"
+      "updatedAt": "2025-06-03T13:42:26.155Z"
     }
   }
 }
