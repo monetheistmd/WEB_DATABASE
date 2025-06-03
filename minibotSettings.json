@@ -1989,24 +1989,6 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-03T02:48:48.782Z"
-    },
-    "967735929872": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "👎",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-03T03:02:38.057Z"
-    },
-    "967777987728": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "👀",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-03T03:02:56.686Z"
     }
   }
 }
