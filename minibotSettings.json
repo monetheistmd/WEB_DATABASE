@@ -2224,11 +2224,11 @@
     "249907326310": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
-      "emoji": "🥶",
+      "action": "recording",
+      "emoji": "🤡",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T12:04:57.508Z"
+      "updatedAt": "2025-06-03T12:06:37.745Z"
     }
   }
 }
