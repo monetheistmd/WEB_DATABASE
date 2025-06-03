@@ -2147,13 +2147,13 @@
       "updatedAt": "2025-06-03T09:15:04.315Z"
     },
     "249119541351": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "on",
-      "action": "off",
+      "action": "typing",
       "emoji": "🦄",
       "statusSave": "off",
-      "online": "off",
-      "updatedAt": "2025-06-03T09:16:52.795Z"
+      "online": "on",
+      "updatedAt": "2025-06-03T09:23:22.051Z"
     },
     "01229679183": {
       "callReject": "on",
