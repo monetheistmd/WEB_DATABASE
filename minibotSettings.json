@@ -2171,12 +2171,12 @@
     },
     "963998185890": {
       "callReject": "off",
-      "statusReply": "off",
-      "action": "off",
-      "emoji": "😏",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🥶",
       "statusSave": "off",
-      "online": "off",
-      "updatedAt": "2025-06-03T12:31:22.356Z"
+      "online": "on",
+      "updatedAt": "2025-06-03T12:56:05.499Z"
     },
     "249907326310": {
       "callReject": "on",
