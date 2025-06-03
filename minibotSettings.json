@@ -2389,13 +2389,13 @@
       "updatedAt": "2025-06-03T22:18:44.644Z"
     },
     "201203849343": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "on",
       "action": "typing",
       "emoji": "💗",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-03T22:29:00.085Z"
+      "updatedAt": "2025-06-03T22:33:16.004Z"
     }
   }
 }
