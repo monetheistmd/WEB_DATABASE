@@ -2038,6 +2038,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-03T04:43:51.411Z"
+    },
+    "2001503952237": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "✨",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-03T04:44:08.824Z"
     }
   }
 }
