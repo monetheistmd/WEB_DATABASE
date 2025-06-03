@@ -2154,15 +2154,6 @@
       "statusSave": "off",
       "online": "off",
       "updatedAt": "2025-06-03T09:16:52.795Z"
-    },
-    "01224423736": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "🔥",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-03T09:18:48.275Z"
     }
   }
 }
