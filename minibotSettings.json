@@ -1962,6 +1962,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-03T02:07:21.758Z"
+    },
+    "967773369766": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "👻",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-03T02:10:29.597Z"
     }
   }
 }
