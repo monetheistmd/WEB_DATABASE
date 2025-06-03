@@ -1973,13 +1973,13 @@
       "updatedAt": "2025-06-03T02:13:37.535Z"
     },
     "254759930272": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "on",
       "action": "typing",
       "emoji": "🫥",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T02:13:53.579Z"
+      "updatedAt": "2025-06-03T02:15:14.554Z"
     }
   }
 }
