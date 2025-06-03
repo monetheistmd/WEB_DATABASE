@@ -2154,12 +2154,12 @@
     },
     "249119541351": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
-      "emoji": "🦄",
-      "statusSave": "on",
+      "emoji": "🐍",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T11:15:01.272Z"
+      "updatedAt": "2025-06-03T11:16:23.292Z"
     },
     "994404166219": {
       "callReject": "off",
