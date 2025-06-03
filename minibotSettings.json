@@ -2262,13 +2262,13 @@
       "updatedAt": "2025-06-03T13:50:48.331Z"
     },
     "201557554894": {
-      "callReject": "on",
-      "statusReply": "on",
+      "callReject": "off",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "😎",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T14:00:29.264Z"
+      "updatedAt": "2025-06-03T14:00:39.257Z"
     }
   }
 }
