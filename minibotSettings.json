@@ -1343,12 +1343,12 @@
     },
     "967736198671": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
-      "emoji": "👀",
-      "statusSave": "off",
+      "emoji": "🎂",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-03T05:37:04.374Z"
+      "updatedAt": "2025-06-03T07:04:01.714Z"
     },
     "254107182109": {
       "callReject": "on",
