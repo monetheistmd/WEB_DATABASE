@@ -2344,6 +2344,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-03T16:45:35.518Z"
+    },
+    "0702088496": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🔥",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-03T16:48:56.074Z"
     }
   }
 }
