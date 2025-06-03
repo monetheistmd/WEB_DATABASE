@@ -2392,11 +2392,11 @@
     "963983397376": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "off",
+      "action": "typing",
       "emoji": "✨",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-03T20:23:29.691Z"
+      "updatedAt": "2025-06-03T20:23:32.002Z"
     }
   }
 }
