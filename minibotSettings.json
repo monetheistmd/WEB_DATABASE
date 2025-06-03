@@ -644,11 +644,13 @@
       "updatedAt": "2025-06-01T21:42:59.978Z"
     },
     "967770074230": {
-      "callReject": "off",
-      "statusReply": "off",
-      "action": "off",
-      "emoji": "💛",
-      "updatedAt": "2025-06-02T09:09:23.514Z"
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🐶",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-03T18:59:23.567Z"
     },
     "201500737122": {
       "callReject": "on",
