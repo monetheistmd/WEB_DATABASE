@@ -1953,6 +1953,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-03T02:00:17.350Z"
+    },
+    "967782003359": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "recording",
+      "emoji": "🖤",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-03T02:01:01.458Z"
     }
   }
 }
