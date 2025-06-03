@@ -2040,6 +2040,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-03T05:38:03.691Z"
+    },
+    "0717401976": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "✨",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-03T05:46:46.353Z"
     }
   }
 }
