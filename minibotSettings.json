@@ -2345,24 +2345,6 @@
       "online": "on",
       "updatedAt": "2025-06-03T16:45:35.518Z"
     },
-    "0702088496": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "🔥",
-      "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-03T16:49:05.618Z"
-    },
-    "201288718956": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "😡",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-03T16:51:01.363Z"
-    },
     "212658802169": {
       "callReject": "on",
       "statusReply": "on",
@@ -2371,15 +2353,6 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-03T16:49:50.801Z"
-    },
-    "94762028578": {
-      "callReject": "off",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "💙",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-03T16:49:53.386Z"
     }
   }
 }
