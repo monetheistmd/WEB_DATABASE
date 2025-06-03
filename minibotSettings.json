@@ -2245,12 +2245,12 @@
     },
     "94741968336": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "off",
       "emoji": "🫥",
       "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-03T13:06:49.314Z"
+      "updatedAt": "2025-06-03T13:25:11.757Z"
     },
     "94704346175": {
       "callReject": "on",
