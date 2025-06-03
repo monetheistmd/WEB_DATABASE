@@ -2396,24 +2396,6 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-03T22:56:06.540Z"
-    },
-    "201141636013": {
-      "callReject": "on",
-      "statusReply": "off",
-      "action": "typing",
-      "emoji": "💗",
-      "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-03T22:56:00.685Z"
-    },
-    "settings": {
-      "callReject": "off",
-      "statusReply": "off",
-      "action": "off",
-      "emoji": "💀",
-      "statusSave": "off",
-      "online": "off",
-      "updatedAt": "2025-06-03T22:57:06.637Z"
     }
   }
 }
