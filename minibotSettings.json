@@ -1925,13 +1925,13 @@
       "updatedAt": "2025-06-03T02:30:18.785Z"
     },
     "201272740087": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "off",
-      "action": "typing",
+      "action": "off",
       "emoji": "🖤",
       "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-03T02:56:58.053Z"
+      "online": "off",
+      "updatedAt": "2025-06-03T05:59:24.264Z"
     },
     "94769929719": {
       "callReject": "off",
