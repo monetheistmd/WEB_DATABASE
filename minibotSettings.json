@@ -2273,6 +2273,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-03T14:18:08.448Z"
+    },
+    "201204870832": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "😌",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-03T14:18:24.067Z"
     }
   }
 }
