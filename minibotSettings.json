@@ -2409,11 +2409,11 @@
     "201223501362": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "recording",
-      "emoji": "⚡",
+      "action": "typing",
+      "emoji": "😢",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T23:03:08.805Z"
+      "updatedAt": "2025-06-03T23:04:11.400Z"
     }
   }
 }
