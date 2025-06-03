@@ -1971,6 +1971,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-03T02:15:14.554Z"
+    },
+    "966535500719": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "🔥",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-03T02:28:53.963Z"
     }
   }
 }
