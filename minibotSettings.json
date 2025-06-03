@@ -2278,6 +2278,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-03T13:16:46.892Z"
+    },
+    "01207788043": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "👀",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-03T13:17:51.345Z"
     }
   }
 }
