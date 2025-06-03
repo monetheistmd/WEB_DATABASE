@@ -1249,12 +1249,12 @@
     },
     "252618142929": {
       "callReject": "off",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "⚡",
+      "statusReply": "off",
+      "action": "recording",
+      "emoji": "🧠",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-02T18:38:43.562Z"
+      "updatedAt": "2025-06-03T03:16:55.436Z"
     },
     "967734302454": {
       "callReject": "off",
