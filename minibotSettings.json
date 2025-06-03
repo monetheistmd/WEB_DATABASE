@@ -2256,6 +2256,15 @@
       "statusSave": "off",
       "online": "off",
       "updatedAt": "2025-06-03T12:44:54.104Z"
+    },
+    "0740328342": {
+      "callReject": "off",
+      "statusReply": "on",
+      "action": "off",
+      "emoji": "😭",
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-03T12:45:07.550Z"
     }
   }
 }
