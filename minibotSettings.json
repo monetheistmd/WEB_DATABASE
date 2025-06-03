@@ -1825,13 +1825,13 @@
       "updatedAt": "2025-06-03T01:16:01.857Z"
     },
     "201154074576": {
-      "callReject": "on",
-      "statusReply": "on",
+      "callReject": "off",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "👻",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T01:44:15.904Z"
+      "updatedAt": "2025-06-03T10:30:12.287Z"
     },
     "201120887823": {
       "callReject": "on",
