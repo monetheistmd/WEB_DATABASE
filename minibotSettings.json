@@ -2303,12 +2303,12 @@
     },
     "201015920775": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "😭",
-      "statusSave": "off",
+      "statusReply": "off",
+      "action": "recording",
+      "emoji": "🤫",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-03T21:00:46.823Z"
+      "updatedAt": "2025-06-03T21:20:15.527Z"
     },
     "249907326310": {
       "callReject": "on",
