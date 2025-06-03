@@ -2271,13 +2271,13 @@
       "updatedAt": "2025-06-03T13:26:11.917Z"
     },
     "963983397376": {
-      "callReject": "off",
-      "statusReply": "off",
-      "action": "off",
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
       "emoji": "💤",
-      "statusSave": "off",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-03T13:45:32.515Z"
+      "updatedAt": "2025-06-03T13:45:34.899Z"
     },
     "249905102977": {
       "callReject": "on",
