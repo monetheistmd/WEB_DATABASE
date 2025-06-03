@@ -1265,12 +1265,12 @@
     },
     "94788295349": {
       "callReject": "off",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "off",
       "emoji": "👍",
       "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-02T14:24:12.724Z"
+      "updatedAt": "2025-06-03T15:42:48.470Z"
     },
     "201557313177": {
       "callReject": "off",
