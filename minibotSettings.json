@@ -2423,13 +2423,13 @@
       "updatedAt": "2025-06-03T22:23:07.922Z"
     },
     "01122895961": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
       "emoji": "💔",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-03T22:23:16.412Z"
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-03T22:23:25.249Z"
     }
   }
 }
