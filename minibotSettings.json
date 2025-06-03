@@ -2320,12 +2320,12 @@
     },
     "967781864632": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
+      "statusReply": "off",
+      "action": "typing",
       "emoji": "🫡",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-03T16:37:13.099Z"
+      "updatedAt": "2025-06-03T16:54:18.703Z"
     },
     "967776946424": {
       "callReject": "on",
