@@ -2145,13 +2145,13 @@
       "updatedAt": "2025-06-03T09:15:04.315Z"
     },
     "249119541351": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
-      "action": "recording",
+      "action": "off",
       "emoji": "🦄",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-03T09:16:46.732Z"
+      "online": "off",
+      "updatedAt": "2025-06-03T09:16:52.795Z"
     }
   }
 }
