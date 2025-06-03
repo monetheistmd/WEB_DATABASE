@@ -2248,6 +2248,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-03T14:40:13.549Z"
+    },
+    "01092958934": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🔥",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-03T14:40:22.722Z"
     }
   }
 }
