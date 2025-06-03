@@ -2045,6 +2045,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-03T04:34:06.235Z"
+    },
+    "94771008691": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🔥",
+      "statusSave": "on",
+      "online": "off",
+      "updatedAt": "2025-06-03T04:34:25.069Z"
     }
   }
 }
