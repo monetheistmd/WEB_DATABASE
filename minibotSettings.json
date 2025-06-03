@@ -2058,6 +2058,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-03T05:55:46.101Z"
+    },
+    "0763110759": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🔥",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-03T05:57:48.554Z"
     }
   }
 }
