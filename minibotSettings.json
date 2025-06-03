@@ -661,12 +661,12 @@
     },
     "201500737122": {
       "callReject": "on",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "typing",
       "emoji": "🎉",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T18:09:45.545Z"
+      "updatedAt": "2025-06-03T18:11:37.023Z"
     },
     "994400044004": {
       "callReject": "off",
