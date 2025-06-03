@@ -1793,11 +1793,11 @@
     "963957504763": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
+      "action": "off",
       "emoji": "🖤",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T02:07:21.758Z"
+      "updatedAt": "2025-06-03T14:26:23.341Z"
     },
     "967773369766": {
       "callReject": "on",
