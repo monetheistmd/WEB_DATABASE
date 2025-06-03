@@ -2031,6 +2031,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-03T05:27:32.464Z"
+    },
+    "01040955173": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "👑",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-03T05:31:36.984Z"
     }
   }
 }
