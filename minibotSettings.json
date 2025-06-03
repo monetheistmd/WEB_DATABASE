@@ -2420,11 +2420,11 @@
     "201557471309": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "off",
-      "emoji": "💘",
+      "action": "typing",
+      "emoji": "💜",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T17:50:45.328Z"
+      "updatedAt": "2025-06-03T17:51:43.486Z"
     }
   }
 }
