@@ -2183,6 +2183,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-03T10:20:23.425Z"
+    },
+    "0769499616": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "😈",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-03T10:21:02.214Z"
     }
   }
 }
