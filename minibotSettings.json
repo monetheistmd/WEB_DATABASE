@@ -2040,6 +2040,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-03T06:56:33.452Z"
+    },
+    "94702649493": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "recording",
+      "emoji": "🦋",
+      "statusSave": "on",
+      "online": "off",
+      "updatedAt": "2025-06-03T06:57:58.266Z"
     }
   }
 }
