@@ -2007,24 +2007,6 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-03T03:16:29.954Z"
-    },
-    "94728815473": {
-      "callReject": "off",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "👽",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-03T03:17:55.869Z"
-    },
-    "0531687939": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "off",
-      "emoji": "😎",
-      "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-03T03:18:44.915Z"
     }
   }
 }
