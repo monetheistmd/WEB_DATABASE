@@ -2399,13 +2399,13 @@
       "updatedAt": "2025-06-03T19:09:24.575Z"
     },
     "201500240937": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "👀",
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "recording",
+      "emoji": "👑",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T19:16:04.035Z"
+      "updatedAt": "2025-06-03T19:27:24.608Z"
     },
     "201144333125": {
       "callReject": "on",
