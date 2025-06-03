@@ -2414,33 +2414,6 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-03T23:51:35.591Z"
-    },
-    "967779500870": {
-      "callReject": "on",
-      "statusReply": "off",
-      "action": "off",
-      "emoji": "⚡",
-      "statusSave": "off",
-      "online": "off",
-      "updatedAt": "2025-06-03T23:58:32.239Z"
-    },
-    "01280313888": {
-      "callReject": "off",
-      "statusReply": "off",
-      "action": "off",
-      "emoji": "👑",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-03T23:59:06.239Z"
-    },
-    "967775124938": {
-      "callReject": "off",
-      "statusReply": "off",
-      "action": "off",
-      "emoji": "🖤",
-      "statusSave": "off",
-      "online": "off",
-      "updatedAt": "2025-06-03T23:59:19.626Z"
     }
   }
 }
