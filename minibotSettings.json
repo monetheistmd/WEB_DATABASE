@@ -2279,12 +2279,12 @@
     },
     "967781864632": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "💜",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T19:04:37.027Z"
+      "updatedAt": "2025-06-03T19:06:52.626Z"
     },
     "967776946424": {
       "callReject": "on",
