@@ -565,12 +565,12 @@
     },
     "252616021711": {
       "callReject": "on",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "recording",
-      "emoji": "🤔",
+      "emoji": "💀",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-03T05:59:32.180Z"
+      "online": "off",
+      "updatedAt": "2025-06-03T06:29:45.354Z"
     },
     "201551637656": {
       "callReject": "on",
