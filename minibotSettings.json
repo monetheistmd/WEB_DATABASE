@@ -2848,6 +2848,15 @@
       "statusSave": "on",
       "online": "off",
       "updatedAt": "2025-06-04T11:03:48.503Z"
+    },
+    "94704488949": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "😂",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-04T11:03:55.266Z"
     }
   }
 }
