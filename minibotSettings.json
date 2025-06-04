@@ -364,12 +364,12 @@
     },
     "94740085824": {
       "callReject": "off",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "recording",
-      "emoji": "💖",
+      "emoji": "💗",
       "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-04T04:10:40.884Z"
+      "online": "off",
+      "updatedAt": "2025-06-04T10:02:04.525Z"
     },
     "967782365489": {
       "callReject": "on",
