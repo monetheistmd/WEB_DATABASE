@@ -2597,13 +2597,13 @@
       "updatedAt": "2025-06-04T07:59:09.276Z"
     },
     "201069125856": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "off",
       "action": "off",
       "emoji": "👑",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T09:11:50.658Z"
+      "updatedAt": "2025-06-04T09:11:55.845Z"
     },
     "963967121377": {
       "callReject": "on",
