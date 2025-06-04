@@ -2703,13 +2703,13 @@
       "updatedAt": "2025-06-04T13:31:49.634Z"
     },
     "94727854156": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
-      "emoji": "🧿",
+      "action": "recording",
+      "emoji": "💗",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-04T13:55:13.630Z"
+      "updatedAt": "2025-06-04T14:28:50.206Z"
     },
     "201044227657": {
       "callReject": "on",
