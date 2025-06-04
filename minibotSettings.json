@@ -2417,13 +2417,13 @@
       "updatedAt": "2025-06-04T12:44:50.084Z"
     },
     "94718949747": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "off",
       "action": "typing",
       "emoji": "👀",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-04T16:09:17.643Z"
+      "online": "off",
+      "updatedAt": "2025-06-04T19:15:08.629Z"
     },
     "94760172671": {
       "callReject": "on",
