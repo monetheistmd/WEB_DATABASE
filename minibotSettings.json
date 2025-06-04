@@ -2590,24 +2590,6 @@
       "online": "on",
       "updatedAt": "2025-06-04T05:35:14.685Z"
     },
-    "94727854156": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "🤡",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-04T05:39:19.877Z"
-    },
-    "94740362975": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "off",
-      "emoji": "🚀",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-04T05:53:01.228Z"
-    },
     "249903295523": {
       "callReject": "on",
       "statusReply": "on",
@@ -2616,24 +2598,6 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-04T05:52:26.899Z"
-    },
-    "260771331739": {
-      "callReject": "on",
-      "statusReply": "off",
-      "action": "recording",
-      "emoji": "💙",
-      "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-04T05:52:40.497Z"
-    },
-    "201203849343": {
-      "callReject": "off",
-      "statusReply": "off",
-      "action": "off",
-      "emoji": "💗",
-      "statusSave": "on",
-      "online": "off",
-      "updatedAt": "2025-06-04T05:52:46.661Z"
     }
   }
 }
