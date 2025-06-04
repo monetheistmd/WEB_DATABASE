@@ -2798,6 +2798,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-04T13:01:04.171Z"
+    },
+    "94717339446": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "😡",
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-04T13:04:53.531Z"
     }
   }
 }
