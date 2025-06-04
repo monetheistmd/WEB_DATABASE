@@ -1402,11 +1402,11 @@
     "967779438666": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "recording",
-      "emoji": "😴",
+      "action": "off",
+      "emoji": "💤",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T19:34:51.901Z"
+      "updatedAt": "2025-06-04T09:09:30.781Z"
     },
     "967715469149": {
       "callReject": "off",
