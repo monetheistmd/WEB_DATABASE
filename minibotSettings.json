@@ -2761,12 +2761,12 @@
     },
     "201007095068": {
       "callReject": "off",
-      "statusReply": "on",
-      "action": "recording",
+      "statusReply": "off",
+      "action": "off",
       "emoji": "🌹",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-04T10:19:36.289Z"
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-04T10:58:05.605Z"
     },
     "201064093018": {
       "callReject": "on",
