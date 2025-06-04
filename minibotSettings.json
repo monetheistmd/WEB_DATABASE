@@ -490,12 +490,12 @@
     },
     "252616021711": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "off",
       "emoji": "😊",
       "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-04T16:46:40.909Z"
+      "updatedAt": "2025-06-04T18:26:35.033Z"
     },
     "967775999359": {
       "callReject": "off",
