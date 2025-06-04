@@ -2601,13 +2601,13 @@
       "updatedAt": "2025-06-04T09:12:00.281Z"
     },
     "963967121377": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "off",
-      "action": "recording",
-      "emoji": "👽",
+      "action": "off",
+      "emoji": "🐬",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-04T08:14:57.599Z"
+      "online": "off",
+      "updatedAt": "2025-06-04T09:33:57.710Z"
     },
     "201229679183": {
       "callReject": "on",
