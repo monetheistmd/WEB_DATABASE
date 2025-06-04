@@ -2819,12 +2819,12 @@
     },
     "249999967164": {
       "callReject": "on",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "typing",
       "emoji": "🌹",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T11:45:48.297Z"
+      "updatedAt": "2025-06-04T11:47:48.130Z"
     }
   }
 }
