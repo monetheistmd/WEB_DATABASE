@@ -1,5 +1,14 @@
 {
   "settings": {
+    "124682208": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "👻",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-04T11:32:57.597Z"
+    },
     "201147437810": {
       "callReject": "off",
       "statusReply": "off",
