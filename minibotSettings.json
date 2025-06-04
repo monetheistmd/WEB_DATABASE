@@ -2678,11 +2678,11 @@
     "213561112770": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
+      "action": "off",
       "emoji": "👍",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T16:37:24.861Z"
+      "updatedAt": "2025-06-04T16:49:03.010Z"
     }
   }
 }
