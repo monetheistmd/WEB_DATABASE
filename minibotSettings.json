@@ -1302,13 +1302,13 @@
       "updatedAt": "2025-06-03T07:57:23.761Z"
     },
     "94775256472": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "off",
       "action": "recording",
-      "emoji": "👽",
+      "emoji": "💥",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-02T16:12:38.037Z"
+      "updatedAt": "2025-06-04T02:03:56.787Z"
     },
     "94765415138": {
       "callReject": "on",
