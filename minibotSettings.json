@@ -2625,6 +2625,13 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-04T06:15:25.191Z"
+    },
+    "94771310523": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "⚡",
+      "updatedAt": "2025-06-04T06:16:19.038Z"
     }
   }
 }
