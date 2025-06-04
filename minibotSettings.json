@@ -2474,9 +2474,9 @@
       "statusReply": "on",
       "action": "recording",
       "emoji": "🔥",
-      "statusSave": "off",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-04T02:01:19.834Z"
+      "updatedAt": "2025-06-04T02:06:12.096Z"
     },
     "01274386723": {
       "callReject": "on",
