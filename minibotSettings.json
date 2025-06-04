@@ -630,9 +630,11 @@
     "201013948565": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "typing",
-      "emoji": "💖",
-      "updatedAt": "2025-06-01T22:51:01.632Z"
+      "action": "off",
+      "emoji": "🫶",
+      "statusSave": "on",
+      "online": "off",
+      "updatedAt": "2025-06-04T11:46:59.685Z"
     },
     "967739525693": {
       "callReject": "off",
