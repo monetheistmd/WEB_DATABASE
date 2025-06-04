@@ -2609,13 +2609,13 @@
       "updatedAt": "2025-06-04T06:45:16.224Z"
     },
     "963982562361": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
       "action": "typing",
       "emoji": "😴",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T06:51:19.469Z"
+      "updatedAt": "2025-06-04T06:58:59.335Z"
     },
     "94761430252": {
       "callReject": "on",
