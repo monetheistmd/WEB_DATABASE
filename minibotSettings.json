@@ -2786,11 +2786,11 @@
     "201044227657": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "typing",
-      "emoji": "🌈",
+      "action": "off",
+      "emoji": "🐝",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T13:51:00.536Z"
+      "updatedAt": "2025-06-04T14:04:43.941Z"
     }
   }
 }
