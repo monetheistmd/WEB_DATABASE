@@ -2538,12 +2538,12 @@
     },
     "201027904596": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "🐥",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T04:13:04.989Z"
+      "updatedAt": "2025-06-04T04:21:21.307Z"
     },
     "94758244851": {
       "callReject": "off",
