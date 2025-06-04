@@ -2800,13 +2800,13 @@
       "updatedAt": "2025-06-04T11:59:31.087Z"
     },
     "01098235025": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
       "action": "typing",
-      "emoji": "🤔",
-      "statusSave": "on",
+      "emoji": "🔥",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T12:07:52.513Z"
+      "updatedAt": "2025-06-04T12:09:14.319Z"
     },
     "201156336099": {
       "callReject": "on",
