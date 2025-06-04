@@ -2535,12 +2535,12 @@
     },
     "94761430252": {
       "callReject": "on",
-      "statusReply": "off",
-      "action": "recording",
+      "statusReply": "on",
+      "action": "typing",
       "emoji": "😍",
       "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-04T08:58:52.300Z"
+      "online": "off",
+      "updatedAt": "2025-06-04T08:59:39.034Z"
     },
     "201153577563": {
       "callReject": "off",
