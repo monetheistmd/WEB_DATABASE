@@ -796,8 +796,10 @@
       "callReject": "on",
       "statusReply": "off",
       "action": "recording",
-      "emoji": "🔥",
-      "updatedAt": "2025-06-02T04:29:11.082Z"
+      "emoji": "👑",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-04T02:13:01.365Z"
     },
     "94760424531": {
       "callReject": "off",
