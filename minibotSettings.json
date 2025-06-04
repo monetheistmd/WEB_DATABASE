@@ -2575,11 +2575,11 @@
     "201143364256": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "off",
+      "action": "typing",
       "emoji": "👀",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T04:58:36.522Z"
+      "updatedAt": "2025-06-04T04:58:43.550Z"
     }
   }
 }
