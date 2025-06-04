@@ -2812,6 +2812,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-04T10:49:54.539Z"
+    },
+    "967735794562": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🤑",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-04T10:56:10.333Z"
     }
   }
 }
