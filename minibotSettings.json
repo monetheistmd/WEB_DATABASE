@@ -2823,6 +2823,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-04T11:26:46.264Z"
+    },
+    "201558599397": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "🤫",
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-04T11:27:19.952Z"
     }
   }
 }
