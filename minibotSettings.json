@@ -2773,6 +2773,15 @@
       "statusSave": "on",
       "online": "off",
       "updatedAt": "2025-06-04T13:31:49.634Z"
+    },
+    "94727854156": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "🧿",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-04T13:40:58.855Z"
     }
   }
 }
