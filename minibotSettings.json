@@ -2401,11 +2401,11 @@
     "94760424531": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "typing",
+      "action": "off",
       "emoji": "👻",
       "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-04T12:44:50.084Z"
+      "online": "off",
+      "updatedAt": "2025-06-04T19:26:01.661Z"
     },
     "94718949747": {
       "callReject": "off",
