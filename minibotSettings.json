@@ -2641,12 +2641,12 @@
     },
     "94701534053": {
       "callReject": "off",
-      "statusReply": "on",
-      "action": "typing",
+      "statusReply": "off",
+      "action": "off",
       "emoji": "🥰",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-04T19:25:29.368Z"
+      "online": "off",
+      "updatedAt": "2025-06-04T19:50:36.296Z"
     }
   }
 }
