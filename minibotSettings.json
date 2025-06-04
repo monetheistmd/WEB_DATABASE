@@ -96,12 +96,12 @@
     },
     "201112304809": {
       "callReject": "off",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "off",
-      "emoji": "👽",
-      "statusSave": "on",
+      "emoji": "🤡",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T23:22:39.896Z"
+      "updatedAt": "2025-06-04T04:12:02.773Z"
     },
     "201224301897": {
       "callReject": "off",
