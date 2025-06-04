@@ -2416,13 +2416,13 @@
       "updatedAt": "2025-06-03T23:51:35.591Z"
     },
     "201092600274": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "off",
       "action": "typing",
-      "emoji": "👀",
+      "emoji": "👽",
       "statusSave": "off",
-      "online": "off",
-      "updatedAt": "2025-06-04T00:01:16.093Z"
+      "online": "on",
+      "updatedAt": "2025-06-04T00:03:31.314Z"
     }
   }
 }
