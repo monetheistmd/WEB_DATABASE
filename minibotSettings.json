@@ -2574,12 +2574,12 @@
     },
     "94762124940": {
       "callReject": "off",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "recording",
       "emoji": "⚡",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-04T05:24:22.680Z"
+      "updatedAt": "2025-06-04T06:01:54.588Z"
     },
     "2349021097633": {
       "callReject": "on",
