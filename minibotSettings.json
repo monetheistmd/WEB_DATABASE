@@ -313,11 +313,13 @@
       "updatedAt": "2025-06-03T15:26:42.015Z"
     },
     "967776223003": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "off",
       "action": "off",
       "emoji": "💯",
-      "updatedAt": "2025-06-01T16:01:23.481Z"
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-04T10:12:37.203Z"
     },
     "201281205747": {
       "callReject": "off",
