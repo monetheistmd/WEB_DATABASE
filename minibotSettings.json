@@ -2711,12 +2711,12 @@
     },
     "967735794562": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "🤑",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T10:56:10.333Z"
+      "updatedAt": "2025-06-04T12:02:25.200Z"
     },
     "94713703177": {
       "callReject": "on",
