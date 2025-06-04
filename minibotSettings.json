@@ -2808,12 +2808,12 @@
     },
     "201098778163": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "🥱",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T11:32:04.913Z"
+      "updatedAt": "2025-06-04T11:32:34.697Z"
     },
     "94740026599": {
       "callReject": "on",
