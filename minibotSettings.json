@@ -2515,9 +2515,9 @@
       "statusReply": "off",
       "action": "typing",
       "emoji": "😊",
-      "statusSave": "off",
+      "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-04T10:01:22.787Z"
+      "updatedAt": "2025-06-04T10:01:36.537Z"
     },
     "201153577563": {
       "callReject": "off",
