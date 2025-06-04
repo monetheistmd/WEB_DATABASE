@@ -2670,6 +2670,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-04T07:35:19.349Z"
+    },
+    "201155401028": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "🦋",
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-04T07:44:02.720Z"
     }
   }
 }
