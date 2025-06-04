@@ -2668,12 +2668,12 @@
     },
     "213561112770": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "off",
       "emoji": "👍",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T16:49:03.010Z"
+      "updatedAt": "2025-06-04T16:54:53.061Z"
     },
     "967737741415": {
       "callReject": "off",
