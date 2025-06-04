@@ -2466,12 +2466,12 @@
     },
     "212701547152": {
       "callReject": "off",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "off",
-      "emoji": "🔥",
+      "emoji": "👀",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-04T02:18:51.712Z"
+      "updatedAt": "2025-06-04T04:27:35.291Z"
     },
     "967784243922": {
       "callReject": "on",
