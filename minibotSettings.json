@@ -2657,12 +2657,12 @@
     },
     "201153965417": {
       "callReject": "on",
-      "statusReply": "off",
-      "action": "off",
-      "emoji": "🔥",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "⚡",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T17:14:28.902Z"
+      "updatedAt": "2025-06-04T17:56:23.938Z"
     },
     "94779453971": {
       "callReject": "on",
