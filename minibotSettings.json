@@ -2692,13 +2692,13 @@
       "updatedAt": "2025-06-04T17:15:11.430Z"
     },
     "94768679861": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
-      "action": "typing",
+      "action": "off",
       "emoji": "😊",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-04T17:32:52.758Z"
+      "updatedAt": "2025-06-04T17:33:32.460Z"
     }
   }
 }
