@@ -2698,6 +2698,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-04T09:28:01.512Z"
+    },
+    "201225091752": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "🦋",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-04T09:31:24.734Z"
     }
   }
 }
