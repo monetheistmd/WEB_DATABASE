@@ -2601,12 +2601,12 @@
     },
     "94761430252": {
       "callReject": "off",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "😍",
       "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-04T07:23:23.616Z"
+      "updatedAt": "2025-06-04T07:28:25.722Z"
     },
     "201153577563": {
       "callReject": "off",
