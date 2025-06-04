@@ -2489,15 +2489,6 @@
       "online": "off",
       "updatedAt": "2025-06-04T02:38:50.149Z"
     },
-    "94725599256": {
-      "callReject": "off",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "🎉",
-      "statusSave": "on",
-      "online": "off",
-      "updatedAt": "2025-06-04T02:47:01.414Z"
-    },
     "94768747886": {
       "callReject": "on",
       "statusReply": "on",
@@ -2524,15 +2515,6 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-04T03:26:10.016Z"
-    },
-    "94742413247": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "🔥",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-04T03:27:35.853Z"
     }
   }
 }
