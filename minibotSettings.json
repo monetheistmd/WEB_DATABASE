@@ -2695,12 +2695,12 @@
     },
     "201221766912": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
+      "statusReply": "off",
+      "action": "off",
       "emoji": "🌹",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T15:51:57.340Z"
+      "updatedAt": "2025-06-04T15:55:04.231Z"
     },
     "94760264995": {
       "callReject": "on",
