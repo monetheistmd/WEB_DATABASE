@@ -2601,12 +2601,12 @@
     },
     "201554929439": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
-      "emoji": "⚡",
-      "statusSave": "off",
+      "emoji": "🤡",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-04T09:26:49.781Z"
+      "updatedAt": "2025-06-04T11:31:43.911Z"
     },
     "94786888371": {
       "callReject": "on",
