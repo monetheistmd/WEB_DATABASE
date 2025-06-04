@@ -1547,13 +1547,13 @@
       "updatedAt": "2025-06-03T08:23:21.288Z"
     },
     "967774548403": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "off",
-      "action": "typing",
-      "emoji": "🫶",
+      "action": "off",
+      "emoji": "🌹",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-02T22:06:23.126Z"
+      "updatedAt": "2025-06-04T04:41:02.870Z"
     },
     "249969301843": {
       "callReject": "on",
