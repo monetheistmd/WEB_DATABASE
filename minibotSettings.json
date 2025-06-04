@@ -2470,6 +2470,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-04T02:06:12.096Z"
+    },
+    "966577524834": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🚀",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-04T02:16:08.886Z"
     }
   }
 }
