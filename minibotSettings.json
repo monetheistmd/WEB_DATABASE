@@ -2531,15 +2531,6 @@
       "online": "off",
       "updatedAt": "2025-06-04T10:55:47.552Z"
     },
-    "249903295523": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "😡",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-04T10:25:27.180Z"
-    },
     "201007095068": {
       "callReject": "off",
       "statusReply": "off",
