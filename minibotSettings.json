@@ -2616,12 +2616,12 @@
     },
     "201069125856": {
       "callReject": "off",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "off",
       "emoji": "👑",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T08:26:32.240Z"
+      "updatedAt": "2025-06-04T08:43:37.265Z"
     },
     "963967121377": {
       "callReject": "on",
