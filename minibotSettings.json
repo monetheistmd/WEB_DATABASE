@@ -2546,13 +2546,13 @@
       "updatedAt": "2025-06-04T04:13:04.989Z"
     },
     "94771374479": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "on",
       "action": "recording",
       "emoji": "🔥",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-04T04:14:30.766Z"
+      "updatedAt": "2025-06-04T04:14:35.074Z"
     }
   }
 }
