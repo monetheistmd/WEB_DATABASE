@@ -2611,11 +2611,11 @@
     "963982562361": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "recording",
+      "action": "typing",
       "emoji": "😴",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T06:47:50.197Z"
+      "updatedAt": "2025-06-04T06:51:19.469Z"
     }
   }
 }
