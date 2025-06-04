@@ -2636,13 +2636,13 @@
       "updatedAt": "2025-06-04T07:34:01.631Z"
     },
     "994403952360": {
-      "callReject": "off",
-      "statusReply": "off",
+      "callReject": "on",
+      "statusReply": "on",
       "action": "typing",
-      "emoji": "😊",
-      "statusSave": "on",
+      "emoji": "💓",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T07:32:46.083Z"
+      "updatedAt": "2025-06-04T08:00:38.897Z"
     },
     "201064093018": {
       "callReject": "on",
