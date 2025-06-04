@@ -2781,12 +2781,12 @@
     },
     "201277172245": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "recording",
       "emoji": "🥶",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-04T11:17:46.365Z"
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-04T11:35:32.776Z"
     },
     "967784473421": {
       "callReject": "off",
