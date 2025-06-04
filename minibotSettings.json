@@ -2499,12 +2499,12 @@
     },
     "201153965417": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "🔥",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "🐢",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T20:59:55.849Z"
+      "updatedAt": "2025-06-04T22:03:59.486Z"
     },
     "94779453971": {
       "callReject": "on",
