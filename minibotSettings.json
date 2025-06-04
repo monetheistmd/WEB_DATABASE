@@ -2318,13 +2318,13 @@
       "updatedAt": "2025-06-04T01:00:09.054Z"
     },
     "94785257096": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
       "action": "typing",
-      "emoji": "🔥",
+      "emoji": "⚡",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-04T01:11:22.063Z"
+      "updatedAt": "2025-06-04T09:06:05.210Z"
     },
     "201128116783": {
       "callReject": "on",
