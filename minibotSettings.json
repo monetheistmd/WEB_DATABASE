@@ -2511,13 +2511,13 @@
       "updatedAt": "2025-06-04T09:07:36.409Z"
     },
     "94761430252": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "off",
-      "action": "off",
+      "action": "typing",
       "emoji": "😊",
       "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-04T10:00:46.407Z"
+      "updatedAt": "2025-06-04T10:01:22.787Z"
     },
     "201153577563": {
       "callReject": "off",
