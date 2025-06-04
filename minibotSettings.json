@@ -2327,13 +2327,13 @@
       "updatedAt": "2025-06-04T11:35:12.064Z"
     },
     "201555703542": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "off",
-      "action": "off",
+      "action": "typing",
       "emoji": "👀",
       "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-04T11:45:04.617Z"
+      "updatedAt": "2025-06-04T21:41:46.362Z"
     },
     "50938025349": {
       "callReject": "on",
