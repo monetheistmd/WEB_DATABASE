@@ -2337,11 +2337,11 @@
     "201113537516": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "recording",
+      "action": "typing",
       "emoji": "✨",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T00:40:51.675Z"
+      "updatedAt": "2025-06-04T00:43:19.677Z"
     },
     "967730012016": {
       "callReject": "off",
