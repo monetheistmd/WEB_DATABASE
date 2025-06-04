@@ -2329,11 +2329,11 @@
     "201555703542": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "typing",
+      "action": "off",
       "emoji": "👀",
       "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-04T21:41:46.362Z"
+      "updatedAt": "2025-06-04T21:42:30.835Z"
     },
     "50938025349": {
       "callReject": "on",
