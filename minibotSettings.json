@@ -2677,10 +2677,10 @@
     },
     "967737741415": {
       "callReject": "off",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "recording",
       "emoji": "🔥",
-      "updatedAt": "2025-06-04T16:53:21.078Z"
+      "updatedAt": "2025-06-04T17:04:19.318Z"
     },
     "201126403092": {
       "callReject": "on",
