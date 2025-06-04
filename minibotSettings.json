@@ -2534,13 +2534,13 @@
       "updatedAt": "2025-06-04T07:52:46.575Z"
     },
     "94761430252": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "off",
       "action": "typing",
       "emoji": "😊",
       "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-04T08:55:09.552Z"
+      "updatedAt": "2025-06-04T08:55:24.565Z"
     },
     "201153577563": {
       "callReject": "off",
