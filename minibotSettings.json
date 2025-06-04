@@ -2454,11 +2454,11 @@
     "201153577563": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "typing",
+      "action": "off",
       "emoji": "👽",
       "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-04T01:27:28.929Z"
+      "updatedAt": "2025-06-04T01:27:38.225Z"
     }
   }
 }
