@@ -1674,12 +1674,12 @@
     },
     "201122808952": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
-      "emoji": "🥶",
+      "emoji": "💤",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T07:57:15.157Z"
+      "updatedAt": "2025-06-04T11:36:14.402Z"
     },
     "94726175907": {
       "callReject": "on",
