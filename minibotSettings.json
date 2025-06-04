@@ -2752,12 +2752,12 @@
     },
     "249124682208": {
       "callReject": "off",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "👻",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T10:41:30.451Z"
+      "updatedAt": "2025-06-04T11:10:11.726Z"
     },
     "967734247754": {
       "callReject": "on",
