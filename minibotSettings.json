@@ -2825,6 +2825,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-04T12:44:50.084Z"
+    },
+    "94723423602": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🙏",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-04T12:56:12.727Z"
     }
   }
 }
