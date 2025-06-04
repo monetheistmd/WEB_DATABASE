@@ -2630,10 +2630,10 @@
       "callReject": "on",
       "statusReply": "on",
       "action": "off",
-      "emoji": "👀",
-      "statusSave": "on",
+      "emoji": "💀",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T11:21:16.788Z"
+      "updatedAt": "2025-06-04T11:26:27.324Z"
     },
     "201270905688": {
       "callReject": "on",
