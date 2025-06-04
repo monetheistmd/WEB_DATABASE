@@ -2658,6 +2658,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-04T08:26:30.094Z"
+    },
+    "213793243189": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "👀",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-04T08:31:01.750Z"
     }
   }
 }
