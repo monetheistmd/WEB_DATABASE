@@ -2565,12 +2565,12 @@
     },
     "94779453971": {
       "callReject": "on",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "typing",
       "emoji": "😎",
       "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-04T05:15:35.020Z"
+      "updatedAt": "2025-06-04T05:25:27.725Z"
     },
     "201143364256": {
       "callReject": "on",
