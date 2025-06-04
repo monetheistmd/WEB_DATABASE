@@ -2520,13 +2520,13 @@
       "updatedAt": "2025-06-04T09:07:36.409Z"
     },
     "94761430252": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "off",
-      "action": "recording",
-      "emoji": "💖",
+      "action": "typing",
+      "emoji": "😊",
       "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-04T09:55:56.839Z"
+      "online": "off",
+      "updatedAt": "2025-06-04T09:56:35.348Z"
     },
     "201153577563": {
       "callReject": "off",
