@@ -2690,6 +2690,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-04T08:25:26.549Z"
+    },
+    "94753836730": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "🔥",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-04T08:26:30.094Z"
     }
   }
 }
