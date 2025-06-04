@@ -2683,6 +2683,13 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-04T16:49:03.010Z"
+    },
+    "967737741415": {
+      "callReject": "off",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "🔥",
+      "updatedAt": "2025-06-04T16:53:21.078Z"
     }
   }
 }
