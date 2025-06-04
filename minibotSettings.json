@@ -2459,6 +2459,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-04T00:07:25.556Z"
+    },
+    "201211606903": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "recording",
+      "emoji": "🚀",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-04T00:07:30.652Z"
     }
   }
 }
