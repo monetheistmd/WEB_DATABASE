@@ -2154,11 +2154,11 @@
     "201141636015": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "typing",
+      "action": "off",
       "emoji": "💗",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-03T23:00:45.634Z"
+      "online": "off",
+      "updatedAt": "2025-06-04T11:48:28.643Z"
     },
     "201113537516": {
       "callReject": "on",
