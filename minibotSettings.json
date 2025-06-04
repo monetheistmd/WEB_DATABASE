@@ -2701,12 +2701,12 @@
     },
     "967776488643": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "💯",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T09:48:40.225Z"
+      "updatedAt": "2025-06-04T10:10:58.171Z"
     },
     "94702256818": {
       "callReject": "off",
