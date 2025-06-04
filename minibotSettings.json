@@ -2705,11 +2705,11 @@
     "201003247273": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "recording",
-      "emoji": "💖",
-      "statusSave": "on",
+      "action": "typing",
+      "emoji": "💗",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T15:46:52.455Z"
+      "updatedAt": "2025-06-04T15:48:38.691Z"
     },
     "201221766912": {
       "callReject": "on",
