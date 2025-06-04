@@ -2619,12 +2619,12 @@
     },
     "27739864702": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "👻",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "🍀",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T07:20:51.728Z"
+      "updatedAt": "2025-06-04T08:03:57.214Z"
     },
     "260771331739": {
       "callReject": "on",
