@@ -2708,6 +2708,15 @@
       "statusSave": "on",
       "online": "off",
       "updatedAt": "2025-06-04T17:54:09.185Z"
+    },
+    "94766194340": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "👽",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-04T18:08:32.440Z"
     }
   }
 }
