@@ -2800,6 +2800,15 @@
       "statusSave": "off",
       "online": "off",
       "updatedAt": "2025-06-04T13:04:53.531Z"
+    },
+    "94760172671": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "🙊",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-04T13:06:32.375Z"
     }
   }
 }
