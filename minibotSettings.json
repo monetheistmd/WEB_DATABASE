@@ -2694,13 +2694,13 @@
       "updatedAt": "2025-06-04T15:50:00.409Z"
     },
     "201003247273": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "recording",
       "emoji": "💗",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-04T15:48:38.691Z"
+      "online": "off",
+      "updatedAt": "2025-06-04T15:50:36.451Z"
     },
     "201221766912": {
       "callReject": "on",
