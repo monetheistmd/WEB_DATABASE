@@ -2423,6 +2423,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-04T00:03:31.314Z"
+    },
+    "01280313888": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "👑",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-04T00:04:49.928Z"
     }
   }
 }
