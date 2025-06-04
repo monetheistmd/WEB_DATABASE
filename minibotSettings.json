@@ -2355,11 +2355,11 @@
     "201113537516": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
+      "action": "recording",
       "emoji": "✨",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T23:09:13.552Z"
+      "updatedAt": "2025-06-04T00:06:39.244Z"
     },
     "967730012016": {
       "callReject": "off",
