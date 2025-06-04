@@ -2328,12 +2328,12 @@
     },
     "201128116783": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
+      "statusReply": "off",
+      "action": "off",
       "emoji": "🌟",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T01:31:50.609Z"
+      "updatedAt": "2025-06-04T09:05:29.828Z"
     },
     "201019075563": {
       "callReject": "on",
