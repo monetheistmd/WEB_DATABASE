@@ -1447,12 +1447,12 @@
     },
     "967782526155": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "off",
-      "emoji": "🤤",
-      "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-03T17:15:38.222Z"
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "💔",
+      "statusSave": "on",
+      "online": "off",
+      "updatedAt": "2025-06-04T10:48:57.892Z"
     },
     "252672171864": {
       "callReject": "on",
