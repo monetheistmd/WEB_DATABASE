@@ -2663,13 +2663,13 @@
       "updatedAt": "2025-06-04T07:27:27.583Z"
     },
     "994403952360": {
-      "callReject": "on",
-      "statusReply": "on",
+      "callReject": "off",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "😊",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-04T07:32:38.707Z"
+      "updatedAt": "2025-06-04T07:32:45.369Z"
     }
   }
 }
