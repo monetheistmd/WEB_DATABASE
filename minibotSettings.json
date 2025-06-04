@@ -325,13 +325,6 @@
       "online": "off",
       "updatedAt": "2025-06-02T20:45:22.901Z"
     },
-    "94760172671": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "🙈",
-      "updatedAt": "2025-06-01T16:06:33.278Z"
-    },
     "27843122645": {
       "callReject": "on",
       "statusReply": "on",
@@ -2438,15 +2431,6 @@
       "statusSave": "on",
       "online": "off",
       "updatedAt": "2025-06-04T10:01:49.413Z"
-    },
-    "967775563313": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "🤙",
-      "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-04T07:48:24.440Z"
     },
     "27739864702": {
       "callReject": "on",
