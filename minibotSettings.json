@@ -2702,12 +2702,12 @@
     },
     "94766194340": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
-      "emoji": "👽",
+      "emoji": "😍",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T18:08:32.440Z"
+      "updatedAt": "2025-06-04T18:13:51.256Z"
     },
     "994404166219": {
       "callReject": "on",
