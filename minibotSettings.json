@@ -2452,13 +2452,13 @@
       "updatedAt": "2025-06-04T00:11:25.728Z"
     },
     "967776319785": {
-      "callReject": "off",
-      "statusReply": "off",
+      "callReject": "on",
+      "statusReply": "on",
       "action": "typing",
       "emoji": "💖",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T00:09:32.962Z"
+      "updatedAt": "2025-06-04T00:11:40.351Z"
     }
   }
 }
