@@ -2417,12 +2417,12 @@
     },
     "201092600274": {
       "callReject": "on",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "typing",
-      "emoji": "👽",
+      "emoji": "🐥",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T00:03:31.314Z"
+      "updatedAt": "2025-06-04T00:08:10.730Z"
     },
     "967739389707": {
       "callReject": "on",
