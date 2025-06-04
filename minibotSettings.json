@@ -126,9 +126,9 @@
       "statusReply": "off",
       "action": "recording",
       "emoji": "👑",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T13:40:07.507Z"
+      "updatedAt": "2025-06-04T16:18:28.430Z"
     },
     "94789411303": {
       "callReject": "on",
