@@ -2683,11 +2683,11 @@
     "967737241199": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "off",
+      "action": "typing",
       "emoji": "🩸",
       "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-04T08:02:23.179Z"
+      "updatedAt": "2025-06-04T08:02:26.508Z"
     }
   }
 }
