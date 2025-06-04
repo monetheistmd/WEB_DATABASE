@@ -2562,6 +2562,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-04T04:26:17.568Z"
+    },
+    "01222397713": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "👑",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-04T04:29:14.541Z"
     }
   }
 }
