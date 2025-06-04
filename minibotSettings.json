@@ -2779,12 +2779,12 @@
     },
     "967734247754": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "🤑",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T10:46:15.311Z"
+      "updatedAt": "2025-06-04T11:03:03.020Z"
     },
     "201030895681": {
       "callReject": "on",
