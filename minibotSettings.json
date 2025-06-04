@@ -2522,11 +2522,11 @@
     "94761430252": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "typing",
+      "action": "off",
       "emoji": "💖",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-04T09:55:12.195Z"
+      "updatedAt": "2025-06-04T09:55:29.932Z"
     },
     "201153577563": {
       "callReject": "off",
