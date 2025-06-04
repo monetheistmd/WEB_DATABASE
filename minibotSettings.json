@@ -2591,13 +2591,13 @@
       "updatedAt": "2025-06-04T06:45:16.224Z"
     },
     "963982562361": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "on",
       "action": "typing",
       "emoji": "😴",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T07:00:18.462Z"
+      "updatedAt": "2025-06-04T07:29:23.933Z"
     },
     "94761430252": {
       "callReject": "off",
