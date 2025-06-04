@@ -2578,12 +2578,12 @@
     },
     "94779453971": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "😎",
-      "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-04T17:15:11.430Z"
+      "statusSave": "on",
+      "online": "off",
+      "updatedAt": "2025-06-04T18:55:38.782Z"
     },
     "94768679861": {
       "callReject": "off",
