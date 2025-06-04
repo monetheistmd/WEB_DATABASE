@@ -2069,13 +2069,13 @@
       "updatedAt": "2025-06-03T18:23:27.095Z"
     },
     "967736198671": {
-      "callReject": "on",
-      "statusReply": "on",
+      "callReject": "off",
+      "statusReply": "off",
       "action": "typing",
-      "emoji": "👽",
+      "emoji": "🐬",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T15:27:37.854Z"
+      "updatedAt": "2025-06-04T04:13:29.928Z"
     },
     "94764040298": {
       "callReject": "off",
