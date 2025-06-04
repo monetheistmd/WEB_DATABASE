@@ -2787,13 +2787,13 @@
       "updatedAt": "2025-06-04T10:41:30.451Z"
     },
     "201066530923": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
       "action": "typing",
       "emoji": "⚡",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-04T10:43:22.987Z"
+      "updatedAt": "2025-06-04T10:43:26.172Z"
     },
     "249961150084": {
       "callReject": "off",
