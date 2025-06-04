@@ -2653,15 +2653,6 @@
       "online": "on",
       "updatedAt": "2025-06-04T07:34:01.631Z"
     },
-    "94752625445": {
-      "callReject": "on",
-      "statusReply": "off",
-      "action": "off",
-      "emoji": "🦋",
-      "statusSave": "on",
-      "online": "off",
-      "updatedAt": "2025-06-04T07:27:27.583Z"
-    },
     "994403952360": {
       "callReject": "off",
       "statusReply": "off",
@@ -2679,15 +2670,6 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-04T07:35:19.349Z"
-    },
-    "0994058331": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "🙈",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-04T07:41:04.230Z"
     }
   }
 }
