@@ -2708,6 +2708,15 @@
       "statusSave": "on",
       "online": "off",
       "updatedAt": "2025-06-04T17:48:22.063Z"
+    },
+    "967779615074": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "💯",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-04T17:52:23.557Z"
     }
   }
 }
