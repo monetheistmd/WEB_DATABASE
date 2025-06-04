@@ -2591,13 +2591,13 @@
       "updatedAt": "2025-06-04T05:35:14.685Z"
     },
     "201204090768": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "off",
       "action": "off",
       "emoji": "💚",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-04T05:35:41.697Z"
+      "online": "off",
+      "updatedAt": "2025-06-04T05:35:53.291Z"
     }
   }
 }
