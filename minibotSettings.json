@@ -2703,6 +2703,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-04T22:33:11.308Z"
+    },
+    "967779500870": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "⚡",
+      "statusSave": "on",
+      "online": "off",
+      "updatedAt": "2025-06-04T22:52:26.327Z"
     }
   }
 }
