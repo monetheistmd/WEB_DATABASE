@@ -2803,13 +2803,13 @@
       "updatedAt": "2025-06-04T10:16:47.976Z"
     },
     "249903295523": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "on",
       "action": "recording",
       "emoji": "😍",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-04T10:16:06.085Z"
+      "updatedAt": "2025-06-04T10:24:46.288Z"
     },
     "94742728090": {
       "callReject": "on",
