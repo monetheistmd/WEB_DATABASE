@@ -2828,12 +2828,12 @@
     },
     "01104958468": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
-      "emoji": "🐸",
+      "emoji": "🤔",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T11:59:49.654Z"
+      "updatedAt": "2025-06-04T12:00:21.160Z"
     }
   }
 }
