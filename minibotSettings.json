@@ -2716,6 +2716,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-04T09:47:26.430Z"
+    },
+    "96776488643": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "off",
+      "emoji": "💯",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-04T09:47:29.901Z"
     }
   }
 }
