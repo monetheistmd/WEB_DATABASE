@@ -2825,15 +2825,6 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-04T11:59:31.087Z"
-    },
-    "01104958468": {
-      "callReject": "on",
-      "statusReply": "off",
-      "action": "typing",
-      "emoji": "🤔",
-      "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-04T12:00:21.160Z"
     }
   }
 }
