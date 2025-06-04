@@ -2810,6 +2810,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-04T10:16:06.085Z"
+    },
+    "94742728090": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🙈",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-04T10:19:11.078Z"
     }
   }
 }
