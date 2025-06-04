@@ -2799,12 +2799,12 @@
     },
     "201098778163": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "🔥",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T11:42:23.230Z"
+      "updatedAt": "2025-06-04T11:45:51.437Z"
     },
     "201555703542": {
       "callReject": "on",
