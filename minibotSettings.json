@@ -2830,6 +2830,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-04T11:08:26.555Z"
+    },
+    "249903351162": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "🔥",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-04T11:08:49.598Z"
     }
   }
 }
