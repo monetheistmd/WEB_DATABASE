@@ -1811,10 +1811,10 @@
       "callReject": "on",
       "statusReply": "off",
       "action": "typing",
-      "emoji": "🦋",
-      "statusSave": "on",
+      "emoji": "👻",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-03T10:03:44.271Z"
+      "updatedAt": "2025-06-04T04:37:15.501Z"
     },
     "201032759824": {
       "callReject": "on",
