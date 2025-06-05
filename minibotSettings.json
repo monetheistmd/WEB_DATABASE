@@ -2654,12 +2654,12 @@
     },
     "967739236681": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "✨",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T23:58:18.569Z"
+      "updatedAt": "2025-06-05T01:09:39.667Z"
     },
     "201068113050": {
       "callReject": "on",
