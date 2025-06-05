@@ -3055,13 +3055,13 @@
       "updatedAt": "2025-06-05T19:46:17.282Z"
     },
     "249961150084": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "on",
       "action": "recording",
       "emoji": "🐥",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-05T19:50:37.720Z"
+      "updatedAt": "2025-06-05T19:53:27.937Z"
     }
   }
 }
