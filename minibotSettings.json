@@ -3065,12 +3065,12 @@
     },
     "201029821072": {
       "callReject": "off",
-      "statusReply": "on",
-      "action": "typing",
+      "statusReply": "off",
+      "action": "off",
       "emoji": "👑",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-05T21:59:05.710Z"
+      "updatedAt": "2025-06-05T22:11:43.326Z"
     },
     "201500214521": {
       "callReject": "on",
