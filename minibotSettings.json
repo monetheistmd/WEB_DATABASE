@@ -1924,12 +1924,12 @@
     },
     "967783421051": {
       "callReject": "on",
-      "statusReply": "off",
-      "action": "typing",
+      "statusReply": "on",
+      "action": "off",
       "emoji": "🔥",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T12:13:24.467Z"
+      "updatedAt": "2025-06-05T19:39:54.915Z"
     },
     "94760424531": {
       "callReject": "off",
