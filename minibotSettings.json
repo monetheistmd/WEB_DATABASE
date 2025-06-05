@@ -2743,13 +2743,13 @@
       "updatedAt": "2025-06-05T03:30:47.187Z"
     },
     "201018911434": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "off",
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "recording",
       "emoji": "💘",
       "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-05T03:43:33.612Z"
+      "online": "off",
+      "updatedAt": "2025-06-05T03:51:06.447Z"
     },
     "201146634508": {
       "callReject": "on",
