@@ -2845,12 +2845,12 @@
     },
     "201112646508": {
       "callReject": "off",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "off",
-      "emoji": "🤩",
-      "statusSave": "off",
-      "online": "off",
-      "updatedAt": "2025-06-05T12:27:56.753Z"
+      "emoji": "😂",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-05T12:47:11.600Z"
     },
     "94789617466": {
       "callReject": "on",
