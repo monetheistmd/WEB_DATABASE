@@ -2708,12 +2708,12 @@
     },
     "201112646508": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "😍",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "😂",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-05T03:15:57.596Z"
+      "updatedAt": "2025-06-05T03:34:36.108Z"
     },
     "201508182973": {
       "callReject": "on",
