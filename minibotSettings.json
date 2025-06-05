@@ -1386,13 +1386,13 @@
       "updatedAt": "2025-06-03T04:38:57.275Z"
     },
     "94771008691": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
-      "action": "typing",
-      "emoji": "🔥",
+      "action": "recording",
+      "emoji": "💙",
       "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-03T04:40:50.696Z"
+      "updatedAt": "2025-06-05T05:09:46.337Z"
     },
     "94764374038": {
       "callReject": "on",
