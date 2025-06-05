@@ -3011,12 +3011,12 @@
     },
     "201116550932": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "😎",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-05T17:09:06.243Z"
+      "updatedAt": "2025-06-05T17:22:32.717Z"
     },
     "966578655093": {
       "callReject": "on",
