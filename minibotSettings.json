@@ -3019,13 +3019,13 @@
       "updatedAt": "2025-06-05T18:12:50.889Z"
     },
     "94772557151": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "off",
-      "action": "recording",
+      "action": "off",
       "emoji": "👑",
       "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-05T18:38:57.071Z"
+      "updatedAt": "2025-06-05T18:46:50.314Z"
     },
     "923124772736": {
       "callReject": "off",
