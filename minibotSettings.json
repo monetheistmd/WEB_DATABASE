@@ -2349,13 +2349,13 @@
       "updatedAt": "2025-06-04T15:11:49.368Z"
     },
     "201003247273": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "off",
-      "action": "recording",
-      "emoji": "💗",
+      "action": "off",
+      "emoji": "🦁",
       "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-04T15:50:36.451Z"
+      "updatedAt": "2025-06-05T02:25:27.197Z"
     },
     "201221766912": {
       "callReject": "on",
