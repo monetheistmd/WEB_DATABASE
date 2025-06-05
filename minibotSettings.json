@@ -2814,11 +2814,11 @@
     "94762842232": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "recording",
+      "action": "off",
       "emoji": "😍",
       "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-05T14:44:47.515Z"
+      "online": "off",
+      "updatedAt": "2025-06-05T15:56:59.038Z"
     },
     "201097506941": {
       "callReject": "off",
