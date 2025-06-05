@@ -450,11 +450,11 @@
     "252616021711": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
-      "emoji": "🥶",
+      "action": "off",
+      "emoji": "💙",
       "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-05T14:03:56.553Z"
+      "updatedAt": "2025-06-05T14:18:07.139Z"
     },
     "967775999359": {
       "callReject": "off",
