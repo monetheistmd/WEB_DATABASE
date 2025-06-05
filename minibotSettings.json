@@ -2882,11 +2882,11 @@
     "201095857773": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
+      "action": "off",
       "emoji": "⚡",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-05T12:57:10.386Z"
+      "updatedAt": "2025-06-05T12:57:24.165Z"
     }
   }
 }
