@@ -2970,6 +2970,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-05T14:56:30.310Z"
+    },
+    "94773996345": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "🌟",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-05T14:59:02.406Z"
     }
   }
 }
