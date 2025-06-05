@@ -3044,6 +3044,15 @@
       "statusSave": "off",
       "online": "off",
       "updatedAt": "2025-06-05T17:19:42.515Z"
+    },
+    "94751334960": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🤤",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-05T17:20:59.043Z"
     }
   }
 }
