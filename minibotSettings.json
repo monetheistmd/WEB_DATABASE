@@ -2112,11 +2112,11 @@
     "201126946375": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
-      "emoji": "⚡",
+      "action": "off",
+      "emoji": "✨",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-04T21:02:16.543Z"
+      "online": "off",
+      "updatedAt": "2025-06-05T19:56:32.356Z"
     },
     "201203849343": {
       "callReject": "off",
