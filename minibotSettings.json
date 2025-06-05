@@ -2992,13 +2992,13 @@
       "updatedAt": "2025-06-05T19:57:35.935Z"
     },
     "201281238489": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
-      "action": "typing",
-      "emoji": "😍",
+      "action": "off",
+      "emoji": "🤩",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-05T21:23:55.611Z"
+      "updatedAt": "2025-06-05T21:53:21.058Z"
     },
     "201143366332": {
       "callReject": "on",
