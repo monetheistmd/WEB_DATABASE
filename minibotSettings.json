@@ -2865,12 +2865,12 @@
     },
     "94768331370": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "recording",
       "emoji": "😴",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-05T13:35:26.958Z"
+      "updatedAt": "2025-06-05T14:43:39.351Z"
     },
     "94762842232": {
       "callReject": "on",
