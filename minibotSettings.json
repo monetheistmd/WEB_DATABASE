@@ -1897,12 +1897,12 @@
     },
     "967783421051": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "off",
       "emoji": "🔥",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-05T19:39:54.915Z"
+      "updatedAt": "2025-06-05T20:27:03.623Z"
     },
     "94760424531": {
       "callReject": "off",
