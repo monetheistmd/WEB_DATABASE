@@ -2901,12 +2901,12 @@
     },
     "94770153274": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
-      "emoji": "👑",
+      "emoji": "💘",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-05T13:16:31.134Z"
+      "updatedAt": "2025-06-05T13:22:23.636Z"
     }
   }
 }
