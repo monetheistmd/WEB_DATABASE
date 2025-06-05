@@ -2833,6 +2833,15 @@
       "statusSave": "on",
       "online": "off",
       "updatedAt": "2025-06-05T10:58:02.494Z"
+    },
+    "94702634454": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "💙",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-05T11:02:47.964Z"
     }
   }
 }
