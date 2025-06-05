@@ -2810,11 +2810,11 @@
     "201015964501": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "recording",
-      "emoji": "⚡",
+      "action": "off",
+      "emoji": "👑",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-05T08:57:33.708Z"
+      "updatedAt": "2025-06-05T09:10:05.814Z"
     },
     "201115852708": {
       "callReject": "off",
