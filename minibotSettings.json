@@ -2901,12 +2901,12 @@
     },
     "94762842232": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "recording",
       "emoji": "😍",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-05T13:49:42.570Z"
+      "updatedAt": "2025-06-05T14:17:00.831Z"
     },
     "201097506941": {
       "callReject": "off",
