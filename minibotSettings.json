@@ -2833,6 +2833,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-05T11:02:47.964Z"
+    },
+    "249961150084": {
+      "callReject": "off",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "🐥",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-05T11:18:56.502Z"
     }
   }
 }
