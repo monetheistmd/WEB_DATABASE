@@ -2760,11 +2760,11 @@
     "249117304530": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "off",
-      "emoji": "🙏",
+      "action": "typing",
+      "emoji": "🫡",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-05T13:02:11.035Z"
+      "updatedAt": "2025-06-05T15:55:33.277Z"
     },
     "94762028578": {
       "callReject": "off",
