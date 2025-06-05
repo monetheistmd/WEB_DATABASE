@@ -483,12 +483,12 @@
     },
     "252616021711": {
       "callReject": "on",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "off",
-      "emoji": "🤙",
+      "emoji": "😐",
       "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-05T04:00:39.475Z"
+      "updatedAt": "2025-06-05T06:09:36.304Z"
     },
     "967775999359": {
       "callReject": "off",
