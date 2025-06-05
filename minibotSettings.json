@@ -2454,12 +2454,12 @@
     },
     "201153965417": {
       "callReject": "on",
-      "statusReply": "off",
-      "action": "off",
-      "emoji": "🐢",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🔥",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-04T22:03:59.486Z"
+      "updatedAt": "2025-06-05T00:28:13.557Z"
     },
     "94779453971": {
       "callReject": "on",
