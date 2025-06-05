@@ -2745,11 +2745,11 @@
     "249126083647": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "recording",
+      "action": "off",
       "emoji": "🌹",
       "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-05T02:54:38.809Z"
+      "updatedAt": "2025-06-05T02:57:27.501Z"
     }
   }
 }
