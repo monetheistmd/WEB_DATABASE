@@ -2188,12 +2188,12 @@
     },
     "201153965417": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "🔥",
-      "statusSave": "off",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-05T10:43:13.516Z"
+      "updatedAt": "2025-06-05T12:47:25.262Z"
     },
     "94779453971": {
       "callReject": "on",
