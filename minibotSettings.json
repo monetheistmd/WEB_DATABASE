@@ -2860,6 +2860,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-05T12:21:52.588Z"
+    },
+    "94788393270": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "💚",
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-05T12:22:24.629Z"
     }
   }
 }
