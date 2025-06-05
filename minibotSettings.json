@@ -2954,13 +2954,13 @@
       "updatedAt": "2025-06-05T14:50:51.970Z"
     },
     "94717245383": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "on",
-      "action": "recording",
-      "emoji": "💖",
+      "action": "typing",
+      "emoji": "🧡",
       "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-05T14:52:08.704Z"
+      "updatedAt": "2025-06-05T15:00:12.868Z"
     },
     "94760647496": {
       "callReject": "on",
