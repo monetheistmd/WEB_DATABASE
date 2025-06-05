@@ -2943,6 +2943,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-05T14:42:40.006Z"
+    },
+    "94712557438": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "recording",
+      "emoji": "👻",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-05T14:46:37.638Z"
     }
   }
 }
