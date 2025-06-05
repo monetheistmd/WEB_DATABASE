@@ -2984,12 +2984,12 @@
     },
     "94751334960": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
-      "emoji": "🌹",
-      "statusSave": "off",
+      "emoji": "✨",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-05T17:48:05.790Z"
+      "updatedAt": "2025-06-05T18:55:19.021Z"
     },
     "201116550932": {
       "callReject": "on",
