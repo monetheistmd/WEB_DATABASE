@@ -2909,13 +2909,13 @@
       "updatedAt": "2025-06-05T14:17:00.831Z"
     },
     "201097506941": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "off",
-      "action": "off",
+      "action": "typing",
       "emoji": "🦄",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-05T14:11:12.467Z"
+      "updatedAt": "2025-06-05T14:18:09.269Z"
     },
     "94763384590": {
       "callReject": "on",
