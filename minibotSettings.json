@@ -3021,11 +3021,11 @@
     "967773256019": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "recording",
-      "emoji": "⚡",
+      "action": "typing",
+      "emoji": "🍀",
       "statusSave": "off",
-      "online": "off",
-      "updatedAt": "2025-06-05T17:19:42.515Z"
+      "online": "on",
+      "updatedAt": "2025-06-05T17:32:10.363Z"
     },
     "94751334960": {
       "callReject": "on",
