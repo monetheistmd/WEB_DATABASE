@@ -2923,10 +2923,10 @@
       "callReject": "off",
       "statusReply": "off",
       "action": "off",
-      "emoji": "🌟",
-      "statusSave": "off",
+      "emoji": "💗",
+      "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-05T23:21:55.238Z"
+      "updatedAt": "2025-06-05T23:24:09.425Z"
     },
     "923159966314": {
       "callReject": "on",
