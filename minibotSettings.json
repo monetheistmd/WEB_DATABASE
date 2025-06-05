@@ -2893,13 +2893,13 @@
       "updatedAt": "2025-06-05T15:06:58.450Z"
     },
     "94769159314": {
-      "callReject": "on",
-      "statusReply": "off",
+      "callReject": "off",
+      "statusReply": "on",
       "action": "typing",
-      "emoji": "✨",
+      "emoji": "👑",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-05T15:49:22.340Z"
+      "updatedAt": "2025-06-05T18:19:37.754Z"
     },
     "249110776765": {
       "callReject": "on",
