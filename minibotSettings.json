@@ -2809,10 +2809,10 @@
       "callReject": "on",
       "statusReply": "on",
       "action": "typing",
-      "emoji": "💯",
-      "statusSave": "on",
+      "emoji": "👀",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-05T08:20:27.827Z"
+      "updatedAt": "2025-06-05T08:21:19.233Z"
     }
   }
 }
