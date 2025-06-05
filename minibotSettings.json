@@ -2929,13 +2929,13 @@
       "updatedAt": "2025-06-05T15:06:58.450Z"
     },
     "94769159314": {
-      "callReject": "off",
-      "statusReply": "on",
+      "callReject": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "✨",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-05T15:37:52.875Z"
+      "updatedAt": "2025-06-05T15:49:22.340Z"
     },
     "94763187142": {
       "callReject": "off",
