@@ -2242,12 +2242,12 @@
     },
     "94760135534": {
       "callReject": "on",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "typing",
       "emoji": "👀",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-04T18:04:48.154Z"
+      "updatedAt": "2025-06-05T12:13:17.166Z"
     },
     "94785456078": {
       "callReject": "off",
