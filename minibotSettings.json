@@ -2844,13 +2844,13 @@
       "updatedAt": "2025-06-05T09:41:40.578Z"
     },
     "94769868691": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
       "action": "recording",
       "emoji": "💙",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-05T09:52:44.236Z"
+      "updatedAt": "2025-06-05T10:00:47.509Z"
     }
   }
 }
