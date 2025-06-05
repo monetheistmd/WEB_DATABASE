@@ -1218,12 +1218,12 @@
     },
     "967782526155": {
       "callReject": "on",
-      "statusReply": "off",
-      "action": "typing",
-      "emoji": "💔",
-      "statusSave": "on",
-      "online": "off",
-      "updatedAt": "2025-06-04T10:49:02.947Z"
+      "statusReply": "on",
+      "action": "off",
+      "emoji": "🌹",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-05T11:25:07.422Z"
     },
     "252672171864": {
       "callReject": "on",
