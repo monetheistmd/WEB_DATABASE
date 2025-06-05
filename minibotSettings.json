@@ -2822,6 +2822,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-05T08:47:47.064Z"
+    },
+    "201283814174": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "🤔",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-05T08:48:23.923Z"
     }
   }
 }
