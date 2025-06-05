@@ -2692,10 +2692,10 @@
       "callReject": "off",
       "statusReply": "off",
       "action": "off",
-      "emoji": "🌹",
-      "statusSave": "off",
+      "emoji": "🌟",
+      "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-05T03:00:01.949Z"
+      "updatedAt": "2025-06-05T04:59:39.489Z"
     },
     "201206283370": {
       "callReject": "on",
