@@ -2882,13 +2882,13 @@
       "updatedAt": "2025-06-05T14:17:00.831Z"
     },
     "201097506941": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "off",
-      "action": "typing",
+      "action": "off",
       "emoji": "🦄",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-05T14:21:00.101Z"
+      "updatedAt": "2025-06-05T14:42:57.403Z"
     },
     "94763384590": {
       "callReject": "on",
