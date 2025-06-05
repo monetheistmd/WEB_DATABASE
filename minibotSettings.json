@@ -3020,12 +3020,12 @@
     },
     "94772557151": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
+      "statusReply": "off",
+      "action": "recording",
       "emoji": "👑",
       "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-05T18:14:36.528Z"
+      "online": "off",
+      "updatedAt": "2025-06-05T18:38:57.071Z"
     },
     "923124772736": {
       "callReject": "off",
