@@ -2800,12 +2800,12 @@
     },
     "94765775550": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "off",
       "emoji": "😊",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-05T08:45:37.753Z"
+      "updatedAt": "2025-06-05T09:26:25.405Z"
     },
     "201115852708": {
       "callReject": "off",
