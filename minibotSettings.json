@@ -2921,12 +2921,12 @@
     },
     "94763187142": {
       "callReject": "off",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "💖",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "🖤",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-05T15:35:21.092Z"
+      "updatedAt": "2025-06-05T17:10:50.564Z"
     },
     "249110776765": {
       "callReject": "on",
