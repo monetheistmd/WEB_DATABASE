@@ -2914,10 +2914,10 @@
       "callReject": "off",
       "statusReply": "off",
       "action": "off",
-      "emoji": "💗",
+      "emoji": "🙏",
       "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-05T23:25:51.907Z"
+      "online": "off",
+      "updatedAt": "2025-06-05T23:26:59.712Z"
     },
     "923159966314": {
       "callReject": "on",
