@@ -2553,11 +2553,11 @@
     "94766194340": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "recording",
+      "action": "off",
       "emoji": "😍",
       "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-05T09:16:43.352Z"
+      "updatedAt": "2025-06-05T17:16:47.503Z"
     },
     "201015964501": {
       "callReject": "on",
