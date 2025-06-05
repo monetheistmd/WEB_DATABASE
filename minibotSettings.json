@@ -2374,13 +2374,13 @@
       "updatedAt": "2025-06-04T18:55:38.782Z"
     },
     "94768679861": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "on",
-      "action": "off",
+      "action": "typing",
       "emoji": "😊",
       "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-04T17:33:32.460Z"
+      "online": "off",
+      "updatedAt": "2025-06-05T08:12:00.081Z"
     },
     "94760135534": {
       "callReject": "on",
