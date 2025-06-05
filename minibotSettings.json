@@ -2734,13 +2734,13 @@
       "updatedAt": "2025-06-05T03:30:47.187Z"
     },
     "201018911434": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "off",
       "action": "off",
-      "emoji": "🫶",
-      "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-05T03:57:00.402Z"
+      "emoji": "💘",
+      "statusSave": "on",
+      "online": "off",
+      "updatedAt": "2025-06-05T04:13:31.929Z"
     },
     "201146634508": {
       "callReject": "on",
