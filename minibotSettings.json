@@ -2762,12 +2762,12 @@
     },
     "967774072820": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "🤫",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-05T04:09:59.823Z"
+      "updatedAt": "2025-06-05T04:19:43.297Z"
     }
   }
 }
