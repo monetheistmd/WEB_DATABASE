@@ -2783,11 +2783,11 @@
     "94742839926": {
       "callReject": "off",
       "statusReply": "on",
-      "action": "recording",
+      "action": "off",
       "emoji": "👻",
       "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-05T09:03:27.835Z"
+      "updatedAt": "2025-06-05T09:55:09.666Z"
     },
     "94769049365": {
       "callReject": "off",
