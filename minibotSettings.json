@@ -2093,12 +2093,12 @@
     },
     "201153965417": {
       "callReject": "on",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "typing",
-      "emoji": "🔥",
+      "emoji": "👻",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-05T17:20:54.715Z"
+      "updatedAt": "2025-06-05T17:33:39.702Z"
     },
     "94779453971": {
       "callReject": "on",
