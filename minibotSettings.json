@@ -2515,11 +2515,11 @@
     "94761539722": {
       "callReject": "off",
       "statusReply": "on",
-      "action": "recording",
+      "action": "off",
       "emoji": "💖",
       "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-05T08:36:26.329Z"
+      "updatedAt": "2025-06-05T13:26:22.667Z"
     },
     "201120590204": {
       "callReject": "on",
