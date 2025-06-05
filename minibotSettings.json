@@ -1714,13 +1714,13 @@
       "updatedAt": "2025-06-04T01:00:09.054Z"
     },
     "201128116783": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "off",
-      "action": "recording",
-      "emoji": "🦋",
+      "action": "typing",
+      "emoji": "🌟",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-05T15:01:31.751Z"
+      "updatedAt": "2025-06-05T15:31:44.546Z"
     },
     "966577524834": {
       "callReject": "on",
