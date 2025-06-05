@@ -2835,13 +2835,13 @@
       "updatedAt": "2025-06-05T11:02:47.964Z"
     },
     "249961150084": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "on",
       "action": "recording",
       "emoji": "🐥",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-05T11:23:43.479Z"
+      "updatedAt": "2025-06-05T11:25:34.011Z"
     },
     "967779129511": {
       "callReject": "off",
