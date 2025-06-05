@@ -2723,6 +2723,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-05T02:18:35.469Z"
+    },
+    "94786647352": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🌹",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-05T02:20:47.483Z"
     }
   }
 }
