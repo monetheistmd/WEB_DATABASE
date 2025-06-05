@@ -2681,12 +2681,12 @@
     },
     "201099758713": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "😈",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-05T01:39:51.398Z"
+      "updatedAt": "2025-06-05T02:39:52.770Z"
     },
     "50940933899": {
       "callReject": "off",
