@@ -2802,12 +2802,12 @@
     },
     "201112646508": {
       "callReject": "off",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "off",
-      "emoji": "😂",
+      "emoji": "😍",
       "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-05T12:47:11.600Z"
+      "online": "off",
+      "updatedAt": "2025-06-05T13:44:33.166Z"
     },
     "94789617466": {
       "callReject": "on",
