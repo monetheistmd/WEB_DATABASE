@@ -2699,12 +2699,12 @@
     },
     "201206283370": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "recording",
       "emoji": "🔥",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-05T03:07:19.335Z"
+      "updatedAt": "2025-06-05T03:47:58.003Z"
     },
     "201112646508": {
       "callReject": "on",
