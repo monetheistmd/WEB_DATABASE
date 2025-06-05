@@ -2966,12 +2966,12 @@
     },
     "252616021711": {
       "callReject": "on",
-      "statusReply": "off",
-      "action": "recording",
-      "emoji": "🎂",
+      "statusReply": "on",
+      "action": "off",
+      "emoji": "😭",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-05T16:14:03.366Z"
+      "online": "off",
+      "updatedAt": "2025-06-05T16:46:06.525Z"
     },
     "94769606340": {
       "callReject": "off",
