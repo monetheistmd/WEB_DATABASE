@@ -2625,11 +2625,11 @@
     "249117304530": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
+      "action": "off",
       "emoji": "🤙",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-05T21:30:23.295Z"
+      "updatedAt": "2025-06-05T21:34:40.408Z"
     },
     "94762028578": {
       "callReject": "off",
