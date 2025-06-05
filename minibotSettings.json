@@ -2878,6 +2878,15 @@
       "statusSave": "on",
       "online": "off",
       "updatedAt": "2025-06-05T12:05:25.229Z"
+    },
+    "94742839926": {
+      "callReject": "off",
+      "statusReply": "on",
+      "action": "off",
+      "emoji": "⚡",
+      "statusSave": "on",
+      "online": "off",
+      "updatedAt": "2025-06-05T12:05:38.673Z"
     }
   }
 }
