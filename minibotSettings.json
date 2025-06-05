@@ -259,12 +259,12 @@
     },
     "252618978811": {
       "callReject": "on",
-      "statusReply": "off",
-      "action": "recording",
-      "emoji": "🧠",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "😈",
       "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-03T15:26:42.015Z"
+      "updatedAt": "2025-06-05T14:06:53.239Z"
     },
     "201281205747": {
       "callReject": "off",
