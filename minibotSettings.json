@@ -2705,6 +2705,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-05T01:15:08.839Z"
+    },
+    "94742724495": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "recording",
+      "emoji": "💚",
+      "statusSave": "on",
+      "online": "off",
+      "updatedAt": "2025-06-05T01:15:46.045Z"
     }
   }
 }
