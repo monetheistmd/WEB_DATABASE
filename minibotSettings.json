@@ -2791,12 +2791,12 @@
     },
     "94740026599": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "recording",
-      "emoji": "💔",
+      "emoji": "🙈",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-05T08:27:37.240Z"
+      "updatedAt": "2025-06-05T09:19:39.174Z"
     },
     "94765775550": {
       "callReject": "on",
