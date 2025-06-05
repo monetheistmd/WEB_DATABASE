@@ -2717,12 +2717,12 @@
     },
     "94704346175": {
       "callReject": "on",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "typing",
-      "emoji": "🤡",
+      "emoji": "🐥",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-05T03:26:59.483Z"
+      "updatedAt": "2025-06-05T04:10:31.357Z"
     },
     "94753836730": {
       "callReject": "off",
