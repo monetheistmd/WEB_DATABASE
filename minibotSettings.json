@@ -1074,12 +1074,12 @@
     },
     "201063183976": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
-      "emoji": "👑",
+      "emoji": "💔",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-02T15:23:04.688Z"
+      "updatedAt": "2025-06-05T05:35:55.463Z"
     },
     "94760991025": {
       "callReject": "off",
