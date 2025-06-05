@@ -2531,13 +2531,13 @@
       "updatedAt": "2025-06-05T07:10:30.471Z"
     },
     "94764406465": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "on",
       "action": "typing",
-      "emoji": "💓",
-      "statusSave": "on",
+      "emoji": "👻",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-05T07:12:32.361Z"
+      "updatedAt": "2025-06-05T13:27:25.435Z"
     },
     "94768424120": {
       "callReject": "on",
