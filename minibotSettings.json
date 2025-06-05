@@ -3056,12 +3056,12 @@
     },
     "201116346904": {
       "callReject": "off",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "off",
       "emoji": "🦋",
       "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-05T20:00:51.802Z"
+      "updatedAt": "2025-06-05T20:30:29.182Z"
     },
     "201143366332": {
       "callReject": "on",
