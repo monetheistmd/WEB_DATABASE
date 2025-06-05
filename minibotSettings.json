@@ -2828,11 +2828,11 @@
     "01092749311": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
+      "action": "recording",
       "emoji": "💖",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-05T10:35:22.000Z"
+      "updatedAt": "2025-06-05T10:35:26.761Z"
     }
   }
 }
