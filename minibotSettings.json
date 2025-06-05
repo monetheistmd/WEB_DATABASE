@@ -2638,12 +2638,12 @@
     },
     "201557901069": {
       "callReject": "on",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "off",
       "emoji": "👽",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-05T12:13:29.594Z"
+      "updatedAt": "2025-06-05T12:14:34.971Z"
     },
     "94740026599": {
       "callReject": "on",
