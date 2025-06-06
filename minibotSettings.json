@@ -3034,10 +3034,10 @@
       "callReject": "on",
       "statusReply": "on",
       "action": "off",
-      "emoji": "🐍",
+      "emoji": "😈",
       "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-06T22:16:50.232Z"
+      "online": "off",
+      "updatedAt": "2025-06-06T22:19:06.688Z"
     }
   }
 }
