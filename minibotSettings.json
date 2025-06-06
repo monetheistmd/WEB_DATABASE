@@ -2079,11 +2079,11 @@
     "249117304530": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
+      "action": "off",
       "emoji": "🤙",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-06T18:59:25.809Z"
+      "updatedAt": "2025-06-06T18:59:36.318Z"
     },
     "94762028578": {
       "callReject": "off",
