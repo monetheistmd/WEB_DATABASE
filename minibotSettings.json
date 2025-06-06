@@ -2229,13 +2229,13 @@
       "updatedAt": "2025-06-05T22:21:25.556Z"
     },
     "967774072820": {
-      "callReject": "on",
-      "statusReply": "off",
+      "callReject": "off",
+      "statusReply": "on",
       "action": "typing",
       "emoji": "🤫",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-05T07:47:49.671Z"
+      "updatedAt": "2025-06-06T00:36:22.875Z"
     },
     "94715898396": {
       "callReject": "on",
