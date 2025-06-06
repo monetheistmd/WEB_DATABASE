@@ -2299,12 +2299,12 @@
     },
     "94789617466": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "off",
-      "emoji": "🤭",
+      "emoji": "🤙",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-05T12:29:49.580Z"
+      "updatedAt": "2025-06-06T10:50:03.857Z"
     },
     "201016821053": {
       "callReject": "on",
