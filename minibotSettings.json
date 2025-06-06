@@ -3006,11 +3006,11 @@
     "201556580287": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "typing",
+      "action": "off",
       "emoji": "👻",
-      "statusSave": "off",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-06T21:46:45.038Z"
+      "updatedAt": "2025-06-06T21:48:50.922Z"
     },
     "201021926689": {
       "callReject": "off",
