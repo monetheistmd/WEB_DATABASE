@@ -3076,12 +3076,12 @@
     },
     "201030086025": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "🤔",
       "statusSave": "off",
-      "online": "off",
-      "updatedAt": "2025-06-05T23:58:59.159Z"
+      "online": "on",
+      "updatedAt": "2025-06-06T00:05:57.433Z"
     },
     "201221758185": {
       "callReject": "on",
