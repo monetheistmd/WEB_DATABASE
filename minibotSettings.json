@@ -2945,12 +2945,12 @@
     },
     "252616021711": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "🥱",
+      "statusReply": "off",
+      "action": "recording",
+      "emoji": "🍀",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-06T03:28:25.783Z"
+      "online": "off",
+      "updatedAt": "2025-06-06T04:25:35.837Z"
     },
     "50931430298": {
       "callReject": "on",
