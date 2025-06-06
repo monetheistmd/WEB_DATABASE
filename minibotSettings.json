@@ -2924,12 +2924,12 @@
     },
     "94742126230": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "off",
       "emoji": "💙",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-06T18:43:07.223Z"
+      "updatedAt": "2025-06-06T19:03:08.403Z"
     },
     "201501929731": {
       "callReject": "off",
