@@ -2612,9 +2612,9 @@
       "statusReply": "off",
       "action": "recording",
       "emoji": "🐍",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-06T21:32:36.590Z"
+      "updatedAt": "2025-06-06T21:32:44.437Z"
     },
     "201153010662": {
       "callReject": "on",
