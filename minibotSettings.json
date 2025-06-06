@@ -2818,10 +2818,10 @@
       "callReject": "off",
       "statusReply": "off",
       "action": "typing",
-      "emoji": "👻",
-      "statusSave": "off",
+      "emoji": "🦋",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-06T16:05:03.941Z"
+      "updatedAt": "2025-06-06T18:05:08.431Z"
     },
     "94770153274": {
       "callReject": "on",
