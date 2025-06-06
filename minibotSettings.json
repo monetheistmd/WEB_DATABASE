@@ -1912,12 +1912,12 @@
     },
     "967776946424": {
       "callReject": "off",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "off",
       "emoji": "💤",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-06T13:29:56.703Z"
+      "updatedAt": "2025-06-06T13:33:19.304Z"
     },
     "967779500870": {
       "callReject": "on",
