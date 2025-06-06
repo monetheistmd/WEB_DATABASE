@@ -3008,9 +3008,9 @@
       "statusReply": "off",
       "action": "typing",
       "emoji": "👻",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-06T21:07:06.932Z"
+      "updatedAt": "2025-06-06T21:46:45.038Z"
     },
     "201021926689": {
       "callReject": "off",
