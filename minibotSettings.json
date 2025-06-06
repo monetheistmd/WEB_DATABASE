@@ -2992,12 +2992,12 @@
     },
     "201070035211": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "off",
       "emoji": "💘",
       "statusSave": "on",
-      "online": "off",
-      "updatedAt": "2025-06-06T12:50:09.609Z"
+      "online": "on",
+      "updatedAt": "2025-06-06T13:00:17.485Z"
     },
     "201155270492": {
       "callReject": "off",
