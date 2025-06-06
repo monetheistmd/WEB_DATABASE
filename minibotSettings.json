@@ -2942,12 +2942,12 @@
     },
     "94764235130": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "recording",
       "emoji": "💥",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-06T15:12:16.170Z"
+      "updatedAt": "2025-06-06T15:35:45.572Z"
     },
     "380932608891": {
       "callReject": "on",
