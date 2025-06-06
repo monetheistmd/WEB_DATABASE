@@ -2997,11 +2997,11 @@
     "201556580287": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "off",
+      "action": "typing",
       "emoji": "👻",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-06T21:49:00.344Z"
+      "updatedAt": "2025-06-06T22:01:47.997Z"
     },
     "201021926689": {
       "callReject": "off",
