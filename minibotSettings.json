@@ -2609,12 +2609,12 @@
     },
     "201284801952": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "recording",
       "emoji": "🐍",
-      "statusSave": "off",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-06T12:46:45.818Z"
+      "updatedAt": "2025-06-06T21:32:36.590Z"
     },
     "201153010662": {
       "callReject": "on",
