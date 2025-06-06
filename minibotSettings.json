@@ -3036,13 +3036,13 @@
       "updatedAt": "2025-06-06T11:07:23.032Z"
     },
     "201126239631": {
-      "callReject": "off",
-      "statusReply": "off",
+      "callReject": "on",
+      "statusReply": "on",
       "action": "typing",
       "emoji": "💗",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-06T11:10:28.220Z"
+      "updatedAt": "2025-06-06T11:11:26.088Z"
     },
     "201060908897": {
       "callReject": "on",
