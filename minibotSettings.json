@@ -2979,11 +2979,11 @@
     "967775501625": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "recording",
-      "emoji": "⚡",
+      "action": "typing",
+      "emoji": "🤡",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-06T15:51:29.374Z"
+      "updatedAt": "2025-06-06T15:53:40.867Z"
     }
   }
 }
