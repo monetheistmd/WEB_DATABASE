@@ -2964,13 +2964,13 @@
       "updatedAt": "2025-06-06T05:18:38.616Z"
     },
     "249110776765": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
       "emoji": "😡",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-06T05:44:35.120Z"
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-06T05:50:03.113Z"
     },
     "94769159314": {
       "callReject": "off",
