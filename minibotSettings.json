@@ -3068,11 +3068,11 @@
     "201030086025": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "typing",
+      "action": "recording",
       "emoji": "🤔",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-06T00:05:57.433Z"
+      "online": "off",
+      "updatedAt": "2025-06-06T00:15:36.020Z"
     },
     "201221758185": {
       "callReject": "on",
