@@ -2985,12 +2985,12 @@
     },
     "94764235130": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "👀",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "💥",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-06T14:48:20.829Z"
+      "updatedAt": "2025-06-06T14:53:13.615Z"
     },
     "201556580287": {
       "callReject": "off",
