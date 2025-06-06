@@ -2971,13 +2971,13 @@
       "updatedAt": "2025-06-06T04:21:46.084Z"
     },
     "201097874342": {
-      "callReject": "off",
-      "statusReply": "off",
-      "action": "off",
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
       "emoji": "🌟",
       "statusSave": "off",
-      "online": "off",
-      "updatedAt": "2025-06-06T04:29:31.249Z"
+      "online": "on",
+      "updatedAt": "2025-06-06T04:32:04.223Z"
     }
   }
 }
