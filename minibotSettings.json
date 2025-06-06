@@ -3038,6 +3038,15 @@
       "statusSave": "on",
       "online": "off",
       "updatedAt": "2025-06-06T19:52:10.523Z"
+    },
+    "01014086745": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "🦋",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-06T19:53:36.186Z"
     }
   }
 }
