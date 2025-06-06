@@ -2951,12 +2951,12 @@
     },
     "94764235130": {
       "callReject": "on",
-      "statusReply": "off",
-      "action": "typing",
+      "statusReply": "on",
+      "action": "recording",
       "emoji": "💥",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-06T14:53:13.615Z"
+      "updatedAt": "2025-06-06T15:12:16.170Z"
     },
     "380932608891": {
       "callReject": "on",
