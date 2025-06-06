@@ -2948,6 +2948,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-06T15:55:34.911Z"
+    },
+    "94715218973": {
+      "callReject": "off",
+      "statusReply": "on",
+      "action": "off",
+      "emoji": "🥰",
+      "statusSave": "on",
+      "online": "off",
+      "updatedAt": "2025-06-06T15:58:42.831Z"
     }
   }
 }
