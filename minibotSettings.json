@@ -3011,11 +3011,11 @@
     "967733946125": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "off",
+      "action": "typing",
       "emoji": "😊",
       "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-06T12:50:54.251Z"
+      "updatedAt": "2025-06-06T12:53:24.872Z"
     }
   }
 }
