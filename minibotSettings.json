@@ -2722,12 +2722,12 @@
     },
     "201143366332": {
       "callReject": "on",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "recording",
-      "emoji": "🥳",
-      "statusSave": "off",
+      "emoji": "🌻",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-05T21:59:12.582Z"
+      "updatedAt": "2025-06-06T05:47:49.909Z"
     },
     "94766215563": {
       "callReject": "on",
