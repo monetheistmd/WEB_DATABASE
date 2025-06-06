@@ -2680,13 +2680,13 @@
       "updatedAt": "2025-06-06T10:16:30.639Z"
     },
     "256750332111": {
-      "callReject": "on",
-      "statusReply": "on",
+      "callReject": "off",
+      "statusReply": "off",
       "action": "recording",
-      "emoji": "⚡",
-      "statusSave": "on",
+      "emoji": "💀",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-06T10:21:52.368Z"
+      "updatedAt": "2025-06-06T16:17:42.906Z"
     },
     "254111605223": {
       "callReject": "on",
