@@ -3004,13 +3004,13 @@
       "updatedAt": "2025-06-06T17:29:02.442Z"
     },
     "212674051739": {
-      "callReject": "off",
-      "statusReply": "off",
+      "callReject": "on",
+      "statusReply": "on",
       "action": "off",
       "emoji": "😭",
-      "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-06T17:33:26.187Z"
+      "statusSave": "on",
+      "online": "off",
+      "updatedAt": "2025-06-06T17:39:38.994Z"
     },
     "967717038087": {
       "callReject": "off",
