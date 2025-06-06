@@ -2991,11 +2991,11 @@
     "966553357953": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "off",
+      "action": "typing",
       "emoji": "⚡",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-06T02:34:13.404Z"
+      "updatedAt": "2025-06-06T02:37:15.887Z"
     },
     "201113537516": {
       "callReject": "on",
