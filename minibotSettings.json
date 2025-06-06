@@ -2963,12 +2963,12 @@
     },
     "201227588788": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
+      "statusReply": "off",
+      "action": "off",
       "emoji": "🌹",
-      "statusSave": "off",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-06T04:21:46.084Z"
+      "updatedAt": "2025-06-06T04:32:26.937Z"
     },
     "201097874342": {
       "callReject": "on",
