@@ -2291,11 +2291,11 @@
     "94764133602": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "recording",
-      "emoji": "🩸",
-      "statusSave": "on",
+      "action": "typing",
+      "emoji": "🤮",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-05T12:26:53.899Z"
+      "updatedAt": "2025-06-06T11:45:06.866Z"
     },
     "94789617466": {
       "callReject": "on",
