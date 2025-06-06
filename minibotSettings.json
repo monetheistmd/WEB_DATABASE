@@ -2975,11 +2975,11 @@
     "923010904103": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
-      "emoji": "😊",
-      "statusSave": "off",
+      "action": "recording",
+      "emoji": "😍",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-06T07:40:32.466Z"
+      "updatedAt": "2025-06-06T08:29:25.875Z"
     },
     "201116550932": {
       "callReject": "on",
