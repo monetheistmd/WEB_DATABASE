@@ -2880,11 +2880,11 @@
     "212674051739": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "off",
-      "emoji": "😴",
+      "action": "typing",
+      "emoji": "😐",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-06T21:00:58.967Z"
+      "updatedAt": "2025-06-06T21:16:07.276Z"
     },
     "94742126230": {
       "callReject": "on",
