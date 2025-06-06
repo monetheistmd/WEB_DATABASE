@@ -2944,10 +2944,10 @@
       "callReject": "off",
       "statusReply": "off",
       "action": "typing",
-      "emoji": "⚡",
-      "statusSave": "off",
+      "emoji": "🔥",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-06T19:11:18.498Z"
+      "updatedAt": "2025-06-06T22:39:10.687Z"
     },
     "249110728655": {
       "callReject": "on",
