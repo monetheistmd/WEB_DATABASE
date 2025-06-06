@@ -3023,12 +3023,12 @@
     },
     "201500978472": {
       "callReject": "on",
-      "statusReply": "off",
-      "action": "off",
-      "emoji": "💀",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "👑",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-06T19:33:12.932Z"
+      "updatedAt": "2025-06-06T19:42:48.988Z"
     }
   }
 }
