@@ -2764,10 +2764,10 @@
       "callReject": "off",
       "statusReply": "off",
       "action": "typing",
-      "emoji": "🦋",
-      "statusSave": "off",
+      "emoji": "🐢",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-06T20:37:36.162Z"
+      "updatedAt": "2025-06-06T20:38:56.115Z"
     },
     "94770153274": {
       "callReject": "on",
