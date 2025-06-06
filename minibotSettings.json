@@ -3000,6 +3000,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-06T14:47:28.045Z"
+    },
+    "94764235130": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "👀",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-06T14:47:45.258Z"
     }
   }
 }
