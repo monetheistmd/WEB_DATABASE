@@ -2987,12 +2987,12 @@
     },
     "233257460193": {
       "callReject": "off",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "🔥",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-06T18:03:24.494Z"
+      "updatedAt": "2025-06-06T18:05:49.606Z"
     },
     "50942802307": {
       "callReject": "off",
