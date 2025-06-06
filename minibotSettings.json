@@ -3002,13 +3002,13 @@
       "updatedAt": "2025-06-06T14:12:51.799Z"
     },
     "249110776765": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "off",
-      "action": "recording",
+      "action": "off",
       "emoji": "🥶",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-06T14:17:34.110Z"
+      "online": "off",
+      "updatedAt": "2025-06-06T14:23:26.135Z"
     },
     "201556580287": {
       "callReject": "on",
