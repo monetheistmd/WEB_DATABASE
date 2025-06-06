@@ -3020,6 +3020,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-06T17:29:17.221Z"
+    },
+    "94742126230": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "💙",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-06T17:38:41.135Z"
     }
   }
 }
