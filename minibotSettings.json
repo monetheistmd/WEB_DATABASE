@@ -141,10 +141,12 @@
     },
     "201126494389": {
       "callReject": "off",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "off",
       "emoji": "👑",
-      "updatedAt": "2025-06-01T14:24:19.999Z"
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-06T00:04:56.543Z"
     },
     "967779483934": {
       "callReject": "off",
