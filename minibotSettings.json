@@ -903,13 +903,13 @@
       "updatedAt": "2025-06-02T13:31:39.602Z"
     },
     "201027340738": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
       "emoji": "🩸",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-02T13:22:00.996Z"
+      "updatedAt": "2025-06-06T04:40:06.787Z"
     },
     "94788295349": {
       "callReject": "off",
