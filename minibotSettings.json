@@ -2580,12 +2580,12 @@
     },
     "252616021711": {
       "callReject": "on",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "recording",
-      "emoji": "🍀",
+      "emoji": "👿",
       "statusSave": "off",
-      "online": "off",
-      "updatedAt": "2025-06-06T04:28:39.225Z"
+      "online": "on",
+      "updatedAt": "2025-06-06T14:48:41.852Z"
     },
     "923477013895": {
       "callReject": "off",
