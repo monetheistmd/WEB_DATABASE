@@ -2986,13 +2986,13 @@
       "updatedAt": "2025-06-06T19:42:48.988Z"
     },
     "201282901061": {
-      "callReject": "on",
-      "statusReply": "on",
+      "callReject": "off",
+      "statusReply": "off",
       "action": "recording",
       "emoji": "🤡",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-06T21:17:25.384Z"
+      "updatedAt": "2025-06-06T21:19:59.641Z"
     },
     "94725624156": {
       "callReject": "on",
