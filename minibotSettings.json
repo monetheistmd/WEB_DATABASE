@@ -2979,11 +2979,11 @@
     "201282901061": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "off",
-      "emoji": "🤡",
+      "action": "typing",
+      "emoji": "🖤",
       "statusSave": "off",
-      "online": "off",
-      "updatedAt": "2025-06-06T21:21:39.124Z"
+      "online": "on",
+      "updatedAt": "2025-06-06T21:38:08.339Z"
     },
     "94725624156": {
       "callReject": "on",
