@@ -918,15 +918,6 @@
       "online": "on",
       "updatedAt": "2025-06-02T13:22:00.996Z"
     },
-    "923205359273": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "⚡",
-      "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-02T13:45:29.176Z"
-    },
     "94788295349": {
       "callReject": "off",
       "statusReply": "off",
@@ -1267,15 +1258,6 @@
       "online": "off",
       "updatedAt": "2025-06-03T04:38:57.275Z"
     },
-    "94771008691": {
-      "callReject": "off",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "💙",
-      "statusSave": "on",
-      "online": "off",
-      "updatedAt": "2025-06-05T05:09:46.337Z"
-    },
     "94764374038": {
       "callReject": "off",
       "statusReply": "on",
@@ -1356,15 +1338,6 @@
       "statusSave": "off",
       "online": "off",
       "updatedAt": "2025-06-03T09:57:43.613Z"
-    },
-    "94764325206": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "🐼",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-03T10:22:22.842Z"
     },
     "94760860835": {
       "callReject": "on",
@@ -2084,15 +2057,6 @@
       "online": "on",
       "updatedAt": "2025-06-04T21:05:23.639Z"
     },
-    "213794554529": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "off",
-      "emoji": "🐥",
-      "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-04T22:11:52.005Z"
-    },
     "967776946424": {
       "callReject": "off",
       "statusReply": "off",
@@ -2308,15 +2272,6 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-05T07:54:15.350Z"
-    },
-    "966535500719": {
-      "callReject": "off",
-      "statusReply": "on",
-      "action": "off",
-      "emoji": "🐥",
-      "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-05T07:53:51.185Z"
     },
     "201557901069": {
       "callReject": "on",
