@@ -3025,10 +3025,10 @@
       "callReject": "on",
       "statusReply": "on",
       "action": "typing",
-      "emoji": "👀",
+      "emoji": "🖤",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-06T18:13:40.747Z"
+      "online": "off",
+      "updatedAt": "2025-06-06T18:20:27.019Z"
     },
     "201126239631": {
       "callReject": "on",
