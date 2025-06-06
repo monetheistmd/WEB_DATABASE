@@ -2618,12 +2618,12 @@
     },
     "201153010662": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "💘",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "💖",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-06T22:11:35.779Z"
+      "updatedAt": "2025-06-06T22:18:08.440Z"
     },
     "201070035211": {
       "callReject": "off",
