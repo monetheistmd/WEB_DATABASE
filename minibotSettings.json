@@ -2993,6 +2993,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-06T16:17:05.171Z"
+    },
+    "94783820043": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "off",
+      "emoji": "👽",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-06T16:30:54.054Z"
     }
   }
 }
