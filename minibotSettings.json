@@ -3047,11 +3047,11 @@
     "201060908897": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "typing",
+      "action": "recording",
       "emoji": "🥰",
       "statusSave": "on",
-      "online": "off",
-      "updatedAt": "2025-06-06T11:10:33.671Z"
+      "online": "on",
+      "updatedAt": "2025-06-06T11:17:03.522Z"
     }
   }
 }
