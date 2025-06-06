@@ -3028,6 +3028,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-06T01:19:56.581Z"
+    },
+    "94740714178": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "🤤",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-06T01:26:47.221Z"
     }
   }
 }
