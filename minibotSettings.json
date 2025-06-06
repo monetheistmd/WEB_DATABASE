@@ -2988,11 +2988,11 @@
     "201282901061": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "off",
+      "action": "recording",
       "emoji": "🤡",
-      "statusSave": "on",
-      "online": "off",
-      "updatedAt": "2025-06-06T19:52:10.523Z"
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-06T21:17:13.933Z"
     },
     "94725624156": {
       "callReject": "on",
