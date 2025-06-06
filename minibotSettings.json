@@ -2651,11 +2651,11 @@
     "94772557151": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "off",
-      "emoji": "💯",
+      "action": "recording",
+      "emoji": "💥",
       "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-05T18:56:31.709Z"
+      "updatedAt": "2025-06-06T05:47:52.295Z"
     },
     "923124772736": {
       "callReject": "off",
