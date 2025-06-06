@@ -2995,13 +2995,13 @@
       "updatedAt": "2025-06-06T17:20:09.455Z"
     },
     "212674051739": {
-      "callReject": "on",
-      "statusReply": "on",
+      "callReject": "off",
+      "statusReply": "off",
       "action": "off",
       "emoji": "😭",
-      "statusSave": "on",
-      "online": "off",
-      "updatedAt": "2025-06-06T17:39:38.994Z"
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-06T17:45:22.218Z"
     },
     "967717038087": {
       "callReject": "off",
