@@ -3013,13 +3013,13 @@
       "updatedAt": "2025-06-06T18:13:45.319Z"
     },
     "94766180679": {
-      "callReject": "on",
-      "statusReply": "off",
-      "action": "recording",
+      "callReject": "off",
+      "statusReply": "on",
+      "action": "typing",
       "emoji": "👀",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-06T18:12:58.973Z"
+      "updatedAt": "2025-06-06T18:18:37.696Z"
     },
     "201005044362": {
       "callReject": "on",
