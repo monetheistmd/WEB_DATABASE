@@ -3033,11 +3033,11 @@
     "201070897721": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
-      "emoji": "😍",
+      "action": "off",
+      "emoji": "😭",
       "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-06T22:20:24.362Z"
+      "online": "off",
+      "updatedAt": "2025-06-06T22:22:21.386Z"
     }
   }
 }
