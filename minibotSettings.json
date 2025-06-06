@@ -3003,12 +3003,12 @@
     },
     "967773160669": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "off",
       "emoji": "💚",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-06T14:01:13.908Z"
+      "updatedAt": "2025-06-06T14:10:49.855Z"
     },
     "94763794249": {
       "callReject": "on",
