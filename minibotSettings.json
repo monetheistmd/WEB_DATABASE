@@ -2992,12 +2992,12 @@
     },
     "94742817784": {
       "callReject": "off",
-      "statusReply": "off",
-      "action": "recording",
-      "emoji": "👑",
-      "statusSave": "on",
-      "online": "off",
-      "updatedAt": "2025-06-06T09:18:23.663Z"
+      "statusReply": "on",
+      "action": "off",
+      "emoji": "🫶",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-06T09:32:05.168Z"
     },
     "94786400514": {
       "callReject": "on",
