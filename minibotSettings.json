@@ -2980,11 +2980,11 @@
     "201014987083": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
-      "emoji": "😎",
-      "statusSave": "off",
+      "action": "recording",
+      "emoji": "😈",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-06T01:43:41.965Z"
+      "updatedAt": "2025-06-06T02:10:06.139Z"
     },
     "94760430231": {
       "callReject": "off",
