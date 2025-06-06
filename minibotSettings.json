@@ -2908,10 +2908,10 @@
       "callReject": "off",
       "statusReply": "off",
       "action": "typing",
-      "emoji": "🐝",
-      "statusSave": "on",
+      "emoji": "👻",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-06T15:49:04.937Z"
+      "updatedAt": "2025-06-06T15:57:35.725Z"
     },
     "94770153274": {
       "callReject": "on",
