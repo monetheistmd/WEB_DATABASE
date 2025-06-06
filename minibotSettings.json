@@ -3059,12 +3059,12 @@
     },
     "967776144986": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "off",
-      "emoji": "💯",
+      "emoji": "🤤",
       "statusSave": "on",
-      "online": "off",
-      "updatedAt": "2025-06-06T23:04:42.277Z"
+      "online": "on",
+      "updatedAt": "2025-06-06T23:08:45.083Z"
     },
     "201033646195": {
       "callReject": "off",
