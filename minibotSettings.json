@@ -3463,6 +3463,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-07T14:23:32.227Z"
+    },
+    "94725477828": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "🤩",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-07T14:24:18.702Z"
     }
   }
 }
