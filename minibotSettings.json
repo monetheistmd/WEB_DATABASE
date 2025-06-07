@@ -3242,11 +3242,11 @@
     "94766015589": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "recording",
-      "emoji": "😎",
+      "action": "off",
+      "emoji": "😍",
       "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-07T12:53:56.520Z"
+      "online": "off",
+      "updatedAt": "2025-06-07T13:56:54.757Z"
     },
     "94702572157": {
       "callReject": "off",
