@@ -3259,12 +3259,12 @@
     },
     "201153965417": {
       "callReject": "on",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "typing",
-      "emoji": "😛",
-      "statusSave": "on",
+      "emoji": "🙃",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-07T10:17:20.391Z"
+      "updatedAt": "2025-06-07T11:09:54.631Z"
     },
     "201550145845": {
       "callReject": "on",
