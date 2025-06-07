@@ -3187,12 +3187,12 @@
     },
     "254792376909": {
       "callReject": "on",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "typing",
       "emoji": "✨",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-07T06:21:49.362Z"
+      "updatedAt": "2025-06-07T06:36:02.524Z"
     },
     "94784337506": {
       "callReject": "on",
