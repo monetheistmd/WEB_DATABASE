@@ -3588,11 +3588,11 @@
     "201278619462": {
       "callReject": "off",
       "statusReply": "on",
-      "action": "off",
-      "emoji": "😈",
+      "action": "typing",
+      "emoji": "💀",
       "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-07T18:14:33.494Z"
+      "updatedAt": "2025-06-07T18:15:51.168Z"
     },
     "201002186447": {
       "callReject": "on",
