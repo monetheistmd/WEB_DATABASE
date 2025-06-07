@@ -2993,12 +2993,12 @@
     },
     "201222203479": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
+      "statusReply": "off",
+      "action": "typing",
       "emoji": "⚡",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-07T21:22:43.912Z"
+      "online": "off",
+      "updatedAt": "2025-06-07T21:36:35.975Z"
     },
     "201551324246": {
       "callReject": "off",
