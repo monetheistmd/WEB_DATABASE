@@ -3252,10 +3252,10 @@
       "callReject": "on",
       "statusReply": "off",
       "action": "typing",
-      "emoji": "💗",
+      "emoji": "⚡",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-07T09:47:36.844Z"
+      "online": "off",
+      "updatedAt": "2025-06-07T10:23:35.636Z"
     },
     "201551324246": {
       "callReject": "off",
