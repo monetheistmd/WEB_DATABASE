@@ -3474,6 +3474,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-07T15:16:14.632Z"
+    },
+    "94762842232": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "💖",
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-07T15:25:13.898Z"
     }
   }
 }
