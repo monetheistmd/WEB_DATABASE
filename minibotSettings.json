@@ -3216,10 +3216,10 @@
       "callReject": "on",
       "statusReply": "on",
       "action": "typing",
-      "emoji": "😊",
+      "emoji": "🤩",
       "statusSave": "off",
-      "online": "off",
-      "updatedAt": "2025-06-07T07:01:14.085Z"
+      "online": "on",
+      "updatedAt": "2025-06-07T07:03:20.565Z"
     }
   }
 }
