@@ -3312,13 +3312,13 @@
       "updatedAt": "2025-06-07T11:27:00.035Z"
     },
     "967780282448": {
-      "callReject": "on",
-      "statusReply": "on",
+      "callReject": "off",
+      "statusReply": "off",
       "action": "off",
-      "emoji": "🌟",
+      "emoji": "🖤",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-07T11:29:34.507Z"
+      "updatedAt": "2025-06-07T12:15:36.447Z"
     },
     "94775068062": {
       "callReject": "on",
