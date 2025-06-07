@@ -3233,11 +3233,11 @@
     "94766015589": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "off",
-      "emoji": "😍",
+      "action": "recording",
+      "emoji": "😋",
       "statusSave": "on",
-      "online": "off",
-      "updatedAt": "2025-06-07T13:56:54.757Z"
+      "online": "on",
+      "updatedAt": "2025-06-07T14:08:16.285Z"
     },
     "94702572157": {
       "callReject": "off",
