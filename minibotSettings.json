@@ -3132,13 +3132,13 @@
       "updatedAt": "2025-06-07T03:49:01.468Z"
     },
     "94741563028": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
       "action": "typing",
       "emoji": "🥱",
-      "statusSave": "off",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-07T03:55:05.818Z"
+      "updatedAt": "2025-06-07T03:57:01.230Z"
     },
     "94741179290": {
       "callReject": "off",
