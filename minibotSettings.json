@@ -3202,6 +3202,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-07T06:21:49.362Z"
+    },
+    "94784337506": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "recording",
+      "emoji": "💚",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-07T06:31:22.689Z"
     }
   }
 }
