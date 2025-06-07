@@ -3316,9 +3316,9 @@
       "statusReply": "off",
       "action": "typing",
       "emoji": "💖",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-07T11:50:00.613Z"
+      "updatedAt": "2025-06-07T11:50:16.618Z"
     },
     "249115835038": {
       "callReject": "off",
