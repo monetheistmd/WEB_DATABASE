@@ -3678,11 +3678,11 @@
     "249991570235": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "typing",
-      "emoji": "🦋",
-      "statusSave": "on",
+      "action": "off",
+      "emoji": "🤭",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-07T22:27:04.528Z"
+      "updatedAt": "2025-06-07T22:31:57.840Z"
     },
     "201153965417": {
       "callReject": "on",
