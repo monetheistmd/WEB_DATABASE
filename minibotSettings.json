@@ -3398,12 +3398,12 @@
     },
     "994408939501": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
-      "emoji": "🍀",
-      "statusSave": "off",
+      "emoji": "🔥",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-07T22:28:57.890Z"
+      "updatedAt": "2025-06-07T22:31:18.516Z"
     },
     "2347076656544": {
       "callReject": "off",
