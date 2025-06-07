@@ -3133,12 +3133,12 @@
     },
     "94741288762": {
       "callReject": "off",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "off",
       "emoji": "💚",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-07T04:28:08.788Z"
+      "updatedAt": "2025-06-07T04:31:14.380Z"
     }
   }
 }
