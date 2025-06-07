@@ -3530,6 +3530,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-07T17:28:17.255Z"
+    },
+    "94714781802": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "👀",
+      "statusSave": "on",
+      "online": "off",
+      "updatedAt": "2025-06-07T17:28:25.957Z"
     }
   }
 }
