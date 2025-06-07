@@ -3251,13 +3251,13 @@
       "updatedAt": "2025-06-07T12:15:36.447Z"
     },
     "94775068062": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "off",
-      "action": "typing",
-      "emoji": "😂",
+      "action": "recording",
+      "emoji": "🤩",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-07T13:34:54.043Z"
+      "updatedAt": "2025-06-07T14:52:08.844Z"
     },
     "201151126204": {
       "callReject": "off",
