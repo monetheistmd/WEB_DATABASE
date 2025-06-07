@@ -1884,12 +1884,12 @@
     },
     "94717245383": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "🧡",
+      "statusReply": "off",
+      "action": "recording",
+      "emoji": "💖",
       "statusSave": "on",
-      "online": "off",
-      "updatedAt": "2025-06-05T15:00:12.868Z"
+      "online": "on",
+      "updatedAt": "2025-06-07T16:15:52.423Z"
     },
     "94760647496": {
       "callReject": "off",
