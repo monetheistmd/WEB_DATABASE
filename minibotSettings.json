@@ -3611,6 +3611,15 @@
       "statusSave": "on",
       "online": "off",
       "updatedAt": "2025-06-07T20:20:53.398Z"
+    },
+    "201556731642": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "off",
+      "emoji": "💗",
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-07T20:28:59.875Z"
     }
   }
 }
