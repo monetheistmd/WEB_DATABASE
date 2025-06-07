@@ -2885,12 +2885,12 @@
     },
     "94760313785": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "🐼",
       "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-07T16:45:52.343Z"
+      "updatedAt": "2025-06-07T17:55:10.587Z"
     },
     "201119717344": {
       "callReject": "on",
