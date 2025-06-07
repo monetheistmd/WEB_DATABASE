@@ -2342,13 +2342,13 @@
       "updatedAt": "2025-06-06T11:07:23.032Z"
     },
     "94785597606": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
       "action": "typing",
       "emoji": "🐼",
-      "statusSave": "off",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-06T11:27:49.524Z"
+      "updatedAt": "2025-06-07T16:15:28.143Z"
     },
     "201284801952": {
       "callReject": "on",
