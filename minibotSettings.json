@@ -3186,13 +3186,13 @@
       "updatedAt": "2025-06-07T07:03:20.565Z"
     },
     "201117303402": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "off",
-      "action": "typing",
+      "action": "off",
       "emoji": "👻",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-07T07:18:44.683Z"
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-07T07:47:51.673Z"
     },
     "94766687628": {
       "callReject": "on",
