@@ -3541,13 +3541,13 @@
       "updatedAt": "2025-06-07T19:26:00.252Z"
     },
     "201101023735": {
-      "callReject": "on",
-      "statusReply": "on",
+      "callReject": "off",
+      "statusReply": "off",
       "action": "off",
-      "emoji": "🤩",
+      "emoji": "🐝",
       "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-07T19:34:25.967Z"
+      "updatedAt": "2025-06-07T21:13:11.932Z"
     },
     "94742156930": {
       "callReject": "on",
