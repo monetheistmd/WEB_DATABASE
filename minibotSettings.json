@@ -3179,11 +3179,11 @@
     "94715330496": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
+      "action": "recording",
       "emoji": "🤩",
-      "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-07T07:03:20.565Z"
+      "statusSave": "on",
+      "online": "off",
+      "updatedAt": "2025-06-07T07:49:34.150Z"
     },
     "201117303402": {
       "callReject": "off",
