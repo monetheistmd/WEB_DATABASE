@@ -2045,13 +2045,13 @@
       "updatedAt": "2025-06-05T22:22:42.934Z"
     },
     "201272372741": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
       "emoji": "🌹",
-      "statusSave": "off",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-07T15:25:32.266Z"
+      "updatedAt": "2025-06-07T15:38:11.820Z"
     },
     "249124682208": {
       "callReject": "off",
