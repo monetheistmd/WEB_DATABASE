@@ -3474,6 +3474,15 @@
       "statusSave": "off",
       "online": "off",
       "updatedAt": "2025-06-07T15:25:13.898Z"
+    },
+    "94704065774": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "🐼",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-07T15:29:47.345Z"
     }
   }
 }
