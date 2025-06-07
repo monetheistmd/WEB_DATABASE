@@ -3577,13 +3577,13 @@
       "updatedAt": "2025-06-07T17:59:22.830Z"
     },
     "201278619462": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "on",
       "action": "typing",
       "emoji": "💀",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-07T18:18:37.335Z"
+      "updatedAt": "2025-06-07T18:18:52.451Z"
     },
     "201002186447": {
       "callReject": "on",
