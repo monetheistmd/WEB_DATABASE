@@ -3376,12 +3376,12 @@
     },
     "218946518208": {
       "callReject": "off",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "off",
       "emoji": "🍀",
       "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-07T12:31:06.705Z"
+      "online": "off",
+      "updatedAt": "2025-06-07T12:41:38.960Z"
     },
     "201208552689": {
       "callReject": "off",
