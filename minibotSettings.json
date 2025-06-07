@@ -3107,11 +3107,11 @@
     "201040420041": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "off",
-      "emoji": "🌹",
-      "statusSave": "on",
-      "online": "off",
-      "updatedAt": "2025-06-07T04:33:55.038Z"
+      "action": "typing",
+      "emoji": "😍",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-07T07:11:18.934Z"
     },
     "27745249010": {
       "callReject": "off",
