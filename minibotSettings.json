@@ -3728,6 +3728,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-07T22:56:43.567Z"
+    },
+    "967772248108": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "🤤",
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-07T23:11:15.431Z"
     }
   }
 }
