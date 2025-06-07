@@ -3587,12 +3587,12 @@
     },
     "201556731642": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "off",
       "emoji": "💗",
       "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-07T19:56:34.826Z"
+      "updatedAt": "2025-06-07T19:57:42.591Z"
     },
     "201104819249": {
       "callReject": "on",
