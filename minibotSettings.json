@@ -3358,12 +3358,12 @@
     },
     "201151126204": {
       "callReject": "off",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "off",
       "emoji": "😍",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-07T11:53:39.016Z"
+      "updatedAt": "2025-06-07T12:05:06.273Z"
     }
   }
 }
