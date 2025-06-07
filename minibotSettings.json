@@ -3586,13 +3586,13 @@
       "updatedAt": "2025-06-07T19:29:35.168Z"
     },
     "2349052510720": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "off",
       "action": "typing",
       "emoji": "💤",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-07T19:30:39.644Z"
+      "updatedAt": "2025-06-07T19:31:08.634Z"
     }
   }
 }
