@@ -3427,6 +3427,15 @@
       "statusSave": "off",
       "online": "off",
       "updatedAt": "2025-06-07T13:53:08.843Z"
+    },
+    "94761779228": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "💘",
+      "statusSave": "on",
+      "online": "off",
+      "updatedAt": "2025-06-07T14:00:27.410Z"
     }
   }
 }
