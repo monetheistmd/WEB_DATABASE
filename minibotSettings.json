@@ -3454,6 +3454,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-07T14:11:36.458Z"
+    },
+    "94777135007": {
+      "callReject": "off",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "🌹",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-07T14:23:32.227Z"
     }
   }
 }
