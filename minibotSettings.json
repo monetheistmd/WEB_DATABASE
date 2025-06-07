@@ -3029,6 +3029,15 @@
       "statusSave": "off",
       "online": "off",
       "updatedAt": "2025-06-07T00:33:20.130Z"
+    },
+    "254104655639": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "off",
+      "emoji": "😡",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-07T00:34:43.033Z"
     }
   }
 }
