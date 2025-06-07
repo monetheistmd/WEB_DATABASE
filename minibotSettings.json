@@ -3205,12 +3205,12 @@
     },
     "254792376909": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "✨",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-07T06:20:00.009Z"
+      "updatedAt": "2025-06-07T06:21:49.362Z"
     }
   }
 }
