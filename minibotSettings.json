@@ -3076,10 +3076,10 @@
       "callReject": "on",
       "statusReply": "off",
       "action": "typing",
-      "emoji": "😂",
-      "statusSave": "off",
+      "emoji": "😎",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-07T17:46:37.563Z"
+      "updatedAt": "2025-06-07T17:47:51.329Z"
     },
     "201551058406": {
       "callReject": "off",
