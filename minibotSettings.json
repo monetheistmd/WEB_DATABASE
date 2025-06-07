@@ -3523,11 +3523,11 @@
     "201014086745": {
       "callReject": "off",
       "statusReply": "on",
-      "action": "typing",
+      "action": "recording",
       "emoji": "🦄",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-07T15:57:04.685Z"
+      "updatedAt": "2025-06-07T15:57:39.725Z"
     }
   }
 }
