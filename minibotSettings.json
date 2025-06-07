@@ -2980,12 +2980,12 @@
     },
     "201126403092": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "💖",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "✨",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-07T02:13:46.552Z"
+      "updatedAt": "2025-06-07T03:58:32.242Z"
     },
     "94760750516": {
       "callReject": "on",
