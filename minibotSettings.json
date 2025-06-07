@@ -1957,11 +1957,11 @@
     "94751334960": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "typing",
-      "emoji": "✨",
+      "action": "off",
+      "emoji": "👻",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-05T18:55:39.393Z"
+      "updatedAt": "2025-06-07T16:15:43.003Z"
     },
     "94787529520": {
       "callReject": "on",
