@@ -3265,6 +3265,15 @@
       "statusSave": "on",
       "online": "off",
       "updatedAt": "2025-06-07T08:23:43.382Z"
+    },
+    "94763462436": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "🌹",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-07T08:32:14.730Z"
     }
   }
 }
