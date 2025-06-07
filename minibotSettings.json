@@ -3633,11 +3633,11 @@
     "2348116325937": {
       "callReject": "off",
       "statusReply": "on",
-      "action": "typing",
+      "action": "off",
       "emoji": "🌹",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-07T20:43:19.874Z"
+      "updatedAt": "2025-06-07T20:51:58.392Z"
     }
   }
 }
