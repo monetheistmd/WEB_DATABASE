@@ -3394,12 +3394,12 @@
     },
     "201282110499": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "off",
       "emoji": "👀",
       "statusSave": "on",
-      "online": "off",
-      "updatedAt": "2025-06-07T12:57:24.875Z"
+      "online": "on",
+      "updatedAt": "2025-06-07T13:09:06.469Z"
     },
     "94712154051": {
       "callReject": "on",
