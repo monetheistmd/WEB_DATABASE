@@ -3523,13 +3523,13 @@
       "updatedAt": "2025-06-07T17:38:27.173Z"
     },
     "201007097865": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
       "emoji": "💀",
-      "statusSave": "off",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-07T17:43:20.879Z"
+      "updatedAt": "2025-06-07T18:19:03.376Z"
     },
     "2348028064339": {
       "callReject": "on",
