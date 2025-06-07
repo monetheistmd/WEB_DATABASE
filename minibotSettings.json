@@ -3074,12 +3074,12 @@
     },
     "2349017375995": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "😭",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "😂",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-07T16:48:55.909Z"
+      "updatedAt": "2025-06-07T17:45:01.019Z"
     },
     "201551058406": {
       "callReject": "off",
