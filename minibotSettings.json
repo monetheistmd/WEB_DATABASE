@@ -3238,6 +3238,15 @@
       "statusSave": "off",
       "online": "off",
       "updatedAt": "2025-06-07T07:34:35.117Z"
+    },
+    "201501929731": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "🐼",
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-07T07:44:48.041Z"
     }
   }
 }
