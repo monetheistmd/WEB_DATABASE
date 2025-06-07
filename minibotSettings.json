@@ -3537,6 +3537,15 @@
       "statusSave": "on",
       "online": "off",
       "updatedAt": "2025-06-07T16:02:19.787Z"
+    },
+    "94783874358": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "🌟",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-07T16:05:29.054Z"
     }
   }
 }
