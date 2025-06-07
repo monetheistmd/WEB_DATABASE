@@ -3614,12 +3614,12 @@
     },
     "201104965628": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "off",
+      "statusReply": "off",
+      "action": "recording",
       "emoji": "💗",
-      "statusSave": "on",
-      "online": "off",
-      "updatedAt": "2025-06-07T21:43:20.312Z"
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-07T22:07:39.613Z"
     },
     "252672171864": {
       "callReject": "on",
