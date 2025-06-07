@@ -3522,12 +3522,12 @@
     },
     "201126192342": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "💘",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-07T15:58:36.034Z"
+      "updatedAt": "2025-06-07T16:14:01.409Z"
     },
     "201551038751": {
       "callReject": "on",
