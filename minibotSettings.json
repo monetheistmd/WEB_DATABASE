@@ -3450,12 +3450,12 @@
     },
     "2349165808545": {
       "callReject": "off",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "💯",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-07T14:52:59.027Z"
+      "updatedAt": "2025-06-07T14:56:44.004Z"
     },
     "94702681710": {
       "callReject": "off",
