@@ -3045,12 +3045,12 @@
     },
     "94766687628": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "recording",
-      "emoji": "👀",
+      "emoji": "🌟",
       "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-07T07:26:40.163Z"
+      "updatedAt": "2025-06-07T14:53:09.717Z"
     },
     "94774938572": {
       "callReject": "on",
