@@ -1948,11 +1948,11 @@
     "94706334961": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "typing",
+      "action": "off",
       "emoji": "👀",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-05T18:58:30.373Z"
+      "updatedAt": "2025-06-07T16:14:37.562Z"
     },
     "94751334960": {
       "callReject": "on",
