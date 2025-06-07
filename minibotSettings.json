@@ -3412,12 +3412,12 @@
     },
     "94761779228": {
       "callReject": "off",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "off",
-      "emoji": "😍",
+      "emoji": "💔",
       "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-07T14:05:23.284Z"
+      "updatedAt": "2025-06-07T14:40:21.707Z"
     },
     "94741179290": {
       "callReject": "off",
