@@ -3481,6 +3481,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-07T14:29:45.009Z"
+    },
+    "94702681710": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "recording",
+      "emoji": "💗",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-07T14:30:12.237Z"
     }
   }
 }
