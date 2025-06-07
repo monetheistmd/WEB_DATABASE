@@ -3474,6 +3474,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-07T14:35:35.120Z"
+    },
+    "25377171720": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "off",
+      "emoji": "👽",
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-07T14:51:09.089Z"
     }
   }
 }
