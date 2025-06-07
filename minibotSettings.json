@@ -3370,9 +3370,9 @@
       "statusReply": "off",
       "action": "off",
       "emoji": "🍀",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-07T12:41:43.608Z"
+      "updatedAt": "2025-06-07T12:50:59.308Z"
     },
     "201208552689": {
       "callReject": "off",
