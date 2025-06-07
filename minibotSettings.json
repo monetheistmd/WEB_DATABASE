@@ -3223,12 +3223,12 @@
     },
     "201117303402": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
-      "emoji": "🙃",
-      "statusSave": "off",
+      "emoji": "👻",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-07T07:08:27.296Z"
+      "updatedAt": "2025-06-07T07:18:25.356Z"
     },
     "94785518429": {
       "callReject": "on",
