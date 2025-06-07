@@ -3283,6 +3283,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-07T10:17:20.391Z"
+    },
+    "201550145845": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🔥",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-07T10:34:47.431Z"
     }
   }
 }
