@@ -3418,6 +3418,15 @@
       "statusSave": "on",
       "online": "off",
       "updatedAt": "2025-06-07T13:35:41.252Z"
+    },
+    "201508535191": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "😍",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-07T13:44:22.504Z"
     }
   }
 }
