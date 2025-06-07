@@ -2969,12 +2969,12 @@
     },
     "201223453042": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "💖",
-      "statusSave": "on",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "🌟",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-07T00:31:06.863Z"
+      "updatedAt": "2025-06-07T00:35:32.597Z"
     },
     "967781129883": {
       "callReject": "off",
