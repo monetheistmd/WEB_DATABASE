@@ -3303,13 +3303,13 @@
       "updatedAt": "2025-06-07T12:15:36.447Z"
     },
     "94775068062": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
       "action": "recording",
       "emoji": "💯",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-07T11:38:06.471Z"
+      "updatedAt": "2025-06-07T13:27:09.229Z"
     },
     "201151126204": {
       "callReject": "off",
