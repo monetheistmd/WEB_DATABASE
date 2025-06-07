@@ -3665,6 +3665,15 @@
       "statusSave": "on",
       "online": "off",
       "updatedAt": "2025-06-07T21:59:45.131Z"
+    },
+    "237691558069": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "off",
+      "emoji": "😊",
+      "statusSave": "on",
+      "online": "off",
+      "updatedAt": "2025-06-07T22:01:41.886Z"
     }
   }
 }
