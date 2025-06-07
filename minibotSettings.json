@@ -3515,12 +3515,12 @@
     },
     "94767251453": {
       "callReject": "off",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "off",
-      "emoji": "🥰",
+      "emoji": "👑",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-07T17:08:42.534Z"
+      "updatedAt": "2025-06-07T17:37:11.345Z"
     },
     "2349165237782": {
       "callReject": "off",
