@@ -3277,12 +3277,12 @@
     },
     "201550605972": {
       "callReject": "off",
-      "statusReply": "on",
-      "action": "typing",
+      "statusReply": "off",
+      "action": "off",
       "emoji": "🌟",
-      "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-07T10:52:21.218Z"
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-07T11:09:27.353Z"
     },
     "923170865223": {
       "callReject": "off",
