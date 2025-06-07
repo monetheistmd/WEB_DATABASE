@@ -3310,6 +3310,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-07T11:01:02.202Z"
+    },
+    "94702572157": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "👀",
+      "statusSave": "on",
+      "online": "off",
+      "updatedAt": "2025-06-07T11:09:21.921Z"
     }
   }
 }
