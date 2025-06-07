@@ -3430,12 +3430,12 @@
     },
     "94761779228": {
       "callReject": "off",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "off",
-      "emoji": "💘",
+      "emoji": "😍",
       "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-07T14:00:27.410Z"
+      "updatedAt": "2025-06-07T14:05:23.284Z"
     },
     "25377171720": {
       "callReject": "on",
