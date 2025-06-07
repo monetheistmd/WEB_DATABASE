@@ -3002,12 +3002,12 @@
     },
     "201222203479": {
       "callReject": "on",
-      "statusReply": "off",
-      "action": "typing",
+      "statusReply": "on",
+      "action": "recording",
       "emoji": "⚡",
       "statusSave": "off",
-      "online": "off",
-      "updatedAt": "2025-06-07T10:23:35.636Z"
+      "online": "on",
+      "updatedAt": "2025-06-07T21:22:43.912Z"
     },
     "201551324246": {
       "callReject": "off",
