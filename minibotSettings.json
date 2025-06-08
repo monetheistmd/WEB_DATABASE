@@ -4334,11 +4334,11 @@
     "212661809542": {
       "callReject": "off",
       "statusReply": "on",
-      "action": "recording",
+      "action": "off",
       "emoji": "😍",
       "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-08T21:45:05.499Z"
+      "updatedAt": "2025-06-08T21:45:23.644Z"
     }
   }
 }
