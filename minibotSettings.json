@@ -3649,10 +3649,10 @@
       "callReject": "off",
       "statusReply": "off",
       "action": "off",
-      "emoji": "🦋",
-      "statusSave": "off",
+      "emoji": "🤡",
+      "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-08T15:46:52.106Z"
+      "updatedAt": "2025-06-08T15:47:42.228Z"
     },
     "94724477987": {
       "callReject": "on",
