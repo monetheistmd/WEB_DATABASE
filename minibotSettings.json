@@ -3770,9 +3770,9 @@
       "statusReply": "on",
       "action": "recording",
       "emoji": "😂",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-08T06:32:33.988Z"
+      "updatedAt": "2025-06-08T06:51:11.962Z"
     },
     "237673523395": {
       "callReject": "off",
