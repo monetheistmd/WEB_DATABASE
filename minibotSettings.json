@@ -3810,11 +3810,11 @@
     "94701686182": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "off",
-      "emoji": "👀",
+      "action": "typing",
+      "emoji": "😭",
       "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-08T12:30:11.387Z"
+      "updatedAt": "2025-06-08T15:52:11.698Z"
     },
     "249961150084": {
       "callReject": "off",
