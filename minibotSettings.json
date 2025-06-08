@@ -3794,12 +3794,12 @@
     },
     "201005799347": {
       "callReject": "on",
-      "statusReply": "off",
-      "action": "off",
-      "emoji": "🦁",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "🚀",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-08T02:59:21.670Z"
+      "updatedAt": "2025-06-08T03:25:43.976Z"
     },
     "94721864034": {
       "callReject": "on",
