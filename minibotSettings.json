@@ -3577,10 +3577,10 @@
       "callReject": "off",
       "statusReply": "on",
       "action": "typing",
-      "emoji": "💯",
+      "emoji": "⚡",
       "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-08T09:26:13.438Z"
+      "online": "off",
+      "updatedAt": "2025-06-08T17:15:45.573Z"
     },
     "963992269484": {
       "callReject": "on",
