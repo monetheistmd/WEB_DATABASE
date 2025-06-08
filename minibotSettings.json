@@ -3804,11 +3804,11 @@
     "2347082900696": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "typing",
+      "action": "off",
       "emoji": "💚",
       "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-08T06:42:10.018Z"
+      "updatedAt": "2025-06-08T06:42:30.262Z"
     }
   }
 }
