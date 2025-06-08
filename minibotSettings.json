@@ -3918,9 +3918,9 @@
       "statusReply": "on",
       "action": "off",
       "emoji": "🐥",
-      "statusSave": "off",
+      "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-08T12:02:49.016Z"
+      "updatedAt": "2025-06-08T12:03:31.842Z"
     },
     "201010250471": {
       "callReject": "off",
