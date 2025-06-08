@@ -4013,6 +4013,15 @@
       "statusSave": "on",
       "online": "off",
       "updatedAt": "2025-06-08T13:57:34.791Z"
+    },
+    "94764609340": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "👀",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-08T14:00:33.573Z"
     }
   }
 }
