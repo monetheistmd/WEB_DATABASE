@@ -3777,11 +3777,11 @@
     "967777987728": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "off",
+      "action": "typing",
       "emoji": "💚",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-08T00:44:32.144Z"
+      "updatedAt": "2025-06-08T00:46:19.219Z"
     }
   }
 }
