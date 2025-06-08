@@ -1625,12 +1625,12 @@
     },
     "94767246350": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "recording",
-      "emoji": "🔥",
+      "emoji": "💀",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-06T10:37:15.677Z"
+      "updatedAt": "2025-06-08T01:18:38.098Z"
     },
     "94766194340": {
       "callReject": "off",
