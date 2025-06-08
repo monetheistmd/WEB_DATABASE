@@ -4214,12 +4214,12 @@
     },
     "94765569387": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
-      "emoji": "🌟",
+      "emoji": "🤡",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-08T20:46:07.093Z"
+      "updatedAt": "2025-06-08T21:08:26.052Z"
     },
     "201122165374": {
       "callReject": "on",
