@@ -4178,12 +4178,12 @@
     },
     "967780597625": {
       "callReject": "off",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "off",
       "emoji": "🧡",
-      "statusSave": "off",
+      "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-08T19:21:04.734Z"
+      "updatedAt": "2025-06-08T19:23:10.220Z"
     }
   }
 }
