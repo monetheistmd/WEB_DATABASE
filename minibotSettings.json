@@ -3800,15 +3800,6 @@
       "statusSave": "on",
       "online": "off",
       "updatedAt": "2025-06-08T02:35:24.573Z"
-    },
-    "94725477828": {
-      "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "🤩",
-      "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-08T02:53:34.533Z"
     }
   }
 }
