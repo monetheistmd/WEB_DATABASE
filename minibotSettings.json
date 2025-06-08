@@ -3169,13 +3169,13 @@
       "updatedAt": "2025-06-07T21:59:45.131Z"
     },
     "237691558069": {
-      "callReject": "on",
-      "statusReply": "on",
+      "callReject": "off",
+      "statusReply": "off",
       "action": "off",
       "emoji": "😊",
       "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-08T13:34:14.142Z"
+      "updatedAt": "2025-06-08T13:34:29.259Z"
     },
     "249991570235": {
       "callReject": "off",
