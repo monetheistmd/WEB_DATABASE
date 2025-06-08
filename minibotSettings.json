@@ -3998,12 +3998,12 @@
     },
     "94768644562": {
       "callReject": "off",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "👻",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-08T15:08:39.934Z"
+      "updatedAt": "2025-06-08T15:51:05.201Z"
     },
     "201117346250": {
       "callReject": "on",
