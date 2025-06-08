@@ -4016,10 +4016,10 @@
       "callReject": "off",
       "statusReply": "off",
       "action": "typing",
-      "emoji": "✨",
-      "statusSave": "off",
+      "emoji": "💀",
+      "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-08T12:51:41.153Z"
+      "updatedAt": "2025-06-08T12:53:10.053Z"
     },
     "94766687628": {
       "callReject": "on",
