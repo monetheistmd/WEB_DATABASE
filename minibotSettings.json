@@ -2850,11 +2850,11 @@
     "201044880267": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "recording",
-      "emoji": "🧿",
+      "action": "off",
+      "emoji": "👑",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-08T05:14:16.817Z"
+      "updatedAt": "2025-06-08T05:18:52.914Z"
     },
     "201550145845": {
       "callReject": "on",
