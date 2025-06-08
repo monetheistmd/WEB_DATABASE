@@ -3585,11 +3585,11 @@
     "201277134285": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "off",
-      "emoji": "🤡",
-      "statusSave": "off",
+      "action": "recording",
+      "emoji": "🐬",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-08T08:46:00.410Z"
+      "updatedAt": "2025-06-08T14:20:47.518Z"
     },
     "201096797728": {
       "callReject": "off",
