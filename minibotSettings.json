@@ -4072,12 +4072,12 @@
     },
     "2347042242107": {
       "callReject": "off",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "😊",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-08T20:09:21.438Z"
+      "updatedAt": "2025-06-08T22:20:28.943Z"
     },
     "201115118988": {
       "callReject": "on",
