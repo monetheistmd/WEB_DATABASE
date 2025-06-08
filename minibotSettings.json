@@ -3693,11 +3693,11 @@
     "2349014986224": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "off",
+      "action": "recording",
       "emoji": "😈",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-08T16:35:50.289Z"
+      "updatedAt": "2025-06-08T16:36:26.240Z"
     },
     "254112363173": {
       "callReject": "off",
