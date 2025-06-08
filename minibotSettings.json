@@ -3766,13 +3766,13 @@
       "updatedAt": "2025-06-08T04:56:28.315Z"
     },
     "94754069095": {
-      "callReject": "on",
-      "statusReply": "on",
+      "callReject": "off",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "💘",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-08T05:03:16.407Z"
+      "updatedAt": "2025-06-08T05:20:09.925Z"
     },
     "94753808653": {
       "callReject": "on",
