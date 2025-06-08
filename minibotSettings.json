@@ -3029,12 +3029,12 @@
     },
     "94777135007": {
       "callReject": "off",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "recording",
       "emoji": "🌹",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-07T14:23:32.227Z"
+      "updatedAt": "2025-06-08T05:24:58.343Z"
     },
     "2349165808545": {
       "callReject": "off",
