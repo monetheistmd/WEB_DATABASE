@@ -3935,12 +3935,12 @@
     },
     "201203808329": {
       "callReject": "off",
-      "statusReply": "off",
-      "action": "typing",
-      "emoji": "💀",
-      "statusSave": "on",
+      "statusReply": "on",
+      "action": "off",
+      "emoji": "👽",
+      "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-08T12:53:10.053Z"
+      "updatedAt": "2025-06-08T14:10:47.349Z"
     },
     "94766687628": {
       "callReject": "on",
