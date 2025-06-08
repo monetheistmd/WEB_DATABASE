@@ -3926,12 +3926,12 @@
     },
     "94774865504": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
+      "statusReply": "off",
+      "action": "recording",
       "emoji": "👻",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-08T15:01:01.706Z"
+      "updatedAt": "2025-06-08T17:21:25.337Z"
     },
     "94768644562": {
       "callReject": "off",
