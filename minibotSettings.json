@@ -3858,6 +3858,15 @@
       "statusSave": "on",
       "online": "off",
       "updatedAt": "2025-06-08T09:56:30.486Z"
+    },
+    "94724477987": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "💙",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-08T10:02:16.516Z"
     }
   }
 }
