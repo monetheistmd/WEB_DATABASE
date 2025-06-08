@@ -3749,12 +3749,12 @@
     },
     "201140898049": {
       "callReject": "off",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "off",
       "emoji": "👻",
       "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-07T23:52:19.838Z"
+      "updatedAt": "2025-06-08T00:05:05.429Z"
     }
   }
 }
