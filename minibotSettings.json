@@ -4109,11 +4109,11 @@
     "201115118988": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "typing",
+      "action": "off",
       "emoji": "👀",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-08T19:47:23.324Z"
+      "updatedAt": "2025-06-08T21:32:19.885Z"
     },
     "94767596090": {
       "callReject": "on",
