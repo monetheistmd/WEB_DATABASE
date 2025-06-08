@@ -3799,9 +3799,9 @@
       "statusReply": "on",
       "action": "typing",
       "emoji": "😈",
-      "statusSave": "off",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-08T08:43:33.383Z"
+      "updatedAt": "2025-06-08T08:46:51.358Z"
     },
     "201277134285": {
       "callReject": "on",
