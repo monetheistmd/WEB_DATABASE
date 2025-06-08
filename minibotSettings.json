@@ -3894,6 +3894,15 @@
       "statusSave": "off",
       "online": "off",
       "updatedAt": "2025-06-08T10:48:43.921Z"
+    },
+    "94782551686": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "🌹",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-08T10:51:36.673Z"
     }
   }
 }
