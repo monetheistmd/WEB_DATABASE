@@ -3305,10 +3305,10 @@
       "callReject": "off",
       "statusReply": "off",
       "action": "off",
-      "emoji": "⚡",
+      "emoji": "🐍",
       "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-08T00:09:41.724Z"
+      "online": "off",
+      "updatedAt": "2025-06-08T11:47:23.043Z"
     },
     "2349017375995": {
       "callReject": "on",
