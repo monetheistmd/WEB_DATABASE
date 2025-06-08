@@ -1621,11 +1621,11 @@
     "201016821053": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "recording",
-      "emoji": "🦋",
-      "statusSave": "on",
+      "action": "typing",
+      "emoji": "🌟",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-05T13:03:45.246Z"
+      "updatedAt": "2025-06-08T13:29:04.551Z"
     },
     "94762589035": {
       "callReject": "on",
