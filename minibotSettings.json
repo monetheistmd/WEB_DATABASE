@@ -3918,11 +3918,11 @@
     "967711132045": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "typing",
+      "action": "off",
       "emoji": "🧠",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-08T14:11:21.818Z"
+      "updatedAt": "2025-06-08T14:11:50.060Z"
     },
     "201203808329": {
       "callReject": "off",
