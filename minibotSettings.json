@@ -2858,12 +2858,12 @@
     },
     "94754150042": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "recording",
-      "emoji": "😡",
+      "emoji": "🤫",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-07T16:01:47.176Z"
+      "updatedAt": "2025-06-08T06:27:48.937Z"
     },
     "94766015589": {
       "callReject": "on",
