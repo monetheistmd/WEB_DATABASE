@@ -4116,11 +4116,11 @@
     "967779422963": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "typing",
-      "emoji": "🥰",
+      "action": "off",
+      "emoji": "💯",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-08T19:05:54.906Z"
+      "updatedAt": "2025-06-08T19:41:42.832Z"
     },
     "2347077545497": {
       "callReject": "on",
