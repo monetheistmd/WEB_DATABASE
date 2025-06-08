@@ -2950,10 +2950,10 @@
       "callReject": "on",
       "statusReply": "on",
       "action": "typing",
-      "emoji": "🫣",
-      "statusSave": "on",
+      "emoji": "🥲",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-07T13:28:15.718Z"
+      "updatedAt": "2025-06-08T06:44:54.935Z"
     },
     "201508535191": {
       "callReject": "on",
