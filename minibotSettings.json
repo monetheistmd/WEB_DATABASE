@@ -3867,6 +3867,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-08T10:02:16.516Z"
+    },
+    "46726413128": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "🥱",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-08T10:05:22.873Z"
     }
   }
 }
