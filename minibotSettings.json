@@ -2647,11 +2647,11 @@
     "201222203479": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "typing",
+      "action": "off",
       "emoji": "⚡",
       "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-08T07:41:36.023Z"
+      "updatedAt": "2025-06-08T12:07:37.906Z"
     },
     "201551324246": {
       "callReject": "off",
