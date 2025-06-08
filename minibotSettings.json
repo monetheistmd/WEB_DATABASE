@@ -3739,13 +3739,13 @@
       "updatedAt": "2025-06-08T01:29:32.829Z"
     },
     "201210798733": {
-      "callReject": "off",
-      "statusReply": "off",
+      "callReject": "on",
+      "statusReply": "on",
       "action": "off",
-      "emoji": "😍",
+      "emoji": "✨",
       "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-08T01:32:48.732Z"
+      "updatedAt": "2025-06-08T02:35:49.563Z"
     },
     "201140898049": {
       "callReject": "off",
