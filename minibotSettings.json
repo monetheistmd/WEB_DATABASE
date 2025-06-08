@@ -4325,11 +4325,11 @@
     "201011374010": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "typing",
+      "action": "off",
       "emoji": "💯",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-08T22:55:52.258Z"
+      "updatedAt": "2025-06-08T22:56:48.722Z"
     },
     "213553795494": {
       "callReject": "on",
