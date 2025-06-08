@@ -4049,6 +4049,15 @@
       "statusSave": "on",
       "online": "off",
       "updatedAt": "2025-06-08T15:10:12.788Z"
+    },
+    "94778159567": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "💥",
+      "statusSave": "on",
+      "online": "off",
+      "updatedAt": "2025-06-08T15:14:18.203Z"
     }
   }
 }
