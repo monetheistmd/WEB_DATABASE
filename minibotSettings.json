@@ -3803,12 +3803,12 @@
     },
     "967717038087": {
       "callReject": "on",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "typing",
-      "emoji": "💯",
-      "statusSave": "off",
+      "emoji": "🤩",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-08T02:55:14.895Z"
+      "updatedAt": "2025-06-08T02:59:14.286Z"
     }
   }
 }
