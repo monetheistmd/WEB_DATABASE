@@ -3927,9 +3927,9 @@
       "statusReply": "on",
       "action": "typing",
       "emoji": "👀",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-08T11:36:59.925Z"
+      "updatedAt": "2025-06-08T11:41:58.599Z"
     },
     "201283238952": {
       "callReject": "on",
