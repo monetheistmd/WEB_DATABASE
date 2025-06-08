@@ -3559,13 +3559,13 @@
       "updatedAt": "2025-06-07T22:45:30.344Z"
     },
     "201104965628": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "off",
-      "action": "recording",
+      "action": "off",
       "emoji": "💗",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-07T22:07:39.613Z"
+      "updatedAt": "2025-06-08T00:31:50.351Z"
     },
     "252672171864": {
       "callReject": "on",
