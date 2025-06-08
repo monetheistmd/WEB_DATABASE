@@ -2926,11 +2926,11 @@
     "94762842232": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "recording",
+      "action": "off",
       "emoji": "🦄",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-08T10:36:01.959Z"
+      "online": "off",
+      "updatedAt": "2025-06-08T10:40:51.196Z"
     },
     "94704065774": {
       "callReject": "on",
