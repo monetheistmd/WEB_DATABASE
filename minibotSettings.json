@@ -4106,12 +4106,12 @@
     },
     "201203490450": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
-      "emoji": "🐍",
+      "emoji": "💙",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-08T16:35:19.726Z"
+      "updatedAt": "2025-06-08T16:39:48.716Z"
     }
   }
 }
