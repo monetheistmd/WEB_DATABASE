@@ -4022,6 +4022,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-08T14:27:01.682Z"
+    },
+    "967771998234": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "⚡",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-08T14:27:03.767Z"
     }
   }
 }
