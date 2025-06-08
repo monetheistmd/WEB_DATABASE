@@ -4352,11 +4352,11 @@
     "94715213669": {
       "callReject": "off",
       "statusReply": "on",
-      "action": "off",
-      "emoji": "👀",
+      "action": "typing",
+      "emoji": "👽",
       "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-08T22:41:42.783Z"
+      "updatedAt": "2025-06-08T23:43:12.112Z"
     },
     "201126515750": {
       "callReject": "on",
