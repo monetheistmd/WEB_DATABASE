@@ -4034,10 +4034,10 @@
       "callReject": "off",
       "statusReply": "off",
       "action": "off",
-      "emoji": "🍀",
+      "emoji": "🖤",
       "statusSave": "off",
-      "online": "off",
-      "updatedAt": "2025-06-08T12:54:33.355Z"
+      "online": "on",
+      "updatedAt": "2025-06-08T12:57:13.143Z"
     }
   }
 }
