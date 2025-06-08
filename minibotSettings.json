@@ -3731,12 +3731,12 @@
     },
     "201019795853": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "recording",
       "emoji": "✨",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-08T07:28:41.765Z"
+      "updatedAt": "2025-06-08T07:34:49.445Z"
     },
     "923238775223": {
       "callReject": "off",
