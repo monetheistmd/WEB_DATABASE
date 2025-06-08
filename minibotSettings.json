@@ -2828,10 +2828,10 @@
       "callReject": "off",
       "statusReply": "off",
       "action": "off",
-      "emoji": "💯",
+      "emoji": "😎",
       "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-07T13:47:24.685Z"
+      "online": "off",
+      "updatedAt": "2025-06-08T10:01:44.786Z"
     },
     "201508535191": {
       "callReject": "on",
