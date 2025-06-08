@@ -4025,12 +4025,12 @@
     },
     "212697945324": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "recording",
       "emoji": "🤡",
       "statusSave": "on",
-      "online": "off",
-      "updatedAt": "2025-06-08T17:00:29.560Z"
+      "online": "on",
+      "updatedAt": "2025-06-08T18:39:25.857Z"
     },
     "250782849939": {
       "callReject": "off",
