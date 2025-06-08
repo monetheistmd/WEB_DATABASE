@@ -3785,12 +3785,12 @@
     },
     "94782969783": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "recording",
       "emoji": "🤡",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-08T05:20:23.497Z"
+      "updatedAt": "2025-06-08T05:20:42.474Z"
     }
   }
 }
