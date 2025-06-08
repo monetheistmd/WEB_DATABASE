@@ -3981,11 +3981,11 @@
     "263774812667": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "typing",
-      "emoji": "😎",
+      "action": "off",
+      "emoji": "🥲",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-08T13:53:42.962Z"
+      "updatedAt": "2025-06-08T14:15:44.628Z"
     },
     "94779453971": {
       "callReject": "on",
