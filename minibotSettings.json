@@ -3777,13 +3777,13 @@
       "updatedAt": "2025-06-08T08:38:14.896Z"
     },
     "201556731642": {
-      "callReject": "on",
-      "statusReply": "on",
+      "callReject": "off",
+      "statusReply": "off",
       "action": "off",
       "emoji": "🐼",
       "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-08T08:45:10.777Z"
+      "updatedAt": "2025-06-08T08:48:28.324Z"
     },
     "94772557151": {
       "callReject": "off",
