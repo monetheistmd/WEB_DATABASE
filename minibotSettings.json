@@ -4114,13 +4114,13 @@
       "updatedAt": "2025-06-08T18:51:32.072Z"
     },
     "967779422963": {
-      "callReject": "on",
-      "statusReply": "on",
+      "callReject": "off",
+      "statusReply": "off",
       "action": "off",
-      "emoji": "💯",
+      "emoji": "😎",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-08T19:41:42.832Z"
+      "online": "off",
+      "updatedAt": "2025-06-08T19:47:48.130Z"
     },
     "2347077545497": {
       "callReject": "on",
