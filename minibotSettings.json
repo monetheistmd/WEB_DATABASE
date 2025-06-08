@@ -3546,12 +3546,12 @@
     },
     "94707332337": {
       "callReject": "off",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "off",
-      "emoji": "😈",
-      "statusSave": "on",
+      "emoji": "💀",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-08T06:16:28.398Z"
+      "updatedAt": "2025-06-08T11:12:00.853Z"
     },
     "201069125856": {
       "callReject": "off",
