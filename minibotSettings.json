@@ -3305,12 +3305,12 @@
     },
     "201125941513": {
       "callReject": "off",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "👑",
       "statusSave": "on",
-      "online": "off",
-      "updatedAt": "2025-06-08T14:42:10.368Z"
+      "online": "on",
+      "updatedAt": "2025-06-08T14:43:02.712Z"
     },
     "94740836417": {
       "callReject": "off",
