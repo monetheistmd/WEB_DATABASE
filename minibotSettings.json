@@ -3301,12 +3301,12 @@
     },
     "212773106839": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
+      "statusReply": "off",
+      "action": "off",
       "emoji": "😍",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-08T08:36:26.171Z"
+      "updatedAt": "2025-06-08T09:32:00.467Z"
     },
     "201005806387": {
       "callReject": "off",
