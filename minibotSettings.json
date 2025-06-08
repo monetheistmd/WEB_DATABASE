@@ -3482,13 +3482,13 @@
       "updatedAt": "2025-06-08T03:58:51.531Z"
     },
     "94710695082": {
-      "callReject": "off",
-      "statusReply": "on",
+      "callReject": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "🖤",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-08T04:52:50.691Z"
+      "updatedAt": "2025-06-08T11:46:11.739Z"
     },
     "94753808653": {
       "callReject": "on",
