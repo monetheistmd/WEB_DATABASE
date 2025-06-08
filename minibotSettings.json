@@ -3820,6 +3820,15 @@
       "statusSave": "off",
       "online": "off",
       "updatedAt": "2025-06-08T08:46:20.734Z"
+    },
+    "967733957236": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "🌹",
+      "statusSave": "on",
+      "online": "off",
+      "updatedAt": "2025-06-08T08:54:56.352Z"
     }
   }
 }
