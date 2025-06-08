@@ -3248,11 +3248,11 @@
     "201555154341": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "off",
-      "emoji": "🍀",
+      "action": "typing",
+      "emoji": "🩸",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-07T22:45:30.344Z"
+      "updatedAt": "2025-06-08T08:16:27.952Z"
     },
     "201104965628": {
       "callReject": "off",
