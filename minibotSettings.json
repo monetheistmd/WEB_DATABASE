@@ -4369,12 +4369,12 @@
     },
     "2348141935330": {
       "callReject": "off",
-      "statusReply": "on",
-      "action": "recording",
-      "emoji": "😎",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "👽",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-08T22:46:53.904Z"
+      "updatedAt": "2025-06-08T23:15:39.164Z"
     },
     "213783780665": {
       "callReject": "off",
