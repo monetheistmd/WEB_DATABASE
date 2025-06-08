@@ -3849,6 +3849,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-08T09:26:13.438Z"
+    },
+    "963992269484": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "🎃",
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-08T09:52:03.061Z"
     }
   }
 }
