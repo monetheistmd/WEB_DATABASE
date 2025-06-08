@@ -3795,11 +3795,11 @@
     "25377026224": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "off",
+      "action": "typing",
       "emoji": "🤡",
       "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-08T06:37:22.321Z"
+      "updatedAt": "2025-06-08T06:37:44.245Z"
     }
   }
 }
