@@ -3829,6 +3829,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-08T08:55:02.731Z"
+    },
+    "94789617466": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "😌",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-08T09:04:53.166Z"
     }
   }
 }
