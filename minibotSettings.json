@@ -4206,13 +4206,13 @@
       "updatedAt": "2025-06-08T21:05:26.355Z"
     },
     "201007510835": {
-      "callReject": "on",
-      "statusReply": "on",
+      "callReject": "off",
+      "statusReply": "off",
       "action": "recording",
       "emoji": "🐍",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-08T20:58:17.485Z"
+      "updatedAt": "2025-06-08T21:51:15.984Z"
     },
     "201284171182": {
       "callReject": "on",
