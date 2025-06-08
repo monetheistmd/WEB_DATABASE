@@ -3793,13 +3793,13 @@
       "updatedAt": "2025-06-08T06:37:44.245Z"
     },
     "254111869679": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "on",
-      "action": "typing",
+      "action": "recording",
       "emoji": "😊",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-08T06:40:26.068Z"
+      "online": "off",
+      "updatedAt": "2025-06-08T06:43:20.218Z"
     },
     "2347082900696": {
       "callReject": "on",
