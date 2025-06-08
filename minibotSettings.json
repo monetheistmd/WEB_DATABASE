@@ -3052,13 +3052,13 @@
       "updatedAt": "2025-06-07T20:51:48.731Z"
     },
     "967777399394": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "off",
-      "action": "recording",
-      "emoji": "🐥",
+      "action": "typing",
+      "emoji": "🐢",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-07T21:12:13.747Z"
+      "updatedAt": "2025-06-08T16:10:30.482Z"
     },
     "201555154341": {
       "callReject": "off",
