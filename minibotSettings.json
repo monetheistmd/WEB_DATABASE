@@ -3930,6 +3930,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-08T11:36:59.925Z"
+    },
+    "201283238952": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "typing",
+      "emoji": "👀",
+      "statusSave": "off",
+      "online": "on",
+      "updatedAt": "2025-06-08T11:38:26.958Z"
     }
   }
 }
