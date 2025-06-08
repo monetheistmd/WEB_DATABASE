@@ -3788,11 +3788,11 @@
     "201005799347": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "off",
-      "emoji": "🌈",
-      "statusSave": "on",
+      "action": "typing",
+      "emoji": "💥",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-08T08:32:56.068Z"
+      "updatedAt": "2025-06-08T08:38:14.896Z"
     }
   }
 }
