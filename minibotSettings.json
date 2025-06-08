@@ -2861,13 +2861,13 @@
       "updatedAt": "2025-06-08T00:53:22.256Z"
     },
     "94762842232": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "off",
-      "action": "typing",
-      "emoji": "🦄",
+      "action": "off",
+      "emoji": "🍀",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-08T10:51:14.303Z"
+      "online": "off",
+      "updatedAt": "2025-06-08T13:16:59.606Z"
     },
     "94704065774": {
       "callReject": "on",
