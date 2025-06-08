@@ -4324,12 +4324,12 @@
     },
     "201011374010": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "recording",
+      "statusReply": "off",
+      "action": "typing",
       "emoji": "💯",
       "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-08T22:49:17.364Z"
+      "online": "off",
+      "updatedAt": "2025-06-08T22:55:39.871Z"
     },
     "213553795494": {
       "callReject": "on",
