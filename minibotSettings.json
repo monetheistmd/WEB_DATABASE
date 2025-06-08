@@ -3806,9 +3806,9 @@
       "statusReply": "on",
       "action": "typing",
       "emoji": "🫶",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-08T03:03:28.581Z"
+      "updatedAt": "2025-06-08T03:09:57.855Z"
     },
     "201005799347": {
       "callReject": "on",
