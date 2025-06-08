@@ -2680,12 +2680,12 @@
     },
     "252618978811": {
       "callReject": "on",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "recording",
-      "emoji": "🔥",
+      "emoji": "💔",
       "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-07T07:34:35.117Z"
+      "updatedAt": "2025-06-08T08:45:34.486Z"
     },
     "201501929731": {
       "callReject": "off",
