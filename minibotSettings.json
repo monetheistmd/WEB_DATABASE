@@ -2649,11 +2649,11 @@
     "94766015589": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "recording",
-      "emoji": "😋",
+      "action": "off",
+      "emoji": "💔",
       "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-07T14:27:06.959Z"
+      "updatedAt": "2025-06-08T15:43:37.154Z"
     },
     "94702572157": {
       "callReject": "off",
