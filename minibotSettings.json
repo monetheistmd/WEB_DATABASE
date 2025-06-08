@@ -3800,6 +3800,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-08T06:40:26.068Z"
+    },
+    "2347082900696": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "💚",
+      "statusSave": "on",
+      "online": "off",
+      "updatedAt": "2025-06-08T06:42:10.018Z"
     }
   }
 }
