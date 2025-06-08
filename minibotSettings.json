@@ -4020,6 +4020,15 @@
       "statusSave": "off",
       "online": "off",
       "updatedAt": "2025-06-08T12:51:41.153Z"
+    },
+    "94766687628": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "recording",
+      "emoji": "👀",
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-08T12:51:47.569Z"
     }
   }
 }
