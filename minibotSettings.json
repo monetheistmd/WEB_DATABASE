@@ -3827,6 +3827,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-08T03:03:22.476Z"
+    },
+    "967711110250": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "😎",
+      "statusSave": "off",
+      "online": "off",
+      "updatedAt": "2025-06-08T03:05:23.644Z"
     }
   }
 }
