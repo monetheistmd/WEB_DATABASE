@@ -4070,12 +4070,12 @@
     },
     "967733946125": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "off",
+      "statusReply": "off",
+      "action": "typing",
       "emoji": "😊",
       "statusSave": "off",
-      "online": "off",
-      "updatedAt": "2025-06-08T15:48:40.174Z"
+      "online": "on",
+      "updatedAt": "2025-06-08T15:48:58.180Z"
     },
     "249119541351": {
       "callReject": "on",
