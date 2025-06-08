@@ -4142,12 +4142,12 @@
     },
     "2348111353520": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
+      "statusReply": "off",
+      "action": "off",
       "emoji": "😈",
-      "statusSave": "on",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-08T17:25:36.377Z"
+      "updatedAt": "2025-06-08T17:27:32.827Z"
     },
     "201005799347": {
       "callReject": "on",
