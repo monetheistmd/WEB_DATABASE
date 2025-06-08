@@ -3694,10 +3694,10 @@
       "callReject": "on",
       "statusReply": "on",
       "action": "recording",
-      "emoji": "😈",
-      "statusSave": "on",
+      "emoji": "🤫",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-08T16:36:26.240Z"
+      "updatedAt": "2025-06-08T16:45:13.653Z"
     },
     "254112363173": {
       "callReject": "off",
