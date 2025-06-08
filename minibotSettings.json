@@ -3724,12 +3724,12 @@
     },
     "967733957236": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "off",
-      "emoji": "⚡",
+      "emoji": "💚",
       "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-08T08:11:51.376Z"
+      "online": "off",
+      "updatedAt": "2025-06-08T08:42:46.322Z"
     },
     "967784680562": {
       "callReject": "on",
