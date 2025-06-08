@@ -3549,11 +3549,11 @@
     "201277134285": {
       "callReject": "on",
       "statusReply": "off",
-      "action": "recording",
+      "action": "typing",
       "emoji": "🐬",
       "statusSave": "on",
-      "online": "off",
-      "updatedAt": "2025-06-08T14:56:39.538Z"
+      "online": "on",
+      "updatedAt": "2025-06-08T15:54:44.442Z"
     },
     "201096797728": {
       "callReject": "off",
