@@ -3755,6 +3755,15 @@
       "statusSave": "on",
       "online": "off",
       "updatedAt": "2025-06-08T00:05:05.429Z"
+    },
+    "201200910446": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "⚡",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-08T00:09:41.724Z"
     }
   }
 }
