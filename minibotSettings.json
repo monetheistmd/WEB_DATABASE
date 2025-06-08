@@ -4303,6 +4303,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-08T22:01:45.441Z"
+    },
+    "201005799347": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "off",
+      "emoji": "💓",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-08T22:18:59.385Z"
     }
   }
 }
