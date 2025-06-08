@@ -3541,10 +3541,10 @@
       "callReject": "on",
       "statusReply": "off",
       "action": "typing",
-      "emoji": "🐬",
+      "emoji": "🐥",
       "statusSave": "on",
-      "online": "on",
-      "updatedAt": "2025-06-08T15:54:44.442Z"
+      "online": "off",
+      "updatedAt": "2025-06-08T16:00:43.171Z"
     },
     "201096797728": {
       "callReject": "off",
