@@ -2916,12 +2916,12 @@
     },
     "94762842232": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "🦄",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-08T10:50:58.680Z"
+      "updatedAt": "2025-06-08T10:51:14.303Z"
     },
     "94704065774": {
       "callReject": "on",
