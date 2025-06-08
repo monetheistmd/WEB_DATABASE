@@ -3567,11 +3567,11 @@
     "967775563313": {
       "callReject": "off",
       "statusReply": "off",
-      "action": "typing",
+      "action": "off",
       "emoji": "🫶",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-08T10:36:34.036Z"
+      "updatedAt": "2025-06-08T21:08:59.715Z"
     },
     "2349014986224": {
       "callReject": "on",
