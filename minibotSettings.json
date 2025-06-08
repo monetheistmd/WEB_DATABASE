@@ -3926,12 +3926,12 @@
     },
     "967711132045": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "🧠",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-08T12:47:33.437Z"
+      "updatedAt": "2025-06-08T14:03:40.396Z"
     },
     "201203808329": {
       "callReject": "off",
