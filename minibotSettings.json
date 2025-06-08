@@ -4088,12 +4088,12 @@
     },
     "94783356941": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "recording",
       "emoji": "👀",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-08T16:31:56.560Z"
+      "online": "off",
+      "updatedAt": "2025-06-08T16:38:25.222Z"
     },
     "249929209830": {
       "callReject": "on",
