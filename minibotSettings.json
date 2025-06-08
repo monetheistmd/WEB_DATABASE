@@ -3776,12 +3776,12 @@
     },
     "94707332337": {
       "callReject": "on",
-      "statusReply": "on",
-      "action": "typing",
-      "emoji": "💖",
-      "statusSave": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "😈",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-08T06:03:34.527Z"
+      "updatedAt": "2025-06-08T06:14:02.152Z"
     },
     "201069125856": {
       "callReject": "off",
