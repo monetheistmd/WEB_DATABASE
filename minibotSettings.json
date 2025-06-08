@@ -4262,11 +4262,11 @@
     "971529599546": {
       "callReject": "off",
       "statusReply": "on",
-      "action": "off",
-      "emoji": "🐳",
+      "action": "typing",
+      "emoji": "🔥",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-08T21:34:32.961Z"
+      "updatedAt": "2025-06-08T21:36:13.673Z"
     },
     "93702844147": {
       "callReject": "off",
