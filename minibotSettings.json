@@ -4414,12 +4414,12 @@
     },
     "967712736544": {
       "callReject": "on",
-      "statusReply": "off",
-      "action": "off",
+      "statusReply": "on",
+      "action": "typing",
       "emoji": "🐦",
       "statusSave": "on",
-      "online": "off",
-      "updatedAt": "2025-06-08T23:19:49.475Z"
+      "online": "on",
+      "updatedAt": "2025-06-08T23:21:14.317Z"
     }
   }
 }
