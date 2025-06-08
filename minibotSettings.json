@@ -4024,13 +4024,13 @@
       "updatedAt": "2025-06-08T15:42:37.599Z"
     },
     "201025457548": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "off",
       "action": "off",
       "emoji": "🧿",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-08T16:02:58.174Z"
+      "online": "off",
+      "updatedAt": "2025-06-08T16:08:39.740Z"
     },
     "201220615102": {
       "callReject": "off",
