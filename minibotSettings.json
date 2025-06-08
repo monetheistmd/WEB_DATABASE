@@ -3337,12 +3337,12 @@
     },
     "212773106839": {
       "callReject": "on",
-      "statusReply": "off",
-      "action": "typing",
+      "statusReply": "on",
+      "action": "off",
       "emoji": "😍",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-07T22:33:53.171Z"
+      "updatedAt": "2025-06-08T08:12:22.720Z"
     },
     "201005806387": {
       "callReject": "off",
