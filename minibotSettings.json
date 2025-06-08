@@ -3742,12 +3742,12 @@
     },
     "967784680562": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "off",
       "emoji": "🌹",
       "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-08T08:00:09.561Z"
+      "updatedAt": "2025-06-08T08:32:19.738Z"
     },
     "94778601209": {
       "callReject": "on",
