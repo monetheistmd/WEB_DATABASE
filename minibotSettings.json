@@ -2753,11 +2753,11 @@
     "201044880267": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "off",
+      "action": "typing",
       "emoji": "👑",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-08T07:12:03.889Z"
+      "updatedAt": "2025-06-08T08:51:22.559Z"
     },
     "201550145845": {
       "callReject": "on",
