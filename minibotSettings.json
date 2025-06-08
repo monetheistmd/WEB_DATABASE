@@ -3914,13 +3914,13 @@
       "updatedAt": "2025-06-08T11:58:50.250Z"
     },
     "967784542617": {
-      "callReject": "off",
+      "callReject": "on",
       "statusReply": "on",
-      "action": "off",
+      "action": "typing",
       "emoji": "🐥",
       "statusSave": "on",
-      "online": "off",
-      "updatedAt": "2025-06-08T12:03:31.842Z"
+      "online": "on",
+      "updatedAt": "2025-06-08T12:04:30.857Z"
     },
     "201010250471": {
       "callReject": "off",
