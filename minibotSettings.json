@@ -2714,11 +2714,11 @@
     "94763794249": {
       "callReject": "off",
       "statusReply": "on",
-      "action": "typing",
-      "emoji": "💗",
+      "action": "off",
+      "emoji": "🐼",
       "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-08T06:04:51.251Z"
+      "updatedAt": "2025-06-09T02:01:26.730Z"
     },
     "94783874358": {
       "callReject": "on",
