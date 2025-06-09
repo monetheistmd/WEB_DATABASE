@@ -4414,12 +4414,12 @@
     },
     "252771774611": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "recording",
-      "emoji": "🥰",
+      "emoji": "🔥",
       "statusSave": "off",
       "online": "off",
-      "updatedAt": "2025-06-09T05:42:15.813Z"
+      "updatedAt": "2025-06-09T06:24:04.200Z"
     },
     "94704934248": {
       "callReject": "off",
