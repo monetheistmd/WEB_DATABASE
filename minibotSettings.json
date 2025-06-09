@@ -4407,10 +4407,10 @@
       "callReject": "on",
       "statusReply": "on",
       "action": "typing",
-      "emoji": "👽",
-      "statusSave": "on",
+      "emoji": "💀",
+      "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-09T01:51:32.365Z"
+      "updatedAt": "2025-06-09T02:06:35.685Z"
     },
     "94766687628": {
       "callReject": "on",
