@@ -3517,9 +3517,9 @@
       "statusReply": "off",
       "action": "off",
       "emoji": "🌹",
-      "statusSave": "off",
+      "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-08T10:58:09.409Z"
+      "updatedAt": "2025-06-09T01:46:35.235Z"
     },
     "249128961251": {
       "callReject": "off",
