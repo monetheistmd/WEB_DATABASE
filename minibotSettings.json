@@ -3326,11 +3326,11 @@
     "94712313305": {
       "callReject": "off",
       "statusReply": "on",
-      "action": "typing",
+      "action": "off",
       "emoji": "😈",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-08T08:51:14.207Z"
+      "updatedAt": "2025-06-09T02:20:37.806Z"
     },
     "201277134285": {
       "callReject": "on",
