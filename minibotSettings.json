@@ -1992,13 +1992,13 @@
       "updatedAt": "2025-06-06T16:07:56.275Z"
     },
     "94703452069": {
-      "callReject": "on",
+      "callReject": "off",
       "statusReply": "off",
-      "action": "recording",
+      "action": "typing",
       "emoji": "🖤",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-06T17:39:31.667Z"
+      "updatedAt": "2025-06-09T05:23:31.914Z"
     },
     "94783820043": {
       "callReject": "on",
