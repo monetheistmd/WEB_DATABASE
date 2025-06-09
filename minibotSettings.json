@@ -4420,6 +4420,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-09T04:56:15.878Z"
+    },
+    "94760544768": {
+      "callReject": "on",
+      "statusReply": "on",
+      "action": "recording",
+      "emoji": "🦄",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-09T04:58:32.649Z"
     }
   }
 }
