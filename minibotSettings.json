@@ -4429,6 +4429,15 @@
       "statusSave": "on",
       "online": "on",
       "updatedAt": "2025-06-09T06:16:03.618Z"
+    },
+    "201118433679": {
+      "callReject": "on",
+      "statusReply": "off",
+      "action": "typing",
+      "emoji": "💖",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-09T06:25:17.147Z"
     }
   }
 }
