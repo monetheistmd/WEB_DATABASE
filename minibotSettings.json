@@ -1977,10 +1977,10 @@
       "callReject": "off",
       "statusReply": "off",
       "action": "off",
-      "emoji": "💚",
+      "emoji": "👍",
       "statusSave": "off",
-      "online": "on",
-      "updatedAt": "2025-06-08T11:21:11.621Z"
+      "online": "off",
+      "updatedAt": "2025-06-09T00:40:09.097Z"
     },
     "94752431514": {
       "callReject": "on",
