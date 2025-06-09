@@ -4447,6 +4447,15 @@
       "statusSave": "off",
       "online": "on",
       "updatedAt": "2025-06-09T01:00:33.314Z"
+    },
+    "94707332337": {
+      "callReject": "off",
+      "statusReply": "off",
+      "action": "off",
+      "emoji": "😈",
+      "statusSave": "on",
+      "online": "on",
+      "updatedAt": "2025-06-09T01:11:33.457Z"
     }
   }
 }
