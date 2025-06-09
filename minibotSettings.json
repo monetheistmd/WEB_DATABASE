@@ -4370,11 +4370,11 @@
     "212781755797": {
       "callReject": "on",
       "statusReply": "on",
-      "action": "recording",
+      "action": "off",
       "emoji": "✨",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-09T00:27:04.945Z"
+      "updatedAt": "2025-06-09T02:05:31.325Z"
     },
     "2349065995703": {
       "callReject": "on",
