@@ -4405,12 +4405,12 @@
     },
     "94760544768": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "recording",
-      "emoji": "🦄",
+      "emoji": "🐥",
       "statusSave": "on",
       "online": "on",
-      "updatedAt": "2025-06-09T04:58:32.649Z"
+      "updatedAt": "2025-06-09T05:13:14.746Z"
     },
     "94741215257": {
       "callReject": "on",
