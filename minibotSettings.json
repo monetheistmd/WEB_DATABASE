@@ -3793,12 +3793,12 @@
     },
     "201122172401": {
       "callReject": "on",
-      "statusReply": "on",
+      "statusReply": "off",
       "action": "typing",
       "emoji": "🐥",
       "statusSave": "off",
       "online": "on",
-      "updatedAt": "2025-06-08T17:44:00.409Z"
+      "updatedAt": "2025-06-09T03:29:03.135Z"
     },
     "94743609942": {
       "callReject": "off",
