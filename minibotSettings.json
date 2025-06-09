@@ -4423,12 +4423,12 @@
     },
     "94766687628": {
       "callReject": "on",
-      "statusReply": "off",
+      "statusReply": "on",
       "action": "recording",
       "emoji": "👀",
-      "statusSave": "off",
+      "statusSave": "on",
       "online": "off",
-      "updatedAt": "2025-06-09T01:48:21.898Z"
+      "updatedAt": "2025-06-09T01:58:25.507Z"
     }
   }
 }
