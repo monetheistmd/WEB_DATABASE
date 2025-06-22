@@ -1,0 +1,22 @@
+{
+  "channels": [
+    {
+      "Owner": "94777839446",
+      "ChannelName": "A channel",
+      "ChannelID": "272727",
+      "ChannelLink": "www.sjsjsj",
+      "ReactType": "Random",
+      "ExpireDate": "2025/12/12",
+      "ExpireTime": "14:15:26"
+    },
+    {
+      "Owner": "94712345678",
+      "ChannelName": "B channel",
+      "ChannelID": "999888",
+      "ChannelLink": "www.examplelink.lk",
+      "ReactType": "Like",
+      "ExpireDate": "2025/11/30",
+      "ExpireTime": "10:00:00"
+    }
+  ]
+}
