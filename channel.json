@@ -1,7 +1,7 @@
 {
   "channels": [
     {
-      "Owner": "94777839446",
+      "Owner": "94777849446",
       "ChannelName": "A channel",
       "ChannelID": "272727",
       "ChannelLink": "www.sjsjsj",
@@ -10,7 +10,16 @@
       "ExpireTime": "14:15:26"
     },
     {
-      "Owner": "94712345678",
+      "Owner": "94777839446",
+      "ChannelName": "Ah channel",
+      "ChannelID": "120363402173094002@newsletter",
+      "ChannelLink": "https://whatsapp.com/channel/0029Vb6MaAICXC3HHI1him1Q",
+      "ReactType": "random",
+      "ExpireDate": "2025/06/23",
+      "ExpireTime": "03:00:30"
+    },
+    {
+      "Owner": "94712349678",
       "ChannelName": "B channel",
       "ChannelID": "999888",
       "ChannelLink": "www.examplelink.lk",
