@@ -80,8 +80,7 @@
       "ReactType": "random",
       "ExpireDate": "2025/07/25",
       "ExpireTime": "18:40:00"
-    },
-        {
+    },  {
       "Owner": "94715805666",
       "ChannelName": "ස්ටේටස් ලන්තේ ❘❘ 🩵✨",
       "ChannelID": "120363401166966351@newsletter",
@@ -89,6 +88,15 @@
       "ReactType": "random",
       "ExpireDate": "2025/07/25",
       "ExpireTime": "18:40:00"
+    },
+        {
+      "Owner": "94724552253",
+      "ChannelName": "සින්දු කාමරේ 🎧🤍",
+      "ChannelID": "120363389601794741@newsletter",
+      "ChannelLink": "https://whatsapp.com/channel/0029VayAmGA6WaKohxhOo13i",
+      "ReactType": "random",
+      "ExpireDate": "2025/07/25",
+      "ExpireTime": "19:50:00"
     }
   ]
 }
