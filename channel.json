@@ -97,6 +97,26 @@
       "ReactType": "random",
       "ExpireDate": "2025/07/25",
       "ExpireTime": "19:50:00"
-    }
+    },
+    {
+"Owner": "94720200327",
+"ChannelName": "🫟 Meme Paradise | 🌴🪇",
+"ChannelID": "120363418265161601@newsletter",
+"ChannelLink": "https://whatsapp.com/channel/0029VbAeP9f17EmvA0LWbZ33",
+"ReactType": "😂",
+"ExpireDate": "2026/07/25",
+"ExpireTime": "19:50:00"
+},
+{
+"Owner": "94720200327",
+"ChannelName": "🇰🇷 ජපන් & කොරියන් Paradise 🇯🇵",
+"ChannelID": "120363398878708976@newsletter",
+"ChannelLink": "https://whatsapp.com/channel/0029VbAkqpcHVvTYSwBwus33",
+"ReactType": "japan",
+"ExpireDate": "2026/07/25",
+"ExpireTime": "19:50:00"
+}
+
+
   ]
 }
