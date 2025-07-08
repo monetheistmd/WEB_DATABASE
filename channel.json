@@ -142,7 +142,17 @@
   "ReactType": "random",
   "ExpireDate": "2025/07/25",
   "ExpireTime": "17:12:00"
+}   ,
+    {
+  "Owner": "94728524897",
+  "ChannelName": "Feeling Hub",
+  "ChannelID": "120363182440750891@newsletter",
+  "ChannelLink": "https://whatsapp.com/channel/0029VaA5THW7T8bRHlbA8z1n",
+  "ReactType": "random",
+  "ExpireDate": "2025/08/08",
+  "ExpireTime": "17:12:00"
 }   
+
 
 
   ]
