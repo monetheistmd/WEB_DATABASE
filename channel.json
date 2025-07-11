@@ -63,7 +63,7 @@
       "ExpireDate": "2025/07/24",
       "ExpireTime": "22:57:00"
     },
-        {
+    {
       "Owner": "94777839446",
       "ChannelName": "kkkkkkkds",
       "ChannelID": "120362254875802213@newsletter",
@@ -80,7 +80,8 @@
       "ReactType": "random",
       "ExpireDate": "2025/07/25",
       "ExpireTime": "18:40:00"
-    },  {
+    },
+    {
       "Owner": "94715805666",
       "ChannelName": "ස්ටේටස් ලන්තේ ❘❘ 🩵✨",
       "ChannelID": "120363401166966351@newsletter",
@@ -89,7 +90,7 @@
       "ExpireDate": "2025/07/25",
       "ExpireTime": "18:40:00"
     },
-        {
+    {
       "Owner": "94724552253",
       "ChannelName": "සින්දු කාමරේ 🎧🤍",
       "ChannelID": "120363389601794741@newsletter",
@@ -99,70 +100,76 @@
       "ExpireTime": "19:50:00"
     },
     {
-"Owner": "94720200327",
-"ChannelName": "🫟 Meme Paradise | 🌴🪇",
-"ChannelID": "120363418265161601@newsletter",
-"ChannelLink": "https://whatsapp.com/channel/0029VbAeP9f17EmvA0LWbZ33",
-"ReactType": "funny",
-"ExpireDate": "2026/07/25",
-"ExpireTime": "19:50:00"
-},
-{
-"Owner": "94720200327",
-"ChannelName": "🇰🇷 ජපන් & කොරියන් Paradise 🇯🇵",
-"ChannelID": "120363398878708976@newsletter",
-"ChannelLink": "https://whatsapp.com/channel/0029VbAkqpcHVvTYSwBwus33",
-"ReactType": "japan",
-"ExpireDate": "2026/07/25",
-"ExpireTime": "19:50:00"
-},
-{
-"Owner": "94785698803",
-"ChannelName": "Sri Lanka Cricket Fans  🇱🇰",
-"ChannelID": "120363262307464970@newsletter",
-"ChannelLink": "https://whatsapp.com/channel/0029VaWR75d11ulU0JfVII0g",
-"ReactType": "random",
-"ExpireDate": "2025/07/29",
-"ExpireTime": "17:12:00"
-},
-   {
-  "Owner": "94741125200",
-  "ChannelName": "🪾Fantasy World🐣✨",
-  "ChannelID": "120363401257154745@newsletter",
-  "ChannelLink": "https://whatsapp.com/channel/0029VbAz8q8GzzKJTzxfBm2B",
-  "ReactType": "random",
-  "ExpireDate": "2025/07/12",
-  "ExpireTime": "17:12:00"
-} ,
- {
-  "Owner": "94763463259",
-  "ChannelName": "🫩 Athal Vitharamayi ᥫᩣ 🧚‍♀️🇱🇰",
-  "ChannelID": "120363363623969411@newsletter",
-  "ChannelLink": "https://whatsapp.com/channel/0029VavYHa53bbV4M6Lkxc19",
-  "ReactType": "random",
-  "ExpireDate": "2025/07/25",
-  "ExpireTime": "17:12:00"
-}   ,
+      "Owner": "94720200327",
+      "ChannelName": "🫟 Meme Paradise | 🌴🪇",
+      "ChannelID": "120363418265161601@newsletter",
+      "ChannelLink": "https://whatsapp.com/channel/0029VbAeP9f17EmvA0LWbZ33",
+      "ReactType": "funny",
+      "ExpireDate": "2026/07/25",
+      "ExpireTime": "19:50:00"
+    },
     {
-  "Owner": "94728524897",
-  "ChannelName": "Feeling Hub",
-  "ChannelID": "120363182440750891@newsletter",
-  "ChannelLink": "https://whatsapp.com/channel/0029VaA5THW7T8bRHlbA8z1n",
-  "ReactType": "random",
-  "ExpireDate": "2025/08/08",
-  "ExpireTime": "17:12:00"
-}   ,
-        {
-  "Owner": "94705842447",
-  "ChannelName": "Cricket Information Providers🏏💗",
-  "ChannelID": "120363405045762328@newsletter",
-  "ChannelLink": "https://whatsapp.com/channel/0029Vb1w1ueBKfhwNgv5uh1M",
-  "ReactType": "random",
-  "ExpireDate": "2025/08/09",
-  "ExpireTime": "17:12:00"
-}   
-
-
-
+      "Owner": "94720200327",
+      "ChannelName": "🇰🇷 ජපන් & කොරියන් Paradise 🇯🇵",
+      "ChannelID": "120363398878708976@newsletter",
+      "ChannelLink": "https://whatsapp.com/channel/0029VbAkqpcHVvTYSwBwus33",
+      "ReactType": "japan",
+      "ExpireDate": "2026/07/25",
+      "ExpireTime": "19:50:00"
+    },
+    {
+      "Owner": "94785698803",
+      "ChannelName": "Sri Lanka Cricket Fans  🇱🇰",
+      "ChannelID": "120363262307464970@newsletter",
+      "ChannelLink": "https://whatsapp.com/channel/0029VaWR75d11ulU0JfVII0g",
+      "ReactType": "random",
+      "ExpireDate": "2025/07/29",
+      "ExpireTime": "17:12:00"
+    },
+    {
+      "Owner": "94741125200",
+      "ChannelName": "🪾Fantasy World🐣✨",
+      "ChannelID": "120363401257154745@newsletter",
+      "ChannelLink": "https://whatsapp.com/channel/0029VbAz8q8GzzKJTzxfBm2B",
+      "ReactType": "random",
+      "ExpireDate": "2025/07/12",
+      "ExpireTime": "17:12:00"
+    },
+    {
+      "Owner": "94763463259",
+      "ChannelName": "🫩 Athal Vitharamayi ᥫᩣ 🧚‍♀️🇱🇰",
+      "ChannelID": "120363363623969411@newsletter",
+      "ChannelLink": "https://whatsapp.com/channel/0029VavYHa53bbV4M6Lkxc19",
+      "ReactType": "random",
+      "ExpireDate": "2025/07/25",
+      "ExpireTime": "17:12:00"
+    },
+    {
+      "Owner": "94728524897",
+      "ChannelName": "Feeling Hub",
+      "ChannelID": "120363182440750891@newsletter",
+      "ChannelLink": "https://whatsapp.com/channel/0029VaA5THW7T8bRHlbA8z1n",
+      "ReactType": "random",
+      "ExpireDate": "2025/08/08",
+      "ExpireTime": "17:12:00"
+    },
+    {
+      "Owner": "94705842447",
+      "ChannelName": "Cricket Information Providers🏏💗",
+      "ChannelID": "120363405045762328@newsletter",
+      "ChannelLink": "https://whatsapp.com/channel/0029Vb1w1ueBKfhwNgv5uh1M",
+      "ReactType": "random",
+      "ExpireDate": "2025/08/09",
+      "ExpireTime": "17:12:00"
+    },
+    {
+      "Owner": "94766734135",
+      "ChannelName": "\"𝗬𝗔𝗞𝗔𝗗𝗔_𝗭𝗢𝗡𝗘||❤️‍🩹🍃🇱🇰",
+      "ChannelID": "120363291544988386@newsletter",
+      "ChannelLink": "https://whatsapp.com/channel/0029VadE6lt77qVZptI5QK0G",
+      "ReactType": "random",
+      "ExpireDate": "2025/07/25",
+      "ExpireTime": "05:52:27"
+    }
   ]
 }
