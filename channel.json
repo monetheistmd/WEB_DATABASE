@@ -95,9 +95,9 @@
       "ChannelName": "සින්දු කාමරේ 🎧🤍",
       "ChannelID": "120363389601794741@newsletter",
       "ChannelLink": "https://whatsapp.com/channel/0029VayAmGA6WaKohxhOo13i",
-      "ReactType": "sticker1",
-      "ExpireDate": "2025/07/23",
-      "ExpireTime": "11:54:42"
+      "ReactType": "random",
+      "ExpireDate": "2025/08/24",
+      "ExpireTime": "18:06:38"
     },
     {
       "Owner": "94720200327",
@@ -269,15 +269,6 @@
       "ReactType": "random",
       "ExpireDate": "2025/08/01",
       "ExpireTime": "16:21:06"
-    },
-    {
-      "Owner": "94724552253",
-      "ChannelName": "Style Zone | 🇱🇰🔥",
-      "ChannelID": "120363402898337921@newsletter",
-      "ChannelLink": "https://whatsapp.com/channel/0029Vb6a5cyFi8xl4jbGRF1F",
-      "ReactType": "random",
-      "ExpireDate": "2025/08/24",
-      "ExpireTime": "18:06:12"
     }
   ]
 }
