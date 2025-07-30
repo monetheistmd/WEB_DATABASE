@@ -314,6 +314,15 @@
       "ReactType": "cute2",
       "ExpireDate": "2025/08/01",
       "ExpireTime": "17:36:29"
+    },
+    {
+      "Owner": "94777828337",
+      "ChannelName": "Hah",
+      "ChannelID": "120363420431230502@newsletter",
+      "ChannelLink": "https://whatsapp.com/channel/0029Vb6TDrA5kg79tH6jEA3e",
+      "ReactType": "random",
+      "ExpireDate": "2025/08/14",
+      "ExpireTime": "17:56:37"
     }
   ]
 }
